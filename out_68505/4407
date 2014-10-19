@@ -1,0 +1,49 @@
+{
+    "word": "service", 
+    "tag": "NNP", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "ER1", 
+        "AH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "ER1", 
+    "nuc_kind": "full", 
+    "left_nuc": "None", 
+    "right_nuc": "UH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "should", 
+    "tag": "MD", 
+    "collps_tag": "VERB", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "UH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "ER1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "be", 
+    "tag": "VB", 
+    "collps_tag": "VERB", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "IY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IY1", 
+    "nuc_kind": "full", 
+    "left_nuc": "UH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "ER1", 
+    "right_nuc_kind": "full"
+}

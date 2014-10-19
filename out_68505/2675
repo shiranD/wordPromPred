@@ -1,0 +1,683 @@
+{
+    "word": "justice", 
+    "tag": "NNP", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AH1", 
+        "AH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "None", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "stevens", 
+    "tag": "NNP", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "IY1", 
+        "AH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "IY1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "is", 
+    "tag": "VBZ", 
+    "collps_tag": "VERB", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AA1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "probably", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AA1", 
+        "AH0", 
+        "IY0"
+    ], 
+    "num_sylls": 3, 
+    "nuc": "AA1", 
+    "nuc_kind": "full", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "reduced"
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "reduced", 
+    "left_nuc": "AA1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "most", 
+    "tag": "RBS", 
+    "collps_tag": "ADV", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "reduced", 
+    "right_nuc": "AA1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "philosophical", 
+    "tag": "JJ", 
+    "collps_tag": "ADJ", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AA1", 
+        "IH2", 
+        "AH0", 
+        "IH0", 
+        "AH0"
+    ], 
+    "num_sylls": 5, 
+    "nuc": "AA1", 
+    "nuc_kind": "full", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "of", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AA1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "reduced"
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "reduced", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "dissenters", 
+    "tag": "NNS", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "EH1", 
+        "IH0", 
+        "ER0"
+    ], 
+    "num_sylls": 3, 
+    "nuc": "EH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "reduced", 
+    "right_nuc": "AW1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "about", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AW1", 
+        "AH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AW1", 
+    "nuc_kind": "full", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "his", 
+    "tag": "PRP$", 
+    "collps_tag": "PRON", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AW1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "role", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "full", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "IH0", 
+    "right_nuc_kind": "reduced"
+}{
+    "word": "in", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "IH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH0", 
+    "nuc_kind": "reduced", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AA1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "part", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AA1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AA1", 
+    "nuc_kind": "full", 
+    "left_nuc": "IH0", 
+    "left_nuc_kind": "reduced", 
+    "right_nuc": "AO1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "because", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AO1", 
+        "IH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AO1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AA1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "he", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "IY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IY1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AO1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "EY1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "may", 
+    "tag": "MD", 
+    "collps_tag": "VERB", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "EY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EY1", 
+    "nuc_kind": "full", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "be", 
+    "tag": "VB", 
+    "collps_tag": "VERB", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "IY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IY1", 
+    "nuc_kind": "full", 
+    "left_nuc": "EY1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "reduced"
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "reduced", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "least", 
+    "tag": "RBS", 
+    "collps_tag": "ADV", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "IY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IY1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "reduced", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "liberal", 
+    "tag": "JJ", 
+    "collps_tag": "ADJ", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "IH1", 
+        "ER0", 
+        "AH0"
+    ], 
+    "num_sylls": 3, 
+    "nuc": "IH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "of", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "reduced"
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "reduced", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AO1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "four", 
+    "tag": "CD", 
+    "collps_tag": "NUM", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AO1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AO1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "reduced", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "but", 
+    "tag": "CC", 
+    "collps_tag": "CONJ", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AO1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AO1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "also", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AO1", 
+        "OW0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AO1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AO1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "because", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AO1", 
+        "IH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AO1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AO1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "he", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "IY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IY1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AO1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "OY1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "enjoys", 
+    "tag": "VBZ", 
+    "collps_tag": "VERB", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "OY1", 
+        "EH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "OY1", 
+    "nuc_kind": "full", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "reduced"
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "reduced", 
+    "left_nuc": "OY1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "intellectual", 
+    "tag": "JJ", 
+    "collps_tag": "ADJ", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "EH1", 
+        "IH2", 
+        "AH0", 
+        "UW0", 
+        "AH0"
+    ], 
+    "num_sylls": 5, 
+    "nuc": "EH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "reduced", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "challenge", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AE1", 
+        "AH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AE1", 
+    "nuc_kind": "full", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "of", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AA1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "arguing", 
+    "tag": "VBG", 
+    "collps_tag": "VERB", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AA1", 
+        "UW0", 
+        "IH0"
+    ], 
+    "num_sylls": 3, 
+    "nuc": "AA1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "with", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AA1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "reduced"
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "reduced", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AO1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "majority", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AO1", 
+        "AH0", 
+        "AH0", 
+        "IY0"
+    ], 
+    "num_sylls": 4, 
+    "nuc": "AO1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "reduced", 
+    "right_nuc": "AO1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "more", 
+    "tag": "JJR", 
+    "collps_tag": "ADJ", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AO1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AO1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AO1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "than", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AO1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "reduced"
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "reduced", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "full"
+}

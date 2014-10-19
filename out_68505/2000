@@ -1,0 +1,308 @@
+{
+    "word": "by", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "full", 
+    "left_nuc": "None", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "many", 
+    "tag": "JJ", 
+    "collps_tag": "ADJ", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "EH1", 
+        "IY0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "EH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AW1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "accounts", 
+    "tag": "NNS", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AW1", 
+        "AH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AW1", 
+    "nuc_kind": "full", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "an", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AW1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "ER1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "early", 
+    "tag": "JJ", 
+    "collps_tag": "ADJ", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "ER1", 
+        "IY0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "ER1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "hint", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "ER1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "of", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "reduced"
+}{
+    "word": "a", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "reduced", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "price", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "reduced", 
+    "right_nuc": "AW1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "rout", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AW1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "IH0", 
+    "right_nuc_kind": "reduced"
+}{
+    "word": "in", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "IH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH0", 
+    "nuc_kind": "reduced", 
+    "left_nuc": "AW1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "reduced"
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "reduced", 
+    "left_nuc": "IH0", 
+    "left_nuc_kind": "reduced", 
+    "right_nuc": "EY1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "making", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "EY1", 
+        "IH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "EY1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "reduced", 
+    "right_nuc": "EY1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "came", 
+    "tag": "VBD", 
+    "collps_tag": "VERB", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "EY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EY1", 
+    "nuc_kind": "full", 
+    "left_nuc": "EY1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "at", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "full", 
+    "left_nuc": "EY1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "reduced"
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "reduced", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AA1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "start", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AA1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AA1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "reduced", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "of", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AA1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "this", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "full"
+}

@@ -1,0 +1,230 @@
+{
+    "word": "even", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "IY1", 
+        "IH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "IY1", 
+    "nuc_kind": "full", 
+    "left_nuc": "None", 
+    "right_nuc": "AO1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "more", 
+    "tag": "RBR", 
+    "collps_tag": "ADV", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AO1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AO1", 
+    "nuc_kind": "full", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AO1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "important", 
+    "tag": "JJ", 
+    "collps_tag": "ADJ", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AO1", 
+        "IH0", 
+        "AH0"
+    ], 
+    "num_sylls": 3, 
+    "nuc": "AO1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AO1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "IH0", 
+    "right_nuc_kind": "reduced"
+}{
+    "word": "in", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "IH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH0", 
+    "nuc_kind": "reduced", 
+    "left_nuc": "AO1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AW1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "our", 
+    "tag": "PRP$", 
+    "collps_tag": "PRON", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AW1", 
+        "ER0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AW1", 
+    "nuc_kind": "full", 
+    "left_nuc": "IH0", 
+    "left_nuc_kind": "reduced", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "view", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AW1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AA1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "was", 
+    "tag": "VBD", 
+    "collps_tag": "VERB", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AA1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AA1", 
+    "nuc_kind": "full", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "reduced"
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "reduced", 
+    "left_nuc": "AA1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "treasury", 
+    "tag": "NNP", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "EH1", 
+        "ER0", 
+        "IY0"
+    ], 
+    "num_sylls": 3, 
+    "nuc": "EH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "reduced", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "'s", 
+    "tag": "POS", 
+    "collps_tag": "PRT", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "EH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "threat", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "EH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "to", 
+    "tag": "TO", 
+    "collps_tag": "PRT", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "full", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "thrash", 
+    "tag": "VB", 
+    "collps_tag": "VERB", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "full", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "reduced"
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "reduced", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AA1", 
+    "right_nuc_kind": "full"
+}

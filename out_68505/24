@@ -1,0 +1,99 @@
+{
+    "word": "this", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "None", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "time", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "full", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AW1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "around", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AW1", 
+        "ER0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AW1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "EY1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "they", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "EY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EY1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AW1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "moving", 
+    "tag": "VBG", 
+    "collps_tag": "VERB", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "UW1", 
+        "IH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "UW1", 
+    "nuc_kind": "full", 
+    "left_nuc": "EY1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "even", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "IY1", 
+        "IH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "IY1", 
+    "nuc_kind": "full", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "full"
+}

@@ -1,0 +1,173 @@
+{
+    "word": "many", 
+    "tag": "JJ", 
+    "collps_tag": "ADJ", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "EH1", 
+        "IY0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "EH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "None", 
+    "right_nuc": "AO1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "also", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AO1", 
+        "OW0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AO1", 
+    "nuc_kind": "full", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "use", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AO1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "recruiting", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "UW1", 
+        "AH0", 
+        "IH0"
+    ], 
+    "num_sylls": 3, 
+    "nuc": "UW1", 
+    "nuc_kind": "full", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "bonuses", 
+    "tag": "NNS", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "OW1", 
+        "AH0", 
+        "IH0"
+    ], 
+    "num_sylls": 3, 
+    "nuc": "OW1", 
+    "nuc_kind": "full", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "tuition", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "IH1", 
+        "UW0", 
+        "AH0"
+    ], 
+    "num_sylls": 3, 
+    "nuc": "IH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "ER1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "reimbursement", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "ER1", 
+        "IY2", 
+        "IH0", 
+        "AH0"
+    ], 
+    "num_sylls": 4, 
+    "nuc": "ER1", 
+    "nuc_kind": "full", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "loan", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "full", 
+    "left_nuc": "ER1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "EY1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "repayment", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "EY1", 
+        "IY0", 
+        "AH0"
+    ], 
+    "num_sylls": 3, 
+    "nuc": "EY1", 
+    "nuc_kind": "full", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AO1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "or", 
+    "tag": "CC", 
+    "collps_tag": "CONJ", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AO1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AO1", 
+    "nuc_kind": "full", 
+    "left_nuc": "EY1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "full"
+}

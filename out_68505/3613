@@ -1,0 +1,112 @@
+{
+    "word": "one", 
+    "tag": "CD", 
+    "collps_tag": "NUM", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "None", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "month", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "three", 
+    "tag": "CD", 
+    "collps_tag": "NUM", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "IY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IY1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "months", 
+    "tag": "NNS", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "six", 
+    "tag": "CD", 
+    "collps_tag": "NUM", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "months", 
+    "tag": "NNS", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "one", 
+    "tag": "CD", 
+    "collps_tag": "NUM", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "full"
+}

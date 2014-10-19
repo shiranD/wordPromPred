@@ -1,0 +1,451 @@
+{
+    "word": "shares", 
+    "tag": "NNS", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "EH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "None", 
+    "right_nuc": "AO1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "also", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AO1", 
+        "OW0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AO1", 
+    "nuc_kind": "full", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "closed", 
+    "tag": "VBD", 
+    "collps_tag": "VERB", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AO1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AA1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "sharply", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AA1", 
+        "IY0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AA1", 
+    "nuc_kind": "full", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "lower", 
+    "tag": "JJR", 
+    "collps_tag": "ADJ", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "OW1", 
+        "ER0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "OW1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AA1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AO1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "across", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AO1", 
+        "AH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AO1", 
+    "nuc_kind": "full", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "UH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "europe", 
+    "tag": "NNP", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "UH1", 
+        "AH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "UH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AO1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "particularly", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "IH1", 
+        "AA2", 
+        "AH0", 
+        "ER0", 
+        "IY0"
+    ], 
+    "num_sylls": 5, 
+    "nuc": "IH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "UH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "IH0", 
+    "right_nuc_kind": "reduced"
+}{
+    "word": "in", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "IH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH0", 
+    "nuc_kind": "reduced", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "frankfurt", 
+    "tag": "NNP", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AE1", 
+        "ER0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AE1", 
+    "nuc_kind": "full", 
+    "left_nuc": "IH0", 
+    "left_nuc_kind": "reduced", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "although", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "OW1", 
+        "AO2"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "OW1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "london", 
+    "tag": "NNP", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AH1", 
+        "AH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "reduced"
+}{
+    "word": "and", 
+    "tag": "CC", 
+    "collps_tag": "CONJ", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "reduced", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "reduced"
+}{
+    "word": "a", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "reduced", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "reduced", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "few", 
+    "tag": "JJ", 
+    "collps_tag": "ADJ", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "reduced", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "other", 
+    "tag": "JJ", 
+    "collps_tag": "ADJ", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AH1", 
+        "ER0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AA1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "markets", 
+    "tag": "NNS", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AA1", 
+        "AH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AA1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "recovered", 
+    "tag": "VBD", 
+    "collps_tag": "VERB", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AH1", 
+        "AH0", 
+        "ER0"
+    ], 
+    "num_sylls": 3, 
+    "nuc": "AH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AA1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "some", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AW1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "ground", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AW1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "after", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AE1", 
+        "ER0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AE1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AW1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AA1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "stocks", 
+    "tag": "NNS", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AA1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AA1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "began", 
+    "tag": "VBD", 
+    "collps_tag": "VERB", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AE1", 
+        "IH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AE1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AA1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "to", 
+    "tag": "TO", 
+    "collps_tag": "PRT", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AW1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "rebound", 
+    "tag": "VB", 
+    "collps_tag": "VERB", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AW1", 
+        "IY0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AW1", 
+    "nuc_kind": "full", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "IH0", 
+    "right_nuc_kind": "reduced"
+}{
+    "word": "in", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "IH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH0", 
+    "nuc_kind": "reduced", 
+    "left_nuc": "AW1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "new", 
+    "tag": "NNP", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "full", 
+    "left_nuc": "IH0", 
+    "left_nuc_kind": "reduced", 
+    "right_nuc": "AO1", 
+    "right_nuc_kind": "full"
+}

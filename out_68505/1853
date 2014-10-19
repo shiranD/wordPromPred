@@ -1,0 +1,215 @@
+{
+    "word": "also", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AO1", 
+        "OW0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AO1", 
+    "nuc_kind": "full", 
+    "left_nuc": "None", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "persistent", 
+    "tag": "JJ", 
+    "collps_tag": "ADJ", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "IH1", 
+        "ER0", 
+        "AH0"
+    ], 
+    "num_sylls": 3, 
+    "nuc": "IH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AO1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "redemptions", 
+    "tag": "NNS", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "EH1", 
+        "IH0", 
+        "AH0"
+    ], 
+    "num_sylls": 3, 
+    "nuc": "EH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "UH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "would", 
+    "tag": "MD", 
+    "collps_tag": "VERB", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "UH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AO1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "force", 
+    "tag": "VB", 
+    "collps_tag": "VERB", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AO1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AO1", 
+    "nuc_kind": "full", 
+    "left_nuc": "UH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "some", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AO1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "fund", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "managers", 
+    "tag": "NNS", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AE1", 
+        "AH0", 
+        "ER0"
+    ], 
+    "num_sylls": 3, 
+    "nuc": "AE1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "to", 
+    "tag": "TO", 
+    "collps_tag": "PRT", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "dump", 
+    "tag": "VB", 
+    "collps_tag": "VERB", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AA1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "stocks", 
+    "tag": "NNS", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AA1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AA1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "to", 
+    "tag": "TO", 
+    "collps_tag": "PRT", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AA1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "EY1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "raise", 
+    "tag": "VB", 
+    "collps_tag": "VERB", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "EY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EY1", 
+    "nuc_kind": "full", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "full"
+}

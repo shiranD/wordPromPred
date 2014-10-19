@@ -1,0 +1,65 @@
+{
+    "word": "my", 
+    "tag": "PRP$", 
+    "collps_tag": "PRON", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "full", 
+    "left_nuc": "None", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "advice", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AY1", 
+        "AE0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AY1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "is", 
+    "tag": "VBZ", 
+    "collps_tag": "VERB", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "to", 
+    "tag": "TO", 
+    "collps_tag": "PRT", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "full", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "full"
+}

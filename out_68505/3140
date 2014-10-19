@@ -1,0 +1,117 @@
+{
+    "word": "as", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "full", 
+    "left_nuc": "None", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "people", 
+    "tag": "NNS", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "IY1", 
+        "AH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "IY1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "get", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "EH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "even", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "IY1", 
+        "IH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "IY1", 
+    "nuc_kind": "full", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "older", 
+    "tag": "JJR", 
+    "collps_tag": "ADJ", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "OW1", 
+        "ER0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "OW1", 
+    "nuc_kind": "full", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "many", 
+    "tag": "JJ", 
+    "collps_tag": "ADJ", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "EH1", 
+        "IY0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "EH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "become", 
+    "tag": "VB", 
+    "collps_tag": "VERB", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AH1", 
+        "IH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "full"
+}

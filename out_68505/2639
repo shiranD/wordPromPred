@@ -1,0 +1,167 @@
+{
+    "word": "it", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "None", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "will", 
+    "tag": "MD", 
+    "collps_tag": "VERB", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "continue", 
+    "tag": "VB", 
+    "collps_tag": "VERB", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "IH1", 
+        "AH0", 
+        "UW0"
+    ], 
+    "num_sylls": 3, 
+    "nuc": "IH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "to", 
+    "tag": "TO", 
+    "collps_tag": "PRT", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "full", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "EY1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "trade", 
+    "tag": "VB", 
+    "collps_tag": "VERB", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "EY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EY1", 
+    "nuc_kind": "full", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AA1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "on", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AA1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AA1", 
+    "nuc_kind": "full", 
+    "left_nuc": "EY1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "reduced"
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": "True", 
+    "negation": "False", 
+    "sylls": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "reduced", 
+    "left_nuc": "AA1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "international", 
+    "tag": "NNP", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AE1", 
+        "IH2", 
+        "ER0", 
+        "AH0", 
+        "AH0"
+    ], 
+    "num_sylls": 5, 
+    "nuc": "AE1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "reduced", 
+    "right_nuc": "AA1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "stock", 
+    "tag": "NNP", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AA1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AA1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "EY1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "exchange", 
+    "tag": "NNP", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "EY1", 
+        "IH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "EY1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AA1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "full"
+}

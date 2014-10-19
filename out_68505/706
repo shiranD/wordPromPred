@@ -1,0 +1,86 @@
+{
+    "word": "other", 
+    "tag": "JJ", 
+    "collps_tag": "ADJ", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AH1", 
+        "ER0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "None", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "fund", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "managers", 
+    "tag": "NNS", 
+    "collps_tag": "NOUN", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "AE1", 
+        "AH0", 
+        "ER0"
+    ], 
+    "num_sylls": 3, 
+    "nuc": "AE1", 
+    "nuc_kind": "full", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "ER0", 
+    "right_nuc_kind": "reduced"
+}{
+    "word": "were", 
+    "tag": "VBD", 
+    "collps_tag": "VERB", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "ER0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "ER0", 
+    "nuc_kind": "reduced", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "full", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "full"
+}{
+    "word": "similarly", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": "False", 
+    "negation": "False", 
+    "sylls": [
+        "IH1", 
+        "AH0", 
+        "ER0", 
+        "IY0"
+    ], 
+    "num_sylls": 4, 
+    "nuc": "IH1", 
+    "nuc_kind": "full", 
+    "left_nuc": "ER0", 
+    "left_nuc_kind": "reduced", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "full"
+}

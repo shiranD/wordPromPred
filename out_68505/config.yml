@@ -1,0 +1,5 @@
+negation: ../config/negation
+function: ../config/function
+tagger: ../config/regt3.model
+tagexe: ../config/hunpos-tag
+data: ../config/sentences_22-24_wsj.txt
