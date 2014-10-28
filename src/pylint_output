@@ -1,0 +1,138 @@
+************* Module begin4
+C:  1, 0: Missing module docstring (missing-docstring)
+R: 98, 0: Too many local variables (24/15) (too-many-locals)
+E:120,16: Using variable 'past_word' before assignment (used-before-assignment)
+W:142,12: No exception type(s) specified (bare-except)
+C:146,24: Invalid variable name "w" (invalid-name)
+W:150,24: No exception type(s) specified (bare-except)
+C:148,28: Invalid variable name "ph" (invalid-name)
+C:153,32: Invalid variable name "w" (invalid-name)
+C:154,32: Invalid variable name "ph" (invalid-name)
+W:113,37: Unused variable 'datafile' (unused-variable)
+R: 98, 0: Too many branches (13/12) (too-many-branches)
+R: 98, 0: Too many statements (69/50) (too-many-statements)
+C:196, 0: Invalid constant name "yml_path" (invalid-name)
+C:198, 4: Invalid constant name "conf" (invalid-name)
+C:201, 4: Invalid constant name "words" (invalid-name)
+C:202, 4: Invalid constant name "function" (invalid-name)
+C:206, 4: Invalid constant name "words" (invalid-name)
+C:207, 4: Invalid constant name "negation" (invalid-name)
+C:209, 0: Invalid constant name "hpt" (invalid-name)
+C:210, 0: Invalid constant name "d" (invalid-name)
+C:213, 4: Invalid constant name "f" (invalid-name)
+C:214, 4: Invalid constant name "lotteried" (invalid-name)
+C:215, 4: Invalid constant name "path" (invalid-name)
+E:223, 8: Assigning to function call which doesn't return (assignment-from-no-return)
+
+
+Report
+======
+176 statements analysed.
+
+Duplication
+-----------
+
++-------------------------+------+---------+-----------+
+|                         |now   |previous |difference |
++=========================+======+=========+===========+
+|nb duplicated lines      |0     |0        |=          |
++-------------------------+------+---------+-----------+
+|percent duplicated lines |0.000 |0.000    |=          |
++-------------------------+------+---------+-----------+
+
+
+
+Raw metrics
+-----------
+
++----------+-------+------+---------+-----------+
+|type      |number |%     |previous |difference |
++==========+=======+======+=========+===========+
+|code      |178    |87.25 |178      |=          |
++----------+-------+------+---------+-----------+
+|docstring |8      |3.92  |8        |=          |
++----------+-------+------+---------+-----------+
+|comment   |2      |0.98  |2        |=          |
++----------+-------+------+---------+-----------+
+|empty     |16     |7.84  |16       |=          |
++----------+-------+------+---------+-----------+
+
+
+
+External dependencies
+---------------------
+::
+
+    nltk 
+      \-corpus (begin4)
+      \-tag (begin4)
+        \-mapping (begin4)
+    yaml (begin4)
+
+
+
+Messages by category
+--------------------
+
++-----------+-------+---------+-----------+
+|type       |number |previous |difference |
++===========+=======+=========+===========+
+|convention |16     |16       |=          |
++-----------+-------+---------+-----------+
+|refactor   |3      |3        |=          |
++-----------+-------+---------+-----------+
+|warning    |3      |3        |=          |
++-----------+-------+---------+-----------+
+|error      |2      |2        |=          |
++-----------+-------+---------+-----------+
+
+
+
+Messages
+--------
+
++--------------------------+------------+
+|message id                |occurrences |
++==========================+============+
+|invalid-name              |15          |
++--------------------------+------------+
+|bare-except               |2           |
++--------------------------+------------+
+|used-before-assignment    |1           |
++--------------------------+------------+
+|unused-variable           |1           |
++--------------------------+------------+
+|too-many-statements       |1           |
++--------------------------+------------+
+|too-many-locals           |1           |
++--------------------------+------------+
+|too-many-branches         |1           |
++--------------------------+------------+
+|missing-docstring         |1           |
++--------------------------+------------+
+|assignment-from-no-return |1           |
++--------------------------+------------+
+
+
+
+Global evaluation
+-----------------
+Your code has been rated at 8.18/10 (previous run: 8.18/10, +0.00)
+
+Statistics by type
+------------------
+
++---------+-------+-----------+-----------+------------+---------+
+|type     |number |old number |difference |%documented |%badname |
++=========+=======+===========+===========+============+=========+
+|module   |1      |1          |=          |0.00        |0.00     |
++---------+-------+-----------+-----------+------------+---------+
+|class    |0      |0          |=          |0           |0        |
++---------+-------+-----------+-----------+------------+---------+
+|method   |0      |0          |=          |0           |0        |
++---------+-------+-----------+-----------+------------+---------+
+|function |3      |3          |=          |100.00      |0.00     |
++---------+-------+-----------+-----------+------------+---------+
+
+
+
