@@ -1,0 +1,318 @@
+from os import walk
+from xml.etree.ElementTree import  parse
+import json
+import re
+from collections import OrderedDict
+
+
+class Swbdnext(str):
+    """this class' purpose is to extract maeningful features
+    realed to prominence preditions. It extracts word, phonwords
+    dialAct, kontrast, disfluency, phrases, and accent level 
+    features"""    
+    def __init__(self, str):
+
+        self.path = str
+        try:
+            tree = parse(self.path)
+        except:
+            raise "Error"
+        self.root = tree.getroot()
+        self.filename = re.findall("sw\d+\w+.[AB].", self.path)[0]
+        self.supfolder = re.findall("(\S+/xml/)", self.path)[0]
+        self.suffix = '.xml'
+        self.trace = 0  # location of file chunck, phonewords
+        self.traceDia = 0  # location of file chunck, dialAct
+        self.tracekont = 0  # location of file chunck, kontrast
+        self.traceDisf = 0  # location of file chunck, disfluency
+        self.tracephrase = 0  # location of file chunck,phrases
+        self.traceacc = 0  # location of file chunck, accents
+
+    def terminals(self):
+        """extract terminals info; word, tag, timings, swbd id"""
+
+        jason = "../processed_swbd/" + self.filename
+        with open(str(jason), 'a') as jasonfile:  # open json file
+
+            for child in self.root:
+                self.current_word = []
+                if child.tag == "word":
+                    word_d = child.attrib
+                    self.current_word.append(("word", word_d["orth"]))
+                    self.current_word.append(("tag", word_d["pos"]))
+                    self.current_word.append(
+                        ("start", word_d["{http://nite.sourceforge.net/}start"]))
+                    self.current_word.append(
+                        ("end", word_d["{http://nite.sourceforge.net/}end"]))
+                    self.current_word.append(
+                        ("id", word_d["{http://nite.sourceforge.net/}id"]))
+                    self.word_id = word_d["{http://nite.sourceforge.net/}id"]
+                    self.dialAct()  # extract dialAct
+                    self.kontrast()  # extract kontrast
+                    # self.disfluency() # extract disfluency
+                    # self.syntax() # extract syntax
+                    try:
+                        for child2 in child:
+                            # refer to phonwords and copy final_word to jason
+                            self.phonwords(child2.attrib["href"])
+                            json.dump(
+                                OrderedDict(self.current_word), jasonfile, indent=4)
+                    except:
+                        # no children
+                        json.dump(
+                            OrderedDict(self.current_word), jasonfile, indent=4)
+
+                elif child.tag == "sil":
+                    pass
+
+    def phonwords(self, subpath=""):
+        """extract phonwords info; subword, syll stresses, num of sylls"""
+
+        if subpath:  # not the highest in hirarchy
+            if self.trace == 0:
+                full_sub = self.supfolder + "phonwords/" + \
+                    subpath.split('#')[0]  # detect file
+                tree = parse(full_sub)
+                self.phonwords_root = tree.getroot()
+
+            # detect phonwords id
+            ids = re.findall("\((\w+)\)", subpath.split('#id')[1])
+            if len(ids) > 1:
+                match = re.findall("\d+", ' '.join(ids))
+                if int(match[3]) - int(match[1]) > 1:
+                    ids = self.scrollit(ids)  # make refs explicit
+
+            flag = 0  # removable
+            for val in ids:
+                for (i, child) in enumerate(self.phonwords_root[self.trace:self.trace + 50]):
+                    d_phonword = child.attrib
+                    if d_phonword["{http://nite.sourceforge.net/}id"] == val:
+                        flag = 1
+                        self.phrases(val)
+                        self.accents(val)
+                        self.current_word.append(
+                            ("subword", d_phonword["orth"]))
+                        try:
+                            # if info on stress found
+                            d_phonword["stressProfile"]
+                            self.current_word.append(
+                                ("stressProfile", d_phonword["stressProfile"]))
+                            self.current_word.append(
+                                ("num_sylls", len(d_phonword["stressProfile"])))
+                            break
+                        except:
+                            # not found in syll xml as well
+                            self.current_word.append(
+                                ("stressProfile", "unknown"))
+                            self.current_word.append(("num_sylls", "unknown"))
+                            break
+
+            self.trace += i
+            if not flag:
+                print "not found"
+
+        elif self.path:  # the highest in hirarchy
+            self.phonwords_root = self.root
+            # TBD if needed
+        else:
+            raise 'Error'  # something is wrong
+
+    def dialAct(self):
+        """extract dialAct info; nite_type"""
+
+        if self.traceDia == 0:  # set path
+            dialAct_path = self.supfolder + "dialAct/" + \
+                self.filename + "dialAct" + self.suffix
+            tree = parse(dialAct_path)
+            self.dialAct_root = tree.getroot()
+
+        flag = 0
+        for (i, child) in enumerate(self.dialAct_root[self.traceDia:self.traceDia + 50]):
+            d_dialAct0 = child.attrib
+            for child2 in child:
+                d_dialAct = child2.attrib  # match the word id with child id
+                if d_dialAct["href"].rstrip(')').split('(')[1] == self.word_id:
+                    flag = 1
+                    self.current_word.append(
+                        ("dialAct:niteType", d_dialAct0["niteType"]))
+                    break
+            if flag:
+                break
+        if i is not 49:
+            self.traceDia += i
+        if i == 49:
+            print "not found"
+
+    def kontrast(self):
+        """extract kontrast info; type, level"""
+
+        if self.tracekont == 0:  # set path
+            kontrast_path = self.supfolder + "kontrast/" + \
+                self.filename[:-2] + "kontrast" + self.suffix
+            try:  # not available for all data
+                tree = parse(kontrast_path)
+                self.kontrast_root = tree.getroot()
+            except:
+                return
+        if self.kontrast_root:  # tree was extracted
+            flag = 0
+            for (i, child) in enumerate(self.kontrast_root[self.tracekont:self.tracekont + 50]):
+                d_kontrast0 = child.attrib
+                for child2 in child:
+                    # match the word id with child id
+                    d_kontrast = child2.attrib
+                    if d_kontrast["href"].rstrip(')').split('(')[1] == self.word_id:
+                        flag = 1
+                        self.current_word.append(
+                            ("kontrast:level", d_kontrast0["level"]))
+                        self.current_word.append(
+                            ("kontrast:type", d_kontrast0["type"]))
+                        break
+                if flag:
+                    break
+            if i is not 49:
+                self.tracekont += i
+            if i == 49:  # don't progress tracer since not found in file
+                print "not found"
+
+    def disfluency(self):
+        """extract disfluency info; nite_type. TBD is flattening the info
+        would reflect the data? what if not flattening?"""
+
+        if self.traceDisf == 0:  # set path
+            disfluency_path = self.supfolder + "disfluency/" + \
+                self.filename + "disfluency" + self.suffix
+            tree = parse(disfluency_path)
+            self.disfluency_root = tree.getroot()
+        if self.word_id == "s2_21":
+            print "hs"
+
+        flag = 0
+        for (i, child) in enumerate(self.disfluency_root[self.traceDisf:self.traceDisf + 50]):
+            for child2 in child:
+                d_disfluency = child2.attrib  # match the word id with child id
+                for child3 in child2:
+                    d_disfluency0 = child3.attrib
+                    if d_disfluency0["href"].rstrip(')').split('(')[1] == self.word_id:
+                        flag = 1
+                        self.current_word.append(
+                            ("dialAct:niteType", d_disfluency0["niteType"]))
+                        break
+                if flag:
+                    break
+            if flag:
+                break
+        if i is not 49:
+            self.traceDisf += i
+        if i == 49:
+            print "not found"
+
+    def scrollit(self, idx):
+        """explicity list all reference: e.g. 2 reference pointers
+        of idx = ['ms44B_pw99', 'ms44B_pw102'] will be converted
+        to idx =['ms44B_pw99', 'ms44B_pw100', 'ms44B_pw101', 'ms44B_pw102']"""
+
+        match = re.findall("\d+", ' '.join(idx))
+        gap = int(match[3]) - int(match[1])
+        digit = len(match[1])
+        subid = [idx[0]]
+        for (i, val) in enumerate(xrange(gap - 1)):
+            added_value = str(int(i + 1 + int(idx[0][-digit:])))
+            if len(added_value) > digit:
+                subid.append(idx[1][:-(digit + 1)] + added_value)
+            else:
+                subid.append(idx[1][:-(digit)] + added_value)
+        subid.append(idx[1])
+        idx = subid
+        return idx
+
+    def phrases(self, phonword_id):
+        """extract phrases info; type"""
+
+        if self.tracephrase == 0:  # set path
+            phrase_path = self.supfolder + "phrase/" + \
+                self.filename + "phrases" + self.suffix
+            try:  # not available for all data
+                tree = parse(phrase_path)
+                self.phrase_root = tree.getroot()
+            except:
+                return
+        if self.phrase_root:  # was open already
+            flag = 0
+            for (i, child) in enumerate(self.phrase_root[self.tracephrase:self.tracephrase + 50]):
+                d_phrase0 = child.attrib
+                for child2 in child:
+                    d_phrase = child2.attrib  # match the word id with child id
+                    # detect phonwords id
+                    ids = re.findall("\((\w+)\)", d_phrase["href"])
+                    if len(ids) > 1:
+                        match = re.findall("\d+", ' '.join(ids))
+                        if int(match[3]) - int(match[1]) > 1:
+                            ids = self.scrollit(ids)  # make refs explicit
+                    for val in ids:
+                        if val == phonword_id:
+                            flag = 1
+                            self.current_word.append(
+                                ("phrases:type", d_phrase0["type"]))
+                            break
+                    if flag:
+                        break
+                if flag:
+                    break
+
+            if i is not 49:
+                self.tracephrase += i
+            if i == 49:
+                print "not found"
+
+    def accents(self, phonword_id):
+        """extract accents info; strength, type"""
+
+        if self.traceacc == 0:  # set path
+            accents_path = self.supfolder + "accent/" + \
+                self.filename + "accents" + self.suffix
+            try:  # not available for all data
+                tree = parse(accents_path)
+                self.accent_root = tree.getroot()
+            except:
+                return
+        if self.accent_root:
+            if phonword_id == 'ms14A_pw99':
+                print "h"
+            flag = 0
+            for (i, child) in enumerate(self.accent_root[self.traceacc:self.traceacc + 50]):
+                d_accent0 = child.attrib
+                for child2 in child:
+                    d_accent = child2.attrib  # match the word id with child id
+                    # detect phonwords id
+                    ids = re.findall("\((\w+)\)", d_accent["href"])
+                    if len(ids) > 1:  # less common to be as part of a sequence
+                        match = re.findall("\d+", ' '.join(ids))
+                        if int(match[3]) - int(match[1]) > 1:
+                            ids = self.scrollit(ids)  # make refs explicit
+                    for val in ids:
+                        if val == phonword_id:
+                            flag = 1
+                            self.current_word.append(
+                                ("accents:type", d_accent0["type"]))
+                            self.current_word.append(
+                                ("accents:strength", d_accent0["strength"]))
+                            break
+                    if flag:
+                        break
+                if flag:
+                    break
+
+            if i is not 49:
+                self.traceacc += i
+            if i == 49:
+                print "not found"
+
+mypath = '../../swbd_next/nxt/xml/terminals/'  # path to swbd terminals
+f = []
+for (dirpath, dirnames, filenames) in walk(mypath):
+    f.extend(filenames)
+    break
+#filenames = ["sw2018.A.terminals.xml"]
+for filename in filenames:
+    Swbdnext(mypath + filename).terminals()
