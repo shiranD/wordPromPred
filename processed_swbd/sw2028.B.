@@ -1,0 +1,7716 @@
+{
+    "word": "Weather-wise", 
+    "tag": "RB", 
+    "start": "6.434500", 
+    "end": "7.044500", 
+    "id": "s3_1", 
+    "dialAct:niteType": "yn_q", 
+    "subword": "{weatherwise}", 
+    "stressProfile": "unknown", 
+    "num_sylls": "unknown"
+}{
+    "word": "or", 
+    "tag": "CC", 
+    "start": "7.044500", 
+    "end": "7.164500", 
+    "id": "s3_3", 
+    "dialAct:niteType": "yn_q", 
+    "subword": "or", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "otherwise", 
+    "tag": "RB", 
+    "start": "7.164500", 
+    "end": "7.777000", 
+    "id": "s3_4", 
+    "dialAct:niteType": "yn_q", 
+    "subword": "otherwise", 
+    "stressProfile": "pns", 
+    "num_sylls": 3
+}{
+    "word": "Weather-wise", 
+    "tag": "RB", 
+    "start": "8.370125", 
+    "end": "9.166125", 
+    "id": "s5_1", 
+    "dialAct:niteType": "repeat", 
+    "subword": "{weatherwise}", 
+    "stressProfile": "unknown", 
+    "num_sylls": "unknown"
+}{
+    "word": "Damp", 
+    "tag": "JJ", 
+    "start": "10.585875", 
+    "end": "11.035875", 
+    "id": "s6_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "damp", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "cold", 
+    "tag": "JJ", 
+    "start": "11.911250", 
+    "end": "12.528625", 
+    "id": "s6_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "cold", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "warm", 
+    "tag": "JJ", 
+    "start": "13.318000", 
+    "end": "13.885125", 
+    "id": "s6_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "warm", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "We", 
+    "tag": "PRP", 
+    "start": "16.675875", 
+    "end": "16.795875", 
+    "id": "s9_2", 
+    "dialAct:niteType": "statement", 
+    "subword": "we", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "have", 
+    "tag": "VBP", 
+    "start": "16.795875", 
+    "end": "16.980500", 
+    "id": "s9_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "have", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "we", 
+    "tag": "PRP", 
+    "start": "17.162625", 
+    "end": "17.335875", 
+    "id": "s9_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "we", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "have", 
+    "tag": "VBP", 
+    "start": "17.335875", 
+    "end": "17.505875", 
+    "id": "s9_7", 
+    "dialAct:niteType": "statement", 
+    "subword": "have", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "gone", 
+    "tag": "VBN", 
+    "start": "17.505875", 
+    "end": "17.795875", 
+    "id": "s9_9", 
+    "dialAct:niteType": "statement", 
+    "subword": "gone", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "through", 
+    "tag": "IN", 
+    "start": "17.795875", 
+    "end": "18.331500", 
+    "id": "s9_10", 
+    "dialAct:niteType": "statement", 
+    "subword": "through", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "what", 
+    "tag": "WP", 
+    "start": "18.956625", 
+    "end": "19.125875", 
+    "id": "s9_12", 
+    "dialAct:niteType": "statement", 
+    "subword": "what", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "might", 
+    "tag": "MD", 
+    "start": "19.125875", 
+    "end": "19.335875", 
+    "id": "s9_14", 
+    "dialAct:niteType": "statement", 
+    "subword": "might", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "be", 
+    "tag": "VB", 
+    "start": "19.335875", 
+    "end": "19.435875", 
+    "id": "s9_15", 
+    "dialAct:niteType": "statement", 
+    "subword": "be", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "called", 
+    "tag": "VBN", 
+    "start": "19.435875", 
+    "end": "19.755875", 
+    "id": "s9_16", 
+    "dialAct:niteType": "statement", 
+    "subword": "called", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "start": "19.755875", 
+    "end": "19.815875", 
+    "id": "s9_18", 
+    "dialAct:niteType": "statement", 
+    "subword": "the", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "four", 
+    "tag": "CD", 
+    "start": "19.815875", 
+    "end": "20.155875", 
+    "id": "s9_19", 
+    "dialAct:niteType": "statement", 
+    "subword": "four", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "seasons", 
+    "tag": "NNS", 
+    "start": "20.155875", 
+    "end": "20.914750", 
+    "id": "s9_20", 
+    "dialAct:niteType": "statement", 
+    "subword": "seasons", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "21.103000", 
+    "end": "21.325875", 
+    "id": "s9_22", 
+    "dialAct:niteType": "statement", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "in", 
+    "tag": "IN", 
+    "start": "21.325875", 
+    "end": "21.555875", 
+    "id": "s9_24", 
+    "dialAct:niteType": "statement", 
+    "subword": "in", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "start": "21.555875", 
+    "end": "21.665875", 
+    "id": "s9_25", 
+    "dialAct:niteType": "statement", 
+    "subword": "the", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "last", 
+    "tag": "JJ", 
+    "start": "21.665875", 
+    "end": "22.115875", 
+    "id": "s9_26", 
+    "dialAct:niteType": "statement", 
+    "subword": "last", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "week", 
+    "tag": "NN", 
+    "start": "22.115875", 
+    "end": "22.455625", 
+    "id": "s9_27", 
+    "dialAct:niteType": "statement", 
+    "subword": "week", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "We", 
+    "tag": "PRP", 
+    "start": "23.405750", 
+    "end": "23.495750", 
+    "id": "s11_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "we", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "have", 
+    "tag": "VBP", 
+    "start": "23.495750", 
+    "end": "23.655750", 
+    "id": "s11_2", 
+    "dialAct:niteType": "statement", 
+    "subword": "have", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "had", 
+    "tag": "VBN", 
+    "start": "23.655750", 
+    "end": "24.317125", 
+    "id": "s11_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "had", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "highs", 
+    "tag": "NNS", 
+    "start": "24.760375", 
+    "end": "25.348000", 
+    "id": "s11_4", 
+    "dialAct:niteType": "statement", 
+    "subword": "highs", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "of", 
+    "tag": "IN", 
+    "start": "25.348000", 
+    "end": "25.975125", 
+    "id": "s11_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "of", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "seventy-two", 
+    "tag": "CD", 
+    "start": "26.106875", 
+    "end": "27.139500", 
+    "id": "s11_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "two", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "lows", 
+    "tag": "NNS", 
+    "start": "28.411875", 
+    "end": "28.791875", 
+    "id": "s11_8", 
+    "dialAct:niteType": "statement", 
+    "subword": "lows", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "in", 
+    "tag": "IN", 
+    "start": "28.791875", 
+    "end": "28.918500", 
+    "id": "s11_9", 
+    "dialAct:niteType": "statement", 
+    "subword": "in", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "start": "28.918500", 
+    "end": "29.001375", 
+    "id": "s11_10", 
+    "dialAct:niteType": "statement", 
+    "subword": "the", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "twenties", 
+    "tag": "NNS", 
+    "start": "29.001375", 
+    "end": "29.551875", 
+    "id": "s11_11", 
+    "dialAct:niteType": "statement", 
+    "subword": "twenties", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "37.665625", 
+    "end": "37.863875", 
+    "id": "s15_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "heard", 
+    "tag": "VBD", 
+    "start": "37.863875", 
+    "end": "38.109250", 
+    "id": "s15_2", 
+    "dialAct:niteType": "statement", 
+    "subword": "heard", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "about", 
+    "tag": "IN", 
+    "start": "38.109250", 
+    "end": "38.455625", 
+    "id": "s15_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "about", 
+    "stressProfile": "np", 
+    "num_sylls": 2
+}{
+    "word": "that", 
+    "tag": "DT", 
+    "start": "38.455625", 
+    "end": "38.677000", 
+    "id": "s15_4", 
+    "dialAct:niteType": "statement", 
+    "subword": "th[at]-", 
+    "stressProfile": "unknown", 
+    "num_sylls": "unknown"
+}{
+    "word": "Um", 
+    "tag": "UH", 
+    "start": "53.716875", 
+    "end": "54.026875", 
+    "id": "s21_1", 
+    "dialAct:niteType": "uninterp", 
+    "subword": "hm", 
+    "stressProfile": "unknown", 
+    "num_sylls": "unknown"
+}{
+    "word": "Uh-huh", 
+    "tag": "UH", 
+    "start": "77.283875", 
+    "end": "77.683875", 
+    "id": "s33_1", 
+    "dialAct:niteType": "backchannel", 
+    "subword": "um-hum", 
+    "stressProfile": "unknown", 
+    "num_sylls": "unknown"
+}{
+    "word": "The", 
+    "tag": "DT", 
+    "start": "91.387125", 
+    "end": "91.498125", 
+    "id": "s36_1", 
+    "dialAct:niteType": "sum", 
+    "subword": "the", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "blue", 
+    "tag": "JJ", 
+    "start": "91.498125", 
+    "end": "91.870500", 
+    "id": "s36_2", 
+    "dialAct:niteType": "sum", 
+    "subword": "blue", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "flu", 
+    "tag": "NN", 
+    "start": "91.870500", 
+    "end": "92.353250", 
+    "id": "s36_3", 
+    "dialAct:niteType": "sum", 
+    "subword": "flu", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "yeah", 
+    "tag": "UH", 
+    "start": "92.814250", 
+    "end": "93.373500", 
+    "id": "s38_1", 
+    "dialAct:niteType": "backchannel", 
+    "subword": "yeah", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "start": "94.435125", 
+    "end": "94.525125", 
+    "id": "s39_1", 
+    "dialAct:niteType": "sum", 
+    "subword": "the", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "blue", 
+    "tag": "JJ", 
+    "start": "94.525125", 
+    "end": "94.845125", 
+    "id": "s39_2", 
+    "dialAct:niteType": "sum", 
+    "subword": "blue", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "flu", 
+    "tag": "NN", 
+    "start": "94.845125", 
+    "end": "95.319875", 
+    "id": "s39_3", 
+    "dialAct:niteType": "sum", 
+    "subword": "flu", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "or", 
+    "tag": "CC", 
+    "start": "95.854750", 
+    "end": "95.955125", 
+    "id": "s39_5", 
+    "dialAct:niteType": "sum", 
+    "subword": "or", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "start": "95.955125", 
+    "end": "96.015125", 
+    "id": "s39_6", 
+    "dialAct:niteType": "sum", 
+    "subword": "the", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "white", 
+    "tag": "JJ", 
+    "start": "96.015125", 
+    "end": "96.295125", 
+    "id": "s39_7", 
+    "dialAct:niteType": "sum", 
+    "subword": "white", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "collar", 
+    "tag": "NN", 
+    "start": "96.295125", 
+    "end": "96.575125", 
+    "id": "s39_8", 
+    "dialAct:niteType": "sum", 
+    "subword": "collar", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "flu", 
+    "tag": "NN", 
+    "start": "96.575125", 
+    "end": "96.885125", 
+    "id": "s39_9", 
+    "dialAct:niteType": "sum", 
+    "subword": "flu", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "depending", 
+    "tag": "VBG", 
+    "start": "96.885125", 
+    "end": "97.255125", 
+    "id": "s39_11", 
+    "dialAct:niteType": "sum", 
+    "subword": "depending", 
+    "stressProfile": "npn", 
+    "num_sylls": 3
+}{
+    "word": "on", 
+    "tag": "IN", 
+    "start": "97.255125", 
+    "end": "97.521875", 
+    "id": "s39_12", 
+    "dialAct:niteType": "sum", 
+    "subword": "on", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "where", 
+    "tag": "WRB", 
+    "start": "98.205125", 
+    "end": "98.315125", 
+    "id": "s39_13", 
+    "dialAct:niteType": "sum", 
+    "subword": "where", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "you", 
+    "tag": "PRP", 
+    "start": "98.315125", 
+    "end": "98.405125", 
+    "id": "s39_14", 
+    "dialAct:niteType": "sum", 
+    "subword": "you", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "work", 
+    "tag": "VBP", 
+    "start": "98.405125", 
+    "end": "98.665125", 
+    "id": "s39_15", 
+    "dialAct:niteType": "sum", 
+    "subword": "work", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "98.665125", 
+    "end": "98.805125", 
+    "id": "s39_18", 
+    "dialAct:niteType": "sum", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "guess", 
+    "tag": "VBP", 
+    "start": "98.805125", 
+    "end": "99.105125", 
+    "id": "s39_19", 
+    "dialAct:niteType": "sum", 
+    "subword": "guess", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "Oh", 
+    "tag": "UH", 
+    "start": "100.240000", 
+    "end": "100.362125", 
+    "id": "s41_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "oh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "we", 
+    "tag": "PRP", 
+    "start": "100.362125", 
+    "end": "100.440500", 
+    "id": "s41_4", 
+    "dialAct:niteType": "statement", 
+    "subword": "we", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "have", 
+    "tag": "VBP", 
+    "start": "100.440500", 
+    "end": "100.540000", 
+    "id": "s41_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "have", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "had", 
+    "tag": "VBN", 
+    "start": "100.540000", 
+    "end": "100.926375", 
+    "id": "s41_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "had", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "101.001625", 
+    "end": "101.430000", 
+    "id": "s41_9", 
+    "dialAct:niteType": "statement", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "as", 
+    "tag": "IN", 
+    "start": "101.430000", 
+    "end": "101.530000", 
+    "id": "s41_11", 
+    "dialAct:niteType": "statement", 
+    "subword": "as", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "101.530000", 
+    "end": "n/a", 
+    "id": "s41_12", 
+    "dialAct:niteType": "statement", 
+    "subword": "i've", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "'ve", 
+    "tag": "VBP", 
+    "start": "n/a", 
+    "end": "101.650000", 
+    "id": "s41_13", 
+    "dialAct:niteType": "statement", 
+    "subword": "i've", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "said", 
+    "tag": "VBN", 
+    "start": "101.650000", 
+    "end": "101.830000", 
+    "id": "s41_14", 
+    "dialAct:niteType": "statement", 
+    "subword": "said", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "we", 
+    "tag": "PRP", 
+    "start": "101.830000", 
+    "end": "n/a", 
+    "id": "s41_16", 
+    "dialAct:niteType": "statement", 
+    "subword": "we've", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "have", 
+    "tag": "VBP", 
+    "start": "n/a", 
+    "end": "101.950000", 
+    "id": "s41_17", 
+    "dialAct:niteType": "statement", 
+    "subword": "we've", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "had", 
+    "tag": "VBN", 
+    "start": "101.950000", 
+    "end": "102.180000", 
+    "id": "s41_18", 
+    "dialAct:niteType": "statement", 
+    "subword": "had", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "variable", 
+    "tag": "JJ", 
+    "start": "102.180000", 
+    "end": "102.690000", 
+    "id": "s41_20", 
+    "dialAct:niteType": "statement", 
+    "subword": "variable", 
+    "stressProfile": "pnnn", 
+    "num_sylls": 4
+}{
+    "word": "weather", 
+    "tag": "NN", 
+    "start": "102.690000", 
+    "end": "103.000000", 
+    "id": "s41_21", 
+    "dialAct:niteType": "statement", 
+    "subword": "weather", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "Uh", 
+    "tag": "UH", 
+    "start": "103.381500", 
+    "end": "104.060000", 
+    "id": "s41_23", 
+    "dialAct:niteType": "statement", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "It", 
+    "tag": "PRP", 
+    "start": "105.428375", 
+    "end": "105.568375", 
+    "id": "s43_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "it", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "has", 
+    "tag": "VBZ", 
+    "start": "105.568375", 
+    "end": "105.878375", 
+    "id": "s43_2", 
+    "dialAct:niteType": "statement", 
+    "subword": "has", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "been", 
+    "tag": "VBN", 
+    "start": "105.878375", 
+    "end": "106.368375", 
+    "id": "s43_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "been", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "untypically", 
+    "tag": "RB", 
+    "start": "108.121375", 
+    "end": "109.037500", 
+    "id": "s43_4", 
+    "dialAct:niteType": "statement", 
+    "subword": "untypically", 
+    "stressProfile": "unknown", 
+    "num_sylls": "unknown"
+}{
+    "word": "wet", 
+    "tag": "JJ", 
+    "start": "109.384000", 
+    "end": "109.965250", 
+    "id": "s43_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "wet", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "for", 
+    "tag": "IN", 
+    "start": "110.368250", 
+    "end": "111.068625", 
+    "id": "s43_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "for", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "this", 
+    "tag": "DT", 
+    "start": "111.415125", 
+    "end": "111.625000", 
+    "id": "s43_7", 
+    "dialAct:niteType": "statement", 
+    "subword": "this", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "time", 
+    "tag": "NN", 
+    "start": "111.625000", 
+    "end": "111.901375", 
+    "id": "s43_8", 
+    "dialAct:niteType": "statement", 
+    "subword": "time", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "of", 
+    "tag": "IN", 
+    "start": "111.901375", 
+    "end": "112.021375", 
+    "id": "s43_9", 
+    "dialAct:niteType": "statement", 
+    "subword": "of", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "year", 
+    "tag": "NN", 
+    "start": "112.021375", 
+    "end": "112.351375", 
+    "id": "s43_10", 
+    "dialAct:niteType": "statement", 
+    "subword": "year", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "and", 
+    "tag": "CC", 
+    "start": "113.279000", 
+    "end": "113.449000", 
+    "id": "s45_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "and", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "also", 
+    "tag": "RB", 
+    "start": "113.449000", 
+    "end": "114.169875", 
+    "id": "s45_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "also", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "we", 
+    "tag": "PRP", 
+    "start": "114.652000", 
+    "end": "114.837250", 
+    "id": "s45_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "we", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "have", 
+    "tag": "VBP", 
+    "start": "114.837250", 
+    "end": "115.323125", 
+    "id": "s45_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "have", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "a", 
+    "tag": "DT", 
+    "start": "115.323125", 
+    "end": "115.419000", 
+    "id": "s45_7", 
+    "dialAct:niteType": "statement", 
+    "subword": "a", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "lot", 
+    "tag": "NN", 
+    "start": "115.419000", 
+    "end": "115.689000", 
+    "id": "s45_8", 
+    "dialAct:niteType": "statement", 
+    "subword": "lot", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "of", 
+    "tag": "IN", 
+    "start": "115.689000", 
+    "end": "116.066375", 
+    "id": "s45_9", 
+    "dialAct:niteType": "statement", 
+    "subword": "of", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "green", 
+    "tag": "NN", 
+    "start": "117.095875", 
+    "end": "117.753500", 
+    "id": "s45_10", 
+    "dialAct:niteType": "statement", 
+    "subword": "green", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "you", 
+    "tag": "PRP", 
+    "start": "118.382750", 
+    "end": "118.553125", 
+    "id": "s45_12", 
+    "dialAct:niteType": "statement", 
+    "subword": "you", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "know", 
+    "tag": "VBP", 
+    "start": "118.553125", 
+    "end": "118.651000", 
+    "id": "s45_13", 
+    "dialAct:niteType": "statement", 
+    "subword": "know", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "start": "118.651000", 
+    "end": "118.728250", 
+    "id": "s46_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "the", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "grass", 
+    "tag": "NN", 
+    "start": "118.728250", 
+    "end": "119.005875", 
+    "id": "s46_2", 
+    "dialAct:niteType": "statement", 
+    "subword": "grass", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "has", 
+    "tag": "VBZ", 
+    "start": "119.005875", 
+    "end": "119.145875", 
+    "id": "s46_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "has", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "been", 
+    "tag": "VBN", 
+    "start": "119.145875", 
+    "end": "119.345875", 
+    "id": "s46_4", 
+    "dialAct:niteType": "statement", 
+    "subword": "been", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "growing", 
+    "tag": "VBG", 
+    "start": "119.345875", 
+    "end": "119.795875", 
+    "id": "s46_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "growing", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "and", 
+    "tag": "CC", 
+    "start": "119.795875", 
+    "end": "120.445875", 
+    "id": "s47_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "and", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "if", 
+    "tag": "IN", 
+    "start": "121.877625", 
+    "end": "122.004000", 
+    "id": "s47_2", 
+    "dialAct:niteType": "statement", 
+    "subword": "if", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "you", 
+    "tag": "PRP", 
+    "start": "122.004000", 
+    "end": "122.134000", 
+    "id": "s47_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "you", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "look", 
+    "tag": "VBP", 
+    "start": "122.134000", 
+    "end": "122.304000", 
+    "id": "s47_4", 
+    "dialAct:niteType": "statement", 
+    "subword": "look", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "outside", 
+    "tag": "RB", 
+    "start": "122.304000", 
+    "end": "122.924000", 
+    "id": "s47_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "outside", 
+    "stressProfile": "pp", 
+    "num_sylls": 2
+}{
+    "word": "you", 
+    "tag": "PRP", 
+    "start": "122.924000", 
+    "end": "123.344000", 
+    "id": "s47_7", 
+    "dialAct:niteType": "statement", 
+    "subword": "you", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "would", 
+    "tag": "MD", 
+    "start": "124.303250", 
+    "end": "124.463250", 
+    "id": "s47_8", 
+    "dialAct:niteType": "statement", 
+    "subword": "would", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "like", 
+    "tag": "VB", 
+    "start": "124.463250", 
+    "end": "124.633250", 
+    "id": "s47_9", 
+    "dialAct:niteType": "statement", 
+    "subword": "like", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "to", 
+    "tag": "TO", 
+    "start": "124.633250", 
+    "end": "124.733250", 
+    "id": "s47_11", 
+    "dialAct:niteType": "statement", 
+    "subword": "to", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "go", 
+    "tag": "VB", 
+    "start": "124.733250", 
+    "end": "124.853250", 
+    "id": "s47_12", 
+    "dialAct:niteType": "statement", 
+    "subword": "go", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "out", 
+    "tag": "RB", 
+    "start": "124.853250", 
+    "end": "124.963250", 
+    "id": "s47_13", 
+    "dialAct:niteType": "statement", 
+    "subword": "out", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "and", 
+    "tag": "CC", 
+    "start": "124.963250", 
+    "end": "125.203250", 
+    "id": "s47_14", 
+    "dialAct:niteType": "statement", 
+    "subword": "and", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "mow", 
+    "tag": "VB", 
+    "start": "125.203250", 
+    "end": "125.383250", 
+    "id": "s47_15", 
+    "dialAct:niteType": "statement", 
+    "subword": "mow", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "your", 
+    "tag": "PRP$", 
+    "start": "125.383250", 
+    "end": "125.523250", 
+    "id": "s47_16", 
+    "dialAct:niteType": "statement", 
+    "subword": "your", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "lawn", 
+    "tag": "NN", 
+    "start": "125.523250", 
+    "end": "126.144375", 
+    "id": "s47_17", 
+    "dialAct:niteType": "statement", 
+    "subword": "lawn", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "if", 
+    "tag": "IN", 
+    "start": "126.517250", 
+    "end": "126.943250", 
+    "id": "s47_19", 
+    "dialAct:niteType": "statement", 
+    "subword": "if", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "you", 
+    "tag": "PRP", 
+    "start": "126.943250", 
+    "end": "127.093250", 
+    "id": "s47_20", 
+    "dialAct:niteType": "statement", 
+    "subword": "you", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "could", 
+    "tag": "MD", 
+    "start": "127.093250", 
+    "end": "127.373250", 
+    "id": "s47_21", 
+    "dialAct:niteType": "statement", 
+    "subword": "could", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "go", 
+    "tag": "VB", 
+    "start": "127.373250", 
+    "end": "127.573250", 
+    "id": "s47_22", 
+    "dialAct:niteType": "statement", 
+    "subword": "go", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "out", 
+    "tag": "RB", 
+    "start": "127.573250", 
+    "end": "127.753250", 
+    "id": "s47_23", 
+    "dialAct:niteType": "statement", 
+    "subword": "out", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "and", 
+    "tag": "CC", 
+    "start": "127.753250", 
+    "end": "128.093250", 
+    "id": "s47_24", 
+    "dialAct:niteType": "statement", 
+    "subword": "and", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "buy", 
+    "tag": "VB", 
+    "start": "128.884875", 
+    "end": "129.144875", 
+    "id": "s47_25", 
+    "dialAct:niteType": "statement", 
+    "subword": "buy", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "a", 
+    "tag": "DT", 
+    "start": "129.144875", 
+    "end": "129.184875", 
+    "id": "s47_26", 
+    "dialAct:niteType": "statement", 
+    "subword": "a", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "new", 
+    "tag": "JJ", 
+    "start": "129.184875", 
+    "end": "129.324875", 
+    "id": "s47_27", 
+    "dialAct:niteType": "statement", 
+    "subword": "new", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "spark", 
+    "tag": "NN", 
+    "start": "129.324875", 
+    "end": "129.704875", 
+    "id": "s47_28", 
+    "dialAct:niteType": "statement", 
+    "subword": "spark", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "plug", 
+    "tag": "NN", 
+    "start": "129.704875", 
+    "end": "130.064875", 
+    "id": "s47_29", 
+    "dialAct:niteType": "statement", 
+    "subword": "plug", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "or", 
+    "tag": "CC", 
+    "start": "130.064875", 
+    "end": "130.402750", 
+    "id": "s47_31", 
+    "dialAct:niteType": "statement", 
+    "subword": "or", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "something", 
+    "tag": "NN", 
+    "start": "130.534625", 
+    "end": "130.914875", 
+    "id": "s47_32", 
+    "dialAct:niteType": "statement", 
+    "subword": "something", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "along", 
+    "tag": "IN", 
+    "start": "130.914875", 
+    "end": "131.164875", 
+    "id": "s47_33", 
+    "dialAct:niteType": "statement", 
+    "subword": "along", 
+    "stressProfile": "np", 
+    "num_sylls": 2
+}{
+    "word": "those", 
+    "tag": "DT", 
+    "start": "131.164875", 
+    "end": "131.354875", 
+    "id": "s47_34", 
+    "dialAct:niteType": "statement", 
+    "subword": "those", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "lines", 
+    "tag": "NNS", 
+    "start": "131.354875", 
+    "end": "131.604875", 
+    "id": "s47_35", 
+    "dialAct:niteType": "statement", 
+    "subword": "lines", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "but", 
+    "tag": "CC", 
+    "start": "131.604875", 
+    "end": "131.704875", 
+    "id": "s49_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "but", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "fortunately", 
+    "tag": "RB", 
+    "start": "131.704875", 
+    "end": "132.234875", 
+    "id": "s49_2", 
+    "dialAct:niteType": "statement", 
+    "subword": "fortunately", 
+    "stressProfile": "pnnn", 
+    "num_sylls": 4
+}{
+    "word": "it", 
+    "tag": "PRP", 
+    "start": "132.234875", 
+    "end": "132.394875", 
+    "id": "s49_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "it", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "rains", 
+    "tag": "VBZ", 
+    "start": "132.394875", 
+    "end": "132.814875", 
+    "id": "s49_4", 
+    "dialAct:niteType": "statement", 
+    "subword": "rains", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "and", 
+    "tag": "CC", 
+    "start": "132.814875", 
+    "end": "132.954875", 
+    "id": "s50_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "and", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "you", 
+    "tag": "PRP", 
+    "start": "132.954875", 
+    "end": "133.214875", 
+    "id": "s50_2", 
+    "dialAct:niteType": "statement", 
+    "subword": "you", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "133.214875", 
+    "end": "133.518500", 
+    "id": "s50_4", 
+    "dialAct:niteType": "statement", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "do", 
+    "tag": "VBP", 
+    "start": "134.545750", 
+    "end": "134.675750", 
+    "id": "s50_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "do", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "not", 
+    "tag": "RB", 
+    "start": "134.675750", 
+    "end": "134.895750", 
+    "id": "s50_7", 
+    "dialAct:niteType": "statement", 
+    "subword": "not", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "have", 
+    "tag": "VB", 
+    "start": "134.895750", 
+    "end": "135.125750", 
+    "id": "s50_8", 
+    "dialAct:niteType": "statement", 
+    "subword": "have", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "to", 
+    "tag": "TO", 
+    "start": "135.125750", 
+    "end": "135.475375", 
+    "id": "s50_10", 
+    "dialAct:niteType": "statement", 
+    "subword": "to", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "go", 
+    "tag": "VB", 
+    "start": "136.549500", 
+    "end": "136.869500", 
+    "id": "s50_11", 
+    "dialAct:niteType": "statement", 
+    "subword": "go", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "out", 
+    "tag": "RB", 
+    "start": "136.869500", 
+    "end": "136.969500", 
+    "id": "s50_12", 
+    "dialAct:niteType": "statement", 
+    "subword": "out", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "and", 
+    "tag": "CC", 
+    "start": "136.969500", 
+    "end": "137.069500", 
+    "id": "s50_13", 
+    "dialAct:niteType": "statement", 
+    "subword": "and", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "buy", 
+    "tag": "VB", 
+    "start": "137.069500", 
+    "end": "137.239500", 
+    "id": "s50_14", 
+    "dialAct:niteType": "statement", 
+    "subword": "buy", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "start": "137.239500", 
+    "end": "137.309500", 
+    "id": "s50_15", 
+    "dialAct:niteType": "statement", 
+    "subword": "the", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "spark", 
+    "tag": "NN", 
+    "start": "137.309500", 
+    "end": "137.629500", 
+    "id": "s50_16", 
+    "dialAct:niteType": "statement", 
+    "subword": "spark", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "plug", 
+    "tag": "NN", 
+    "start": "137.629500", 
+    "end": "137.984000", 
+    "id": "s50_17", 
+    "dialAct:niteType": "statement", 
+    "subword": "plug", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "you", 
+    "tag": "PRP", 
+    "start": "138.515125", 
+    "end": "138.888750", 
+    "id": "s50_19", 
+    "dialAct:niteType": "statement", 
+    "subword": "no", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "But", 
+    "tag": "CC", 
+    "start": "139.581750", 
+    "end": "139.669500", 
+    "id": "s52_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "but", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "we", 
+    "tag": "PRP", 
+    "start": "139.669500", 
+    "end": "n/a", 
+    "id": "s52_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "we've", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "'ve", 
+    "tag": "VBP", 
+    "start": "n/a", 
+    "end": "139.799500", 
+    "id": "s52_4", 
+    "dialAct:niteType": "statement", 
+    "subword": "we've", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "had", 
+    "tag": "VBN", 
+    "start": "139.799500", 
+    "end": "139.959500", 
+    "id": "s52_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "had", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "an", 
+    "tag": "DT", 
+    "start": "139.959500", 
+    "end": "140.049500", 
+    "id": "s52_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "an", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "unusually", 
+    "tag": "RB", 
+    "start": "140.049500", 
+    "end": "140.699500", 
+    "id": "s52_7", 
+    "dialAct:niteType": "statement", 
+    "subword": "unusually", 
+    "stressProfile": "npnn", 
+    "num_sylls": 4
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "140.699500", 
+    "end": "141.015625", 
+    "id": "s52_9", 
+    "dialAct:niteType": "statement", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "141.403500", 
+    "end": "142.022875", 
+    "id": "s52_11", 
+    "dialAct:niteType": "statement", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "warm", 
+    "tag": "JJ", 
+    "start": "142.022875", 
+    "end": "142.614500", 
+    "id": "s52_13", 
+    "dialAct:niteType": "statement", 
+    "subword": "warm", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "spring", 
+    "tag": "NN", 
+    "start": "144.552750", 
+    "end": "145.051750", 
+    "id": "s52_14", 
+    "dialAct:niteType": "statement", 
+    "subword": "spring", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "and", 
+    "tag": "CC", 
+    "start": "145.176125", 
+    "end": "145.462750", 
+    "id": "s53_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "and", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "well", 
+    "tag": "UH", 
+    "start": "145.462750", 
+    "end": "145.662750", 
+    "id": "s53_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "well", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "145.662750", 
+    "end": "145.722750", 
+    "id": "s53_4", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "guess", 
+    "tag": "VBP", 
+    "start": "145.722750", 
+    "end": "145.922750", 
+    "id": "s53_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "guess", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "we", 
+    "tag": "PRP", 
+    "start": "145.922750", 
+    "end": "n/a", 
+    "id": "s53_7", 
+    "dialAct:niteType": "statement", 
+    "subword": "we're", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "'re", 
+    "tag": "VBP", 
+    "start": "n/a", 
+    "end": "146.012750", 
+    "id": "s53_8", 
+    "dialAct:niteType": "statement", 
+    "subword": "we're", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "still", 
+    "tag": "RB", 
+    "start": "146.012750", 
+    "end": "146.272750", 
+    "id": "s53_9", 
+    "dialAct:niteType": "statement", 
+    "subword": "still", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "in", 
+    "tag": "IN", 
+    "start": "146.272750", 
+    "end": "146.432750", 
+    "id": "s53_10", 
+    "dialAct:niteType": "statement", 
+    "subword": "in", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "winter", 
+    "tag": "NN", 
+    "start": "146.432750", 
+    "end": "146.772750", 
+    "id": "s53_11", 
+    "dialAct:niteType": "statement", 
+    "subword": "winter", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "and", 
+    "tag": "CC", 
+    "start": "147.028875", 
+    "end": "147.409875", 
+    "id": "s54_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "and", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "147.409875", 
+    "end": "147.708750", 
+    "id": "s54_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "we", 
+    "tag": "PRP", 
+    "start": "148.806750", 
+    "end": "148.886750", 
+    "id": "s54_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "we", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "have", 
+    "tag": "VBP", 
+    "start": "148.886750", 
+    "end": "148.996750", 
+    "id": "s54_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "have", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "had", 
+    "tag": "VBN", 
+    "start": "148.996750", 
+    "end": "149.206750", 
+    "id": "s54_7", 
+    "dialAct:niteType": "statement", 
+    "subword": "had", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "no", 
+    "tag": "DT", 
+    "start": "149.206750", 
+    "end": "149.416750", 
+    "id": "s54_8", 
+    "dialAct:niteType": "statement", 
+    "subword": "no", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "snow", 
+    "tag": "NN", 
+    "start": "149.416750", 
+    "end": "149.936750", 
+    "id": "s54_9", 
+    "dialAct:niteType": "statement", 
+    "subword": "snow", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "To", 
+    "tag": "TO", 
+    "start": "150.896500", 
+    "end": "151.236500", 
+    "id": "s57_4", 
+    "dialAct:niteType": "statement", 
+    "subword": "to", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "speak", 
+    "tag": "VB", 
+    "start": "151.236500", 
+    "end": "151.536500", 
+    "id": "s57_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "speak", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "of", 
+    "tag": "IN", 
+    "start": "151.536500", 
+    "end": "151.826500", 
+    "id": "s57_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "of", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "to", 
+    "tag": "TO", 
+    "start": "151.826500", 
+    "end": "151.976500", 
+    "id": "s57_9", 
+    "dialAct:niteType": "statement", 
+    "subword": "to", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "speak", 
+    "tag": "VB", 
+    "start": "151.976500", 
+    "end": "152.236500", 
+    "id": "s57_10", 
+    "dialAct:niteType": "statement", 
+    "subword": "speak", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "of", 
+    "tag": "IN", 
+    "start": "152.236500", 
+    "end": "152.551250", 
+    "id": "s57_11", 
+    "dialAct:niteType": "statement", 
+    "subword": "of", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "We", 
+    "tag": "PRP", 
+    "start": "153.646875", 
+    "end": "153.746875", 
+    "id": "s59_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "we", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "usually", 
+    "tag": "RB", 
+    "start": "153.746875", 
+    "end": "154.366875", 
+    "id": "s59_2", 
+    "dialAct:niteType": "statement", 
+    "subword": "usually", 
+    "stressProfile": "pnn", 
+    "num_sylls": 3
+}{
+    "word": "average", 
+    "tag": "VBP", 
+    "start": "154.366875", 
+    "end": "154.896875", 
+    "id": "s59_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "average", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "oh", 
+    "tag": "UH", 
+    "start": "154.896875", 
+    "end": "155.136875", 
+    "id": "s59_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "oh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "anywhere", 
+    "tag": "RB", 
+    "start": "155.136875", 
+    "end": "155.446875", 
+    "id": "s59_7", 
+    "dialAct:niteType": "statement", 
+    "subword": "anywhere", 
+    "stressProfile": "pns", 
+    "num_sylls": 3
+}{
+    "word": "from", 
+    "tag": "IN", 
+    "start": "155.446875", 
+    "end": "155.726875", 
+    "id": "s59_8", 
+    "dialAct:niteType": "statement", 
+    "subword": "from", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "six", 
+    "tag": "CD", 
+    "start": "155.726875", 
+    "end": "155.996875", 
+    "id": "s59_9", 
+    "dialAct:niteType": "statement", 
+    "subword": "six", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "to", 
+    "tag": "IN", 
+    "start": "155.996875", 
+    "end": "156.116875", 
+    "id": "s59_10", 
+    "dialAct:niteType": "statement", 
+    "subword": "to", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "twelve", 
+    "tag": "CD", 
+    "start": "156.116875", 
+    "end": "156.436875", 
+    "id": "s59_11", 
+    "dialAct:niteType": "statement", 
+    "subword": "twelve", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "inches", 
+    "tag": "NNS", 
+    "start": "156.436875", 
+    "end": "156.786875", 
+    "id": "s59_12", 
+    "dialAct:niteType": "statement", 
+    "subword": "inches", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "during", 
+    "tag": "IN", 
+    "start": "156.786875", 
+    "end": "157.026875", 
+    "id": "s59_13", 
+    "dialAct:niteType": "statement", 
+    "subword": "during", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "start": "157.026875", 
+    "end": "157.086875", 
+    "id": "s59_14", 
+    "dialAct:niteType": "statement", 
+    "subword": "the", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "winter", 
+    "tag": "NN", 
+    "start": "157.086875", 
+    "end": "157.426875", 
+    "id": "s59_15", 
+    "dialAct:niteType": "statement", 
+    "subword": "winter", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "and", 
+    "tag": "CC", 
+    "start": "157.426875", 
+    "end": "157.756875", 
+    "id": "s60_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "and", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "this", 
+    "tag": "DT", 
+    "start": "158.841375", 
+    "end": "159.051375", 
+    "id": "s60_2", 
+    "dialAct:niteType": "statement", 
+    "subword": "this", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "year", 
+    "tag": "NN", 
+    "start": "159.051375", 
+    "end": "159.271375", 
+    "id": "s60_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "year", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "as", 
+    "tag": "RB", 
+    "start": "159.271375", 
+    "end": "159.371375", 
+    "id": "s60_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "as", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "well", 
+    "tag": "RB", 
+    "start": "159.371375", 
+    "end": "159.561375", 
+    "id": "s60_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "well", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "as", 
+    "tag": "IN", 
+    "start": "159.561375", 
+    "end": "159.671375", 
+    "id": "s60_7", 
+    "dialAct:niteType": "statement", 
+    "subword": "as", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "last", 
+    "tag": "JJ", 
+    "start": "159.671375", 
+    "end": "160.031375", 
+    "id": "s60_8", 
+    "dialAct:niteType": "statement", 
+    "subword": "last", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "year", 
+    "tag": "NN", 
+    "start": "160.031375", 
+    "end": "160.221375", 
+    "id": "s60_9", 
+    "dialAct:niteType": "statement", 
+    "subword": "year", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "we", 
+    "tag": "PRP", 
+    "start": "160.221375", 
+    "end": "160.461375", 
+    "id": "s60_11", 
+    "dialAct:niteType": "statement", 
+    "subword": "we", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "have", 
+    "tag": "VBP", 
+    "start": "160.461375", 
+    "end": "160.851375", 
+    "id": "s60_12", 
+    "dialAct:niteType": "statement", 
+    "subword": "have", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "had", 
+    "tag": "VBN", 
+    "start": "160.851375", 
+    "end": "161.831375", 
+    "id": "s60_13", 
+    "dialAct:niteType": "statement", 
+    "subword": "had", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "less", 
+    "tag": "RBR", 
+    "start": "161.831375", 
+    "end": "162.111375", 
+    "id": "s60_14", 
+    "dialAct:niteType": "statement", 
+    "subword": "less", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "than", 
+    "tag": "IN", 
+    "start": "162.111375", 
+    "end": "162.981375", 
+    "id": "s60_15", 
+    "dialAct:niteType": "statement", 
+    "subword": "than", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "four", 
+    "tag": "CD", 
+    "start": "162.981375", 
+    "end": "163.351375", 
+    "id": "s60_16", 
+    "dialAct:niteType": "statement", 
+    "subword": "four", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "inches", 
+    "tag": "NNS", 
+    "start": "163.351375", 
+    "end": "163.681375", 
+    "id": "s60_17", 
+    "dialAct:niteType": "statement", 
+    "subword": "inches", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "total", 
+    "tag": "JJ", 
+    "start": "163.681375", 
+    "end": "164.021375", 
+    "id": "s60_18", 
+    "dialAct:niteType": "statement", 
+    "subword": "total", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "accumulation", 
+    "tag": "NN", 
+    "start": "164.021375", 
+    "end": "164.821375", 
+    "id": "s60_19", 
+    "dialAct:niteType": "statement", 
+    "subword": "accumulation", 
+    "stressProfile": "nsnpn", 
+    "num_sylls": 5
+}{
+    "word": "So", 
+    "tag": "RB", 
+    "start": "166.114500", 
+    "end": "166.556250", 
+    "id": "s62_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "so", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "it", 
+    "tag": "PRP", 
+    "start": "167.222750", 
+    "end": "n/a", 
+    "id": "s62_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "it's", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "'s", 
+    "tag": "HVS", 
+    "start": "n/a", 
+    "end": "167.369250", 
+    "id": "s62_4", 
+    "dialAct:niteType": "statement", 
+    "subword": "it's", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "been", 
+    "tag": "VBN", 
+    "start": "167.369250", 
+    "end": "167.509250", 
+    "id": "s62_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "been", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "inordinately", 
+    "tag": "RB", 
+    "start": "167.509250", 
+    "end": "168.089250", 
+    "id": "s62_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "inordinately", 
+    "stressProfile": "spnnn", 
+    "num_sylls": 5
+}{
+    "word": "warm", 
+    "tag": "JJ", 
+    "start": "168.089250", 
+    "end": "168.588500", 
+    "id": "s62_7", 
+    "dialAct:niteType": "statement", 
+    "subword": "warm", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "169.169375", 
+    "end": "169.591250", 
+    "id": "s62_9", 
+    "dialAct:niteType": "statement", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "here", 
+    "tag": "RB", 
+    "start": "169.591250", 
+    "end": "169.919625", 
+    "id": "s62_11", 
+    "dialAct:niteType": "statement", 
+    "subword": "here", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "for", 
+    "tag": "IN", 
+    "start": "170.059000", 
+    "end": "170.449250", 
+    "id": "s62_14", 
+    "dialAct:niteType": "statement", 
+    "subword": "for", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "170.449250", 
+    "end": "170.879250", 
+    "id": "s62_17", 
+    "dialAct:niteType": "statement", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "for", 
+    "tag": "IN", 
+    "start": "170.879250", 
+    "end": "170.979250", 
+    "id": "s62_19", 
+    "dialAct:niteType": "statement", 
+    "subword": "for", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "this", 
+    "tag": "DT", 
+    "start": "170.979250", 
+    "end": "171.139250", 
+    "id": "s62_21", 
+    "dialAct:niteType": "statement", 
+    "subword": "this", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "time", 
+    "tag": "NN", 
+    "start": "171.139250", 
+    "end": "171.369250", 
+    "id": "s62_22", 
+    "dialAct:niteType": "statement", 
+    "subword": "time", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "of", 
+    "tag": "IN", 
+    "start": "171.369250", 
+    "end": "171.509250", 
+    "id": "s62_23", 
+    "dialAct:niteType": "statement", 
+    "subword": "of", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "year", 
+    "tag": "NN", 
+    "start": "171.509250", 
+    "end": "171.767375", 
+    "id": "s62_24", 
+    "dialAct:niteType": "statement", 
+    "subword": "year", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "So", 
+    "tag": "RB", 
+    "start": "172.832375", 
+    "end": "173.122375", 
+    "id": "s64_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "so", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "173.122375", 
+    "end": "173.328000", 
+    "id": "s64_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "in", 
+    "tag": "IN", 
+    "start": "173.414625", 
+    "end": "173.582375", 
+    "id": "s64_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "in", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "that", 
+    "tag": "DT", 
+    "start": "173.582375", 
+    "end": "173.772375", 
+    "id": "s64_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "that", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "regard", 
+    "tag": "NN", 
+    "start": "173.772375", 
+    "end": "174.082375", 
+    "id": "s64_7", 
+    "dialAct:niteType": "statement", 
+    "subword": "regard", 
+    "stressProfile": "np", 
+    "num_sylls": 2
+}{
+    "word": "it", 
+    "tag": "PRP", 
+    "start": "174.082375", 
+    "end": "n/a", 
+    "id": "s64_9", 
+    "dialAct:niteType": "statement", 
+    "subword": "it's", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "'s", 
+    "tag": "BES", 
+    "start": "n/a", 
+    "end": "174.462375", 
+    "id": "s64_10", 
+    "dialAct:niteType": "statement", 
+    "subword": "it's", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "fine", 
+    "tag": "JJ", 
+    "start": "174.622375", 
+    "end": "175.089125", 
+    "id": "s64_11", 
+    "dialAct:niteType": "statement", 
+    "subword": "fine", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "but", 
+    "tag": "CC", 
+    "start": "175.318875", 
+    "end": "175.605125", 
+    "id": "s65_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "but", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "175.605125", 
+    "end": "175.993125", 
+    "id": "s65_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "177.192875", 
+    "end": "177.361125", 
+    "id": "s65_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "envy", 
+    "tag": "VBP", 
+    "start": "177.361125", 
+    "end": "177.622875", 
+    "id": "s65_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "envy", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "you", 
+    "tag": "PRP", 
+    "start": "177.622875", 
+    "end": "177.772875", 
+    "id": "s65_7", 
+    "dialAct:niteType": "statement", 
+    "subword": "you", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "your", 
+    "tag": "PRP$", 
+    "start": "177.772875", 
+    "end": "177.872875", 
+    "id": "s65_8", 
+    "dialAct:niteType": "statement", 
+    "subword": "you're", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "ninety-four", 
+    "tag": "CD", 
+    "start": "177.872875", 
+    "end": "177.932875", 
+    "id": "s65_9", 
+    "dialAct:niteType": "statement", 
+    "subword": "at", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "degrees", 
+    "tag": "NNS", 
+    "start": "178.372875", 
+    "end": "178.632875", 
+    "id": "s65_10", 
+    "dialAct:niteType": "statement", 
+    "subword": "degrees", 
+    "stressProfile": "np", 
+    "num_sylls": 2
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "178.632875", 
+    "end": "178.732875", 
+    "id": "s67_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "thought", 
+    "tag": "VBD", 
+    "start": "178.732875", 
+    "end": "178.992875", 
+    "id": "s67_2", 
+    "dialAct:niteType": "statement", 
+    "subword": "thought", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "178.992875", 
+    "end": "179.092875", 
+    "id": "s67_4", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "heard", 
+    "tag": "VBD", 
+    "start": "179.092875", 
+    "end": "179.392875", 
+    "id": "s67_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "heard", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "this", 
+    "tag": "DT", 
+    "start": "179.392875", 
+    "end": "179.622875", 
+    "id": "s67_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "this", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "morning", 
+    "tag": "NN", 
+    "start": "179.622875", 
+    "end": "180.052875", 
+    "id": "s67_7", 
+    "dialAct:niteType": "statement", 
+    "subword": "morning", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "that", 
+    "tag": "IN", 
+    "start": "180.052875", 
+    "end": "180.212875", 
+    "id": "s67_8", 
+    "dialAct:niteType": "statement", 
+    "subword": "that", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "in", 
+    "tag": "IN", 
+    "start": "180.212875", 
+    "end": "180.342875", 
+    "id": "s67_9", 
+    "dialAct:niteType": "statement", 
+    "subword": "in", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "San", 
+    "tag": "NNP", 
+    "start": "180.342875", 
+    "end": "180.642875", 
+    "id": "s67_10", 
+    "dialAct:niteType": "statement", 
+    "subword": "San", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "Antonio", 
+    "tag": "NNP", 
+    "start": "180.642875", 
+    "end": "181.452875", 
+    "id": "s67_11", 
+    "dialAct:niteType": "statement", 
+    "subword": "Antonio", 
+    "stressProfile": "npnn", 
+    "num_sylls": 4
+}{
+    "word": "it", 
+    "tag": "PRP", 
+    "start": "181.452875", 
+    "end": "181.572875", 
+    "id": "s67_12", 
+    "dialAct:niteType": "statement", 
+    "subword": "it", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "was", 
+    "tag": "VBD", 
+    "start": "181.572875", 
+    "end": "181.912875", 
+    "id": "s67_13", 
+    "dialAct:niteType": "statement", 
+    "subword": "was", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "in", 
+    "tag": "IN", 
+    "start": "181.912875", 
+    "end": "182.112875", 
+    "id": "s67_14", 
+    "dialAct:niteType": "statement", 
+    "subword": "in", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "start": "182.112875", 
+    "end": "182.192875", 
+    "id": "s67_15", 
+    "dialAct:niteType": "statement", 
+    "subword": "the", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "nineties", 
+    "tag": "NNS", 
+    "start": "182.192875", 
+    "end": "182.702875", 
+    "id": "s67_16", 
+    "dialAct:niteType": "statement", 
+    "subword": "nineties", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "yesterday", 
+    "tag": "RB", 
+    "start": "182.702875", 
+    "end": "183.350125", 
+    "id": "s67_17", 
+    "dialAct:niteType": "statement", 
+    "subword": "yesterday", 
+    "stressProfile": "pns", 
+    "num_sylls": 3
+}{
+    "word": "Yeah", 
+    "tag": "UH", 
+    "start": "194.783000", 
+    "end": "194.986375", 
+    "id": "s73_1", 
+    "dialAct:niteType": "backchannel", 
+    "subword": "yeah", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "Uh-huh", 
+    "tag": "UH", 
+    "start": "215.834375", 
+    "end": "216.227625", 
+    "id": "s80_1", 
+    "dialAct:niteType": "backchannel", 
+    "subword": "um-hum", 
+    "stressProfile": "unknown", 
+    "num_sylls": "unknown"
+}{
+    "word": "Well", 
+    "tag": "UH", 
+    "start": "216.836250", 
+    "end": "216.940500", 
+    "id": "s81_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "well", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "216.940500", 
+    "end": "217.034750", 
+    "id": "s81_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "spent", 
+    "tag": "VBD", 
+    "start": "217.034750", 
+    "end": "217.432500", 
+    "id": "s81_4", 
+    "dialAct:niteType": "statement", 
+    "subword": "spent", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "six", 
+    "tag": "CD", 
+    "start": "217.432500", 
+    "end": "217.762500", 
+    "id": "s81_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "six", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "years", 
+    "tag": "NNS", 
+    "start": "217.762500", 
+    "end": "218.242500", 
+    "id": "s81_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "years", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "in", 
+    "tag": "IN", 
+    "start": "218.242500", 
+    "end": "218.392500", 
+    "id": "s81_7", 
+    "dialAct:niteType": "statement", 
+    "subword": "in", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "graduate", 
+    "tag": "JJ", 
+    "start": "218.392500", 
+    "end": "218.782500", 
+    "id": "s81_8", 
+    "dialAct:niteType": "statement", 
+    "subword": "graduate", 
+    "stressProfile": "pns", 
+    "num_sylls": 3
+}{
+    "word": "school", 
+    "tag": "NN", 
+    "start": "218.782500", 
+    "end": "219.132500", 
+    "id": "s81_9", 
+    "dialAct:niteType": "statement", 
+    "subword": "school", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "at", 
+    "tag": "IN", 
+    "start": "219.132500", 
+    "end": "219.292500", 
+    "id": "s81_11", 
+    "dialAct:niteType": "statement", 
+    "subword": "at", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "in", 
+    "tag": "IN", 
+    "start": "219.432500", 
+    "end": "219.542500", 
+    "id": "s81_14", 
+    "dialAct:niteType": "statement", 
+    "subword": "in", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "Indiana", 
+    "tag": "NNP", 
+    "start": "219.542500", 
+    "end": "220.122500", 
+    "id": "s81_16", 
+    "dialAct:niteType": "statement", 
+    "subword": "Indiana", 
+    "stressProfile": "snpn", 
+    "num_sylls": 4
+}{
+    "word": "In", 
+    "tag": "IN", 
+    "start": "221.515000", 
+    "end": "221.665000", 
+    "id": "s81_18", 
+    "dialAct:niteType": "statement", 
+    "subword": "in", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "start": "221.665000", 
+    "end": "221.725000", 
+    "id": "s81_19", 
+    "dialAct:niteType": "statement", 
+    "subword": "the", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "flatlands", 
+    "tag": "NNS", 
+    "start": "221.725000", 
+    "end": "222.575000", 
+    "id": "s81_20", 
+    "dialAct:niteType": "statement", 
+    "subword": "flatlands", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "and", 
+    "tag": "CC", 
+    "start": "223.155000", 
+    "end": "223.625000", 
+    "id": "s82_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "and", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "it", 
+    "tag": "PRP", 
+    "start": "223.625000", 
+    "end": "223.765000", 
+    "id": "s82_2", 
+    "dialAct:niteType": "statement", 
+    "subword": "it", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "was", 
+    "tag": "VBD", 
+    "start": "223.835000", 
+    "end": "223.995000", 
+    "id": "s82_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "was", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "that", 
+    "tag": "DT", 
+    "start": "223.995000", 
+    "end": "224.185000", 
+    "id": "s82_4", 
+    "dialAct:niteType": "statement", 
+    "subword": "that", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "way", 
+    "tag": "NN", 
+    "start": "224.185000", 
+    "end": "224.345000", 
+    "id": "s82_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "way", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "every", 
+    "tag": "DT", 
+    "start": "224.345000", 
+    "end": "n/a", 
+    "id": "s82_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "everyday", 
+    "stressProfile": "pnn", 
+    "num_sylls": 3
+}{
+    "word": "day", 
+    "tag": "NN", 
+    "start": "n/a", 
+    "end": "224.855000", 
+    "id": "s82_7", 
+    "dialAct:niteType": "statement", 
+    "subword": "everyday", 
+    "stressProfile": "pnn", 
+    "num_sylls": 3
+}{
+    "word": "Rarely", 
+    "tag": "RB", 
+    "start": "225.826500", 
+    "end": "226.306500", 
+    "id": "s84_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "rarely", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "a", 
+    "tag": "DT", 
+    "start": "226.306500", 
+    "end": "226.356500", 
+    "id": "s84_2", 
+    "dialAct:niteType": "statement", 
+    "subword": "a", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "day", 
+    "tag": "NN", 
+    "start": "226.356500", 
+    "end": "226.586500", 
+    "id": "s84_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "day", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "went", 
+    "tag": "VBD", 
+    "start": "226.586500", 
+    "end": "226.816500", 
+    "id": "s84_4", 
+    "dialAct:niteType": "statement", 
+    "subword": "went", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "by", 
+    "tag": "RB", 
+    "start": "226.816500", 
+    "end": "227.206500", 
+    "id": "s84_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "by", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "when", 
+    "tag": "WRB", 
+    "start": "227.206500", 
+    "end": "227.366500", 
+    "id": "s84_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "when", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "start": "227.366500", 
+    "end": "227.426500", 
+    "id": "s84_7", 
+    "dialAct:niteType": "statement", 
+    "subword": "the", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "wind", 
+    "tag": "NN", 
+    "start": "227.426500", 
+    "end": "227.776500", 
+    "id": "s84_8", 
+    "dialAct:niteType": "statement", 
+    "subword": "wind", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "was", 
+    "tag": "VBD", 
+    "start": "227.776500", 
+    "end": "228.160875", 
+    "id": "s84_9", 
+    "dialAct:niteType": "statement", 
+    "subword": "was", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "less", 
+    "tag": "JJR", 
+    "start": "228.304000", 
+    "end": "228.686500", 
+    "id": "s84_10", 
+    "dialAct:niteType": "statement", 
+    "subword": "less", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "than", 
+    "tag": "IN", 
+    "start": "228.686500", 
+    "end": "229.136500", 
+    "id": "s84_11", 
+    "dialAct:niteType": "statement", 
+    "subword": "than", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "fifteen", 
+    "tag": "CD", 
+    "start": "230.002375", 
+    "end": "230.442375", 
+    "id": "s84_12", 
+    "dialAct:niteType": "statement", 
+    "subword": "fifteen", 
+    "stressProfile": "sp", 
+    "num_sylls": 2
+}{
+    "word": "or", 
+    "tag": "CC", 
+    "start": "230.442375", 
+    "end": "230.502375", 
+    "id": "s84_13", 
+    "dialAct:niteType": "statement", 
+    "subword": "or", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "twenty", 
+    "tag": "CD", 
+    "start": "230.502375", 
+    "end": "230.802375", 
+    "id": "s84_14", 
+    "dialAct:niteType": "statement", 
+    "subword": "twenty", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "miles", 
+    "tag": "NNS", 
+    "start": "230.802375", 
+    "end": "231.172375", 
+    "id": "s84_15", 
+    "dialAct:niteType": "statement", 
+    "subword": "miles", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "an", 
+    "tag": "DT", 
+    "start": "231.172375", 
+    "end": "231.262375", 
+    "id": "s84_16", 
+    "dialAct:niteType": "statement", 
+    "subword": "an", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "hour", 
+    "tag": "NN", 
+    "start": "231.262375", 
+    "end": "231.592375", 
+    "id": "s84_17", 
+    "dialAct:niteType": "statement", 
+    "subword": "hour", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "Summer", 
+    "tag": "NN", 
+    "start": "232.441000", 
+    "end": "233.011625", 
+    "id": "s84_20", 
+    "dialAct:niteType": "statement", 
+    "subword": "summer", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "and", 
+    "tag": "CC", 
+    "start": "233.661000", 
+    "end": "233.981000", 
+    "id": "s84_21", 
+    "dialAct:niteType": "statement", 
+    "subword": "and", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "winter", 
+    "tag": "NN", 
+    "start": "233.981000", 
+    "end": "234.271000", 
+    "id": "s84_22", 
+    "dialAct:niteType": "statement", 
+    "subword": "winter", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "so", 
+    "tag": "RB", 
+    "start": "234.271000", 
+    "end": "234.614250", 
+    "id": "s86_1", 
+    "dialAct:niteType": "abandon", 
+    "subword": "so", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "that", 
+    "tag": "IN", 
+    "start": "235.662250", 
+    "end": "236.022250", 
+    "id": "s86_3", 
+    "dialAct:niteType": "abandon", 
+    "subword": "that", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "236.022250", 
+    "end": "236.122250", 
+    "id": "s86_5", 
+    "dialAct:niteType": "abandon", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "you", 
+    "tag": "PRP", 
+    "start": "236.222250", 
+    "end": "236.422250", 
+    "id": "s86_9", 
+    "dialAct:niteType": "statement", 
+    "subword": "you", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "you", 
+    "tag": "PRP", 
+    "start": "236.422250", 
+    "end": "236.522250", 
+    "id": "s86_12", 
+    "dialAct:niteType": "statement", 
+    "subword": "you", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "became", 
+    "tag": "VBD", 
+    "start": "236.522250", 
+    "end": "236.822250", 
+    "id": "s86_14", 
+    "dialAct:niteType": "statement", 
+    "subword": "became", 
+    "stressProfile": "np", 
+    "num_sylls": 2
+}{
+    "word": "accustomed", 
+    "tag": "JJ", 
+    "start": "236.822250", 
+    "end": "237.322250", 
+    "id": "s86_15", 
+    "dialAct:niteType": "statement", 
+    "subword": "accustomed", 
+    "stressProfile": "npn", 
+    "num_sylls": 3
+}{
+    "word": "to", 
+    "tag": "IN", 
+    "start": "237.322250", 
+    "end": "237.482250", 
+    "id": "s86_16", 
+    "dialAct:niteType": "statement", 
+    "subword": "to", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "it", 
+    "tag": "PRP", 
+    "start": "237.482250", 
+    "end": "237.546375", 
+    "id": "s86_17", 
+    "dialAct:niteType": "statement", 
+    "subword": "it", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "237.546375", 
+    "end": "237.708250", 
+    "id": "s86_19", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "guess", 
+    "tag": "VBP", 
+    "start": "237.708250", 
+    "end": "238.176625", 
+    "id": "s86_20", 
+    "dialAct:niteType": "statement", 
+    "subword": "guess", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "But", 
+    "tag": "CC", 
+    "start": "238.801875", 
+    "end": "239.162250", 
+    "id": "s88_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "but", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "239.162250", 
+    "end": "239.332250", 
+    "id": "s88_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "otherwise", 
+    "tag": "RB", 
+    "start": "239.332250", 
+    "end": "239.902125", 
+    "id": "s88_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "otherwise", 
+    "stressProfile": "pns", 
+    "num_sylls": 3
+}{
+    "word": "w-", 
+    "tag": "PRP", 
+    "start": "240.884000", 
+    "end": "241.024000", 
+    "id": "s88_7", 
+    "dialAct:niteType": "statement", 
+    "subword": "w[e]-", 
+    "stressProfile": "unknown", 
+    "num_sylls": "unknown"
+}{
+    "word": "as", 
+    "tag": "IN", 
+    "start": "241.024000", 
+    "end": "241.114000", 
+    "id": "s88_10", 
+    "dialAct:niteType": "statement", 
+    "subword": "as", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "241.114000", 
+    "end": "241.194000", 
+    "id": "s88_11", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "said", 
+    "tag": "VBD", 
+    "start": "241.194000", 
+    "end": "241.404000", 
+    "id": "s88_12", 
+    "dialAct:niteType": "statement", 
+    "subword": "said", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "we", 
+    "tag": "PRP", 
+    "start": "241.404000", 
+    "end": "241.484000", 
+    "id": "s88_14", 
+    "dialAct:niteType": "statement", 
+    "subword": "we", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "have", 
+    "tag": "VBP", 
+    "start": "241.484000", 
+    "end": "241.574000", 
+    "id": "s88_16", 
+    "dialAct:niteType": "statement", 
+    "subword": "have", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "had", 
+    "tag": "VBN", 
+    "start": "241.574000", 
+    "end": "241.798250", 
+    "id": "s88_17", 
+    "dialAct:niteType": "statement", 
+    "subword": "had", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "a", 
+    "tag": "DT", 
+    "start": "241.798250", 
+    "end": "241.994125", 
+    "id": "s88_21", 
+    "dialAct:niteType": "statement", 
+    "subword": "a", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "relatively", 
+    "tag": "RB", 
+    "start": "242.544000", 
+    "end": "243.034000", 
+    "id": "s88_22", 
+    "dialAct:niteType": "statement", 
+    "subword": "relatively", 
+    "stressProfile": "pnnn", 
+    "num_sylls": 4
+}{
+    "word": "mild", 
+    "tag": "JJ", 
+    "start": "243.034000", 
+    "end": "243.740875", 
+    "id": "s88_23", 
+    "dialAct:niteType": "statement", 
+    "subword": "mild", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "winter", 
+    "tag": "NN", 
+    "start": "244.573750", 
+    "end": "245.000625", 
+    "id": "s88_24", 
+    "dialAct:niteType": "statement", 
+    "subword": "winter", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "speaking", 
+    "tag": "VBG", 
+    "start": "245.552625", 
+    "end": "246.061625", 
+    "id": "s88_27", 
+    "dialAct:niteType": "statement", 
+    "subword": "speaking", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "for", 
+    "tag": "IN", 
+    "start": "246.061625", 
+    "end": "246.211625", 
+    "id": "s88_28", 
+    "dialAct:niteType": "statement", 
+    "subword": "for", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "this", 
+    "tag": "DT", 
+    "start": "246.211625", 
+    "end": "246.431625", 
+    "id": "s88_29", 
+    "dialAct:niteType": "statement", 
+    "subword": "this", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "area", 
+    "tag": "NN", 
+    "start": "246.431625", 
+    "end": "246.651625", 
+    "id": "s88_30", 
+    "dialAct:niteType": "statement", 
+    "subword": "area", 
+    "stressProfile": "pnn", 
+    "num_sylls": 3
+}{
+    "word": "of", 
+    "tag": "IN", 
+    "start": "246.651625", 
+    "end": "246.711625", 
+    "id": "s88_31", 
+    "dialAct:niteType": "statement", 
+    "subword": "of", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "start": "246.711625", 
+    "end": "246.771625", 
+    "id": "s88_32", 
+    "dialAct:niteType": "statement", 
+    "subword": "the", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "country", 
+    "tag": "NN", 
+    "start": "246.771625", 
+    "end": "247.211625", 
+    "id": "s88_33", 
+    "dialAct:niteType": "statement", 
+    "subword": "country", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "Purdue", 
+    "tag": "NNP", 
+    "start": "250.223125", 
+    "end": "250.592375", 
+    "id": "s91_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "Purdue", 
+    "stressProfile": "np", 
+    "num_sylls": 2
+}{
+    "word": "Oh", 
+    "tag": "UH", 
+    "start": "255.843500", 
+    "end": "256.043500", 
+    "id": "s94_1", 
+    "dialAct:niteType": "apprec", 
+    "subword": "oh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "yes", 
+    "tag": "UH", 
+    "start": "256.043500", 
+    "end": "256.433500", 
+    "id": "s94_3", 
+    "dialAct:niteType": "apprec", 
+    "subword": "yes", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "Well", 
+    "tag": "UH", 
+    "start": "266.796500", 
+    "end": "266.946500", 
+    "id": "s99_1", 
+    "dialAct:niteType": "opinion", 
+    "subword": "well", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "you", 
+    "tag": "PRP", 
+    "start": "266.946500", 
+    "end": "267.126500", 
+    "id": "s99_3", 
+    "dialAct:niteType": "opinion", 
+    "subword": "you", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "are", 
+    "tag": "VBP", 
+    "start": "267.126500", 
+    "end": "267.226500", 
+    "id": "s99_4", 
+    "dialAct:niteType": "opinion", 
+    "subword": "are", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "not", 
+    "tag": "RB", 
+    "start": "267.226500", 
+    "end": "267.526500", 
+    "id": "s99_5", 
+    "dialAct:niteType": "opinion", 
+    "subword": "not", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "from", 
+    "tag": "IN", 
+    "start": "267.526500", 
+    "end": "268.006500", 
+    "id": "s99_6", 
+    "dialAct:niteType": "opinion", 
+    "subword": "from", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "that", 
+    "tag": "DT", 
+    "start": "268.826500", 
+    "end": "269.016500", 
+    "id": "s99_7", 
+    "dialAct:niteType": "opinion", 
+    "subword": "that", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "area", 
+    "tag": "NN", 
+    "start": "269.016500", 
+    "end": "269.276500", 
+    "id": "s99_8", 
+    "dialAct:niteType": "opinion", 
+    "subword": "area", 
+    "stressProfile": "pnn", 
+    "num_sylls": 3
+}{
+    "word": "originally", 
+    "tag": "RB", 
+    "start": "269.276500", 
+    "end": "269.736500", 
+    "id": "s99_9", 
+    "dialAct:niteType": "opinion", 
+    "subword": "originally", 
+    "stressProfile": "unknown", 
+    "num_sylls": "unknown"
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "269.736500", 
+    "end": "269.882000", 
+    "id": "s99_11", 
+    "dialAct:niteType": "opinion", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "can", 
+    "tag": "MD", 
+    "start": "270.080625", 
+    "end": "270.156500", 
+    "id": "s99_12", 
+    "dialAct:niteType": "opinion", 
+    "subword": "can", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "tell", 
+    "tag": "VB", 
+    "start": "270.156500", 
+    "end": "270.296500", 
+    "id": "s99_13", 
+    "dialAct:niteType": "opinion", 
+    "subword": "tell", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "Oh", 
+    "tag": "UH", 
+    "start": "272.185625", 
+    "end": "272.361500", 
+    "id": "s102_1", 
+    "dialAct:niteType": "acknowledge", 
+    "subword": "oh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "okay", 
+    "tag": "UH", 
+    "start": "272.361500", 
+    "end": "272.885250", 
+    "id": "s102_3", 
+    "dialAct:niteType": "acknowledge", 
+    "subword": "[laughter-okay]", 
+    "stressProfile": "unknown", 
+    "num_sylls": "unknown"
+}{
+    "word": "Uh-huh", 
+    "tag": "UH", 
+    "start": "281.147875", 
+    "end": "281.514500", 
+    "id": "s105_1", 
+    "dialAct:niteType": "backchannel", 
+    "subword": "um-hum", 
+    "stressProfile": "unknown", 
+    "num_sylls": "unknown"
+}{
+    "word": "Well", 
+    "tag": "UH", 
+    "start": "282.024875", 
+    "end": "282.122125", 
+    "id": "s107_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "well", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "282.122125", 
+    "end": "282.197500", 
+    "id": "s107_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "thought", 
+    "tag": "VBD", 
+    "start": "282.197500", 
+    "end": "282.357875", 
+    "id": "s107_4", 
+    "dialAct:niteType": "statement", 
+    "subword": "thought", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "282.357875", 
+    "end": "282.407875", 
+    "id": "s107_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "heard", 
+    "tag": "VBD", 
+    "start": "282.407875", 
+    "end": "282.597875", 
+    "id": "s107_7", 
+    "dialAct:niteType": "statement", 
+    "subword": "heard", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "a", 
+    "tag": "DT", 
+    "start": "282.597875", 
+    "end": "282.637875", 
+    "id": "s107_8", 
+    "dialAct:niteType": "statement", 
+    "subword": "a", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "little", 
+    "tag": "JJ", 
+    "start": "282.637875", 
+    "end": "282.827875", 
+    "id": "s107_9", 
+    "dialAct:niteType": "statement", 
+    "subword": "little", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "Tennessee", 
+    "tag": "NNP", 
+    "start": "282.827875", 
+    "end": "283.314250", 
+    "id": "s107_10", 
+    "dialAct:niteType": "statement", 
+    "subword": "Tennessee", 
+    "stressProfile": "snp", 
+    "num_sylls": 3
+}{
+    "word": "in", 
+    "tag": "IN", 
+    "start": "283.314250", 
+    "end": "283.438500", 
+    "id": "s107_11", 
+    "dialAct:niteType": "statement", 
+    "subword": "in", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "there", 
+    "tag": "RB", 
+    "start": "283.849375", 
+    "end": "284.070750", 
+    "id": "s107_12", 
+    "dialAct:niteType": "statement", 
+    "subword": "the[re]-", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "Uh-huh", 
+    "tag": "UH", 
+    "start": "287.135625", 
+    "end": "287.541875", 
+    "id": "s111_1", 
+    "dialAct:niteType": "backchannel", 
+    "subword": "um-hum", 
+    "stressProfile": "unknown", 
+    "num_sylls": "unknown"
+}{
+    "word": "Gee", 
+    "tag": "UH", 
+    "start": "291.813500", 
+    "end": "292.043500", 
+    "id": "s113_1", 
+    "dialAct:niteType": "apprec", 
+    "subword": "gee", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "you", 
+    "tag": "PRP", 
+    "start": "292.043500", 
+    "end": "n/a", 
+    "id": "s114_1", 
+    "dialAct:niteType": "opinion", 
+    "subword": "you've", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "'ve", 
+    "tag": "VBP", 
+    "start": "n/a", 
+    "end": "292.203500", 
+    "id": "s114_2", 
+    "dialAct:niteType": "opinion", 
+    "subword": "you've", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "moved", 
+    "tag": "VBN", 
+    "start": "292.203500", 
+    "end": "292.483500", 
+    "id": "s114_4", 
+    "dialAct:niteType": "opinion", 
+    "subword": "moved", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "almost", 
+    "tag": "RB", 
+    "start": "292.483500", 
+    "end": "292.913500", 
+    "id": "s114_5", 
+    "dialAct:niteType": "opinion", 
+    "subword": "almost", 
+    "stressProfile": "ps", 
+    "num_sylls": 2
+}{
+    "word": "moved", 
+    "tag": "VBN", 
+    "start": "292.913500", 
+    "end": "293.123500", 
+    "id": "s114_8", 
+    "dialAct:niteType": "opinion", 
+    "subword": "moved", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "around", 
+    "tag": "RB", 
+    "start": "293.123500", 
+    "end": "293.383500", 
+    "id": "s114_9", 
+    "dialAct:niteType": "opinion", 
+    "subword": "around", 
+    "stressProfile": "np", 
+    "num_sylls": 2
+}{
+    "word": "as", 
+    "tag": "RB", 
+    "start": "293.383500", 
+    "end": "293.483500", 
+    "id": "s114_10", 
+    "dialAct:niteType": "opinion", 
+    "subword": "as", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "much", 
+    "tag": "RB", 
+    "start": "293.483500", 
+    "end": "293.693500", 
+    "id": "s114_11", 
+    "dialAct:niteType": "opinion", 
+    "subword": "much", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "as", 
+    "tag": "IN", 
+    "start": "293.693500", 
+    "end": "293.793500", 
+    "id": "s114_12", 
+    "dialAct:niteType": "opinion", 
+    "subword": "as", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "293.793500", 
+    "end": "293.983500", 
+    "id": "s114_14", 
+    "dialAct:niteType": "opinion", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "have", 
+    "tag": "VBP", 
+    "start": "293.983500", 
+    "end": "294.233500", 
+    "id": "s114_15", 
+    "dialAct:niteType": "opinion", 
+    "subword": "have", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "Oh", 
+    "tag": "UH", 
+    "start": "299.099250", 
+    "end": "299.365000", 
+    "id": "s118_1", 
+    "dialAct:niteType": "acknowledge", 
+    "subword": "oh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "299.365000", 
+    "end": "299.550625", 
+    "id": "s118_3", 
+    "dialAct:niteType": "acknowledge", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "see", 
+    "tag": "VBP", 
+    "start": "299.550625", 
+    "end": "299.918375", 
+    "id": "s118_4", 
+    "dialAct:niteType": "acknowledge", 
+    "subword": "see", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "Well", 
+    "tag": "UH", 
+    "start": "300.720625", 
+    "end": "300.841125", 
+    "id": "s120_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "well", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "300.841125", 
+    "end": "300.931500", 
+    "id": "s120_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "worked", 
+    "tag": "VBD", 
+    "start": "300.931500", 
+    "end": "301.139250", 
+    "id": "s120_4", 
+    "dialAct:niteType": "statement", 
+    "subword": "worked", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "for", 
+    "tag": "IN", 
+    "start": "301.139250", 
+    "end": "301.269250", 
+    "id": "s120_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "for", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "start": "301.269250", 
+    "end": "301.329250", 
+    "id": "s120_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "the", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "government", 
+    "tag": "NN", 
+    "start": "301.329250", 
+    "end": "301.769250", 
+    "id": "s120_7", 
+    "dialAct:niteType": "statement", 
+    "subword": "government", 
+    "stressProfile": "pnn", 
+    "num_sylls": 3
+}{
+    "word": "so", 
+    "tag": "RB", 
+    "start": "301.769250", 
+    "end": "302.029250", 
+    "id": "s121_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "so", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "302.029250", 
+    "end": "302.353000", 
+    "id": "s121_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "302.560125", 
+    "end": "302.762250", 
+    "id": "s121_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "moved", 
+    "tag": "VBD", 
+    "start": "302.762250", 
+    "end": "303.255625", 
+    "id": "s121_8", 
+    "dialAct:niteType": "statement", 
+    "subword": "moved", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "303.255625", 
+    "end": "303.539250", 
+    "id": "s121_10", 
+    "dialAct:niteType": "statement", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "much", 
+    "tag": "RB", 
+    "start": "305.215750", 
+    "end": "305.465750", 
+    "id": "s121_12", 
+    "dialAct:niteType": "statement", 
+    "subword": "much", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "more", 
+    "tag": "RBR", 
+    "start": "305.465750", 
+    "end": "305.585750", 
+    "id": "s121_13", 
+    "dialAct:niteType": "statement", 
+    "subword": "more", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "frequently", 
+    "tag": "RB", 
+    "start": "305.585750", 
+    "end": "306.065750", 
+    "id": "s121_14", 
+    "dialAct:niteType": "statement", 
+    "subword": "frequently", 
+    "stressProfile": "pnn", 
+    "num_sylls": 3
+}{
+    "word": "than", 
+    "tag": "IN", 
+    "start": "306.065750", 
+    "end": "306.205750", 
+    "id": "s121_15", 
+    "dialAct:niteType": "statement", 
+    "subword": "than", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "306.205750", 
+    "end": "306.335750", 
+    "id": "s121_16", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "had", 
+    "tag": "VBD", 
+    "start": "306.335750", 
+    "end": "306.575750", 
+    "id": "s121_17", 
+    "dialAct:niteType": "statement", 
+    "subword": "had", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "intended", 
+    "tag": "VBN", 
+    "start": "306.975750", 
+    "end": "307.644125", 
+    "id": "s121_18", 
+    "dialAct:niteType": "statement", 
+    "subword": "intended", 
+    "stressProfile": "spn", 
+    "num_sylls": 3
+}{
+    "word": "for", 
+    "tag": "IN", 
+    "start": "308.235750", 
+    "end": "308.385750", 
+    "id": "s121_20", 
+    "dialAct:niteType": "statement", 
+    "subword": "for", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "sixteen", 
+    "tag": "CD", 
+    "start": "308.385750", 
+    "end": "308.865750", 
+    "id": "s121_21", 
+    "dialAct:niteType": "statement", 
+    "subword": "sixteen", 
+    "stressProfile": "np", 
+    "num_sylls": 2
+}{
+    "word": "years", 
+    "tag": "NNS", 
+    "start": "308.865750", 
+    "end": "309.195750", 
+    "id": "s121_22", 
+    "dialAct:niteType": "statement", 
+    "subword": "years", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "but", 
+    "tag": "CC", 
+    "start": "309.195750", 
+    "end": "309.415750", 
+    "id": "s123_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "but", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "310.502625", 
+    "end": "310.672000", 
+    "id": "s123_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "guess", 
+    "tag": "VBP", 
+    "start": "310.672000", 
+    "end": "310.990750", 
+    "id": "s123_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "guess", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "start": "310.990750", 
+    "end": "311.177625", 
+    "id": "s123_9", 
+    "dialAct:niteType": "statement", 
+    "subword": "the", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "311.177625", 
+    "end": "311.504750", 
+    "id": "s123_12", 
+    "dialAct:niteType": "statement", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "this", 
+    "tag": "DT", 
+    "start": "312.392625", 
+    "end": "312.552625", 
+    "id": "s123_14", 
+    "dialAct:niteType": "statement", 
+    "subword": "this", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "is", 
+    "tag": "VBZ", 
+    "start": "312.552625", 
+    "end": "312.672625", 
+    "id": "s123_16", 
+    "dialAct:niteType": "statement", 
+    "subword": "is", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "my", 
+    "tag": "PRP$", 
+    "start": "312.672625", 
+    "end": "312.822625", 
+    "id": "s123_17", 
+    "dialAct:niteType": "statement", 
+    "subword": "my", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "first", 
+    "tag": "JJ", 
+    "start": "312.822625", 
+    "end": "313.152625", 
+    "id": "s123_18", 
+    "dialAct:niteType": "statement", 
+    "subword": "first", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "conversation", 
+    "tag": "NN", 
+    "start": "313.152625", 
+    "end": "313.842625", 
+    "id": "s123_19", 
+    "dialAct:niteType": "statement", 
+    "subword": "conversation", 
+    "stressProfile": "snpn", 
+    "num_sylls": 4
+}{
+    "word": "in", 
+    "tag": "IN", 
+    "start": "313.842625", 
+    "end": "314.012625", 
+    "id": "s123_20", 
+    "dialAct:niteType": "statement", 
+    "subword": "in", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "this", 
+    "tag": "DT", 
+    "start": "314.012625", 
+    "end": "314.272625", 
+    "id": "s123_21", 
+    "dialAct:niteType": "statement", 
+    "subword": "this", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "314.272625", 
+    "end": "314.655500", 
+    "id": "s123_23", 
+    "dialAct:niteType": "statement", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "314.655500", 
+    "end": "315.291875", 
+    "id": "s123_25", 
+    "dialAct:niteType": "statement", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "series", 
+    "tag": "NN", 
+    "start": "316.729750", 
+    "end": "317.472875", 
+    "id": "s123_27", 
+    "dialAct:niteType": "statement", 
+    "subword": "series", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "318.445500", 
+    "end": "318.615500", 
+    "id": "s125_2", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "318.695500", 
+    "end": "318.745500", 
+    "id": "s125_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "received", 
+    "tag": "VBD", 
+    "start": "318.745500", 
+    "end": "319.095500", 
+    "id": "s125_7", 
+    "dialAct:niteType": "statement", 
+    "subword": "received", 
+    "stressProfile": "np", 
+    "num_sylls": 2
+}{
+    "word": "a", 
+    "tag": "DT", 
+    "start": "319.095500", 
+    "end": "319.135500", 
+    "id": "s125_8", 
+    "dialAct:niteType": "statement", 
+    "subword": "a", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "call", 
+    "tag": "NN", 
+    "start": "319.135500", 
+    "end": "319.385500", 
+    "id": "s125_9", 
+    "dialAct:niteType": "statement", 
+    "subword": "call", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "last", 
+    "tag": "JJ", 
+    "start": "319.385500", 
+    "end": "319.655500", 
+    "id": "s125_10", 
+    "dialAct:niteType": "statement", 
+    "subword": "last", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "night", 
+    "tag": "NN", 
+    "start": "319.655500", 
+    "end": "319.895500", 
+    "id": "s125_11", 
+    "dialAct:niteType": "statement", 
+    "subword": "night", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "because", 
+    "tag": "IN", 
+    "start": "319.895500", 
+    "end": "320.246125", 
+    "id": "s125_12", 
+    "dialAct:niteType": "statement", 
+    "subword": "because", 
+    "stressProfile": "np", 
+    "num_sylls": 2
+}{
+    "word": "of", 
+    "tag": "IN", 
+    "start": "320.246125", 
+    "end": "320.387250", 
+    "id": "s125_13", 
+    "dialAct:niteType": "statement", 
+    "subword": "of", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "start": "320.387250", 
+    "end": "320.685500", 
+    "id": "s125_14", 
+    "dialAct:niteType": "statement", 
+    "subword": "the", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "320.685500", 
+    "end": "320.885500", 
+    "id": "s125_16", 
+    "dialAct:niteType": "statement", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "321.907250", 
+    "end": "322.027250", 
+    "id": "s126_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "had", 
+    "tag": "VBD", 
+    "start": "322.027250", 
+    "end": "322.157250", 
+    "id": "s126_2", 
+    "dialAct:niteType": "statement", 
+    "subword": "had", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "not", 
+    "tag": "RB", 
+    "start": "322.157250", 
+    "end": "322.317250", 
+    "id": "s126_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "not", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "received", 
+    "tag": "VBN", 
+    "start": "322.317250", 
+    "end": "322.687250", 
+    "id": "s126_4", 
+    "dialAct:niteType": "statement", 
+    "subword": "received", 
+    "stressProfile": "np", 
+    "num_sylls": 2
+}{
+    "word": "my", 
+    "tag": "PRP$", 
+    "start": "322.687250", 
+    "end": "322.967250", 
+    "id": "s126_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "my", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "322.967250", 
+    "end": "323.307250", 
+    "id": "s126_7", 
+    "dialAct:niteType": "statement", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "personal", 
+    "tag": "JJ", 
+    "start": "323.307250", 
+    "end": "323.657250", 
+    "id": "s126_9", 
+    "dialAct:niteType": "statement", 
+    "subword": "personal", 
+    "stressProfile": "pnn", 
+    "num_sylls": 3
+}{
+    "word": "identification", 
+    "tag": "NN", 
+    "start": "323.657250", 
+    "end": "324.297250", 
+    "id": "s126_10", 
+    "dialAct:niteType": "statement", 
+    "subword": "identification", 
+    "stressProfile": "nsnnpn", 
+    "num_sylls": 6
+}{
+    "word": "number", 
+    "tag": "NN", 
+    "start": "324.297250", 
+    "end": "324.607250", 
+    "id": "s126_11", 
+    "dialAct:niteType": "statement", 
+    "subword": "number", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "So", 
+    "tag": "RB", 
+    "start": "325.327875", 
+    "end": "325.577875", 
+    "id": "s128_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "so", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "325.577875", 
+    "end": "325.637875", 
+    "id": "s128_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "had", 
+    "tag": "VBD", 
+    "start": "325.637875", 
+    "end": "325.737875", 
+    "id": "s128_4", 
+    "dialAct:niteType": "statement", 
+    "subword": "had", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "to", 
+    "tag": "TO", 
+    "start": "325.737875", 
+    "end": "325.797875", 
+    "id": "s128_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "to", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "call", 
+    "tag": "VB", 
+    "start": "325.797875", 
+    "end": "326.027875", 
+    "id": "s128_7", 
+    "dialAct:niteType": "statement", 
+    "subword": "call", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "Jack", 
+    "tag": "NNP", 
+    "start": "326.027875", 
+    "end": "326.257875", 
+    "id": "s128_8", 
+    "dialAct:niteType": "statement", 
+    "subword": "Jack", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "Godfrey", 
+    "tag": "NNP", 
+    "start": "326.257875", 
+    "end": "326.627875", 
+    "id": "s128_9", 
+    "dialAct:niteType": "statement", 
+    "subword": "Godfrey", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "today", 
+    "tag": "NN", 
+    "start": "326.627875", 
+    "end": "327.077375", 
+    "id": "s128_10", 
+    "dialAct:niteType": "statement", 
+    "subword": "today", 
+    "stressProfile": "np", 
+    "num_sylls": 2
+}{
+    "word": "to", 
+    "tag": "TO", 
+    "start": "327.077375", 
+    "end": "327.254375", 
+    "id": "s128_12", 
+    "dialAct:niteType": "statement", 
+    "subword": "[laughter-and]", 
+    "stressProfile": "unknown", 
+    "num_sylls": "unknown"
+}{
+    "word": "ask", 
+    "tag": "VB", 
+    "start": "327.254375", 
+    "end": "327.427875", 
+    "id": "s128_13", 
+    "dialAct:niteType": "statement", 
+    "subword": "[laughter-ask]", 
+    "stressProfile": "unknown", 
+    "num_sylls": "unknown"
+}{
+    "word": "him", 
+    "tag": "PRP", 
+    "start": "327.427875", 
+    "end": "327.577875", 
+    "id": "s128_14", 
+    "dialAct:niteType": "statement", 
+    "subword": "[laughter-him]", 
+    "stressProfile": "unknown", 
+    "num_sylls": "unknown"
+}{
+    "word": "what", 
+    "tag": "WP", 
+    "start": "327.577875", 
+    "end": "327.737875", 
+    "id": "s128_15", 
+    "dialAct:niteType": "statement", 
+    "subword": "[laughter-what]", 
+    "stressProfile": "unknown", 
+    "num_sylls": "unknown"
+}{
+    "word": "it", 
+    "tag": "PRP", 
+    "start": "327.737875", 
+    "end": "327.847875", 
+    "id": "s128_16", 
+    "dialAct:niteType": "statement", 
+    "subword": "[laughter-it]", 
+    "stressProfile": "unknown", 
+    "num_sylls": "unknown"
+}{
+    "word": "was", 
+    "tag": "VBD", 
+    "start": "327.847875", 
+    "end": "328.197875", 
+    "id": "s128_17", 
+    "dialAct:niteType": "statement", 
+    "subword": "[laughter-was]", 
+    "stressProfile": "unknown", 
+    "num_sylls": "unknown"
+}{
+    "word": "because", 
+    "tag": "IN", 
+    "start": "328.197875", 
+    "end": "328.557875", 
+    "id": "s128_20", 
+    "dialAct:niteType": "statement", 
+    "subword": "[laughter-because]", 
+    "stressProfile": "unknown", 
+    "num_sylls": "unknown"
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "328.557875", 
+    "end": "328.737875", 
+    "id": "s128_22", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "329.005000", 
+    "end": "329.110500", 
+    "id": "s128_25", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "had", 
+    "tag": "VBD", 
+    "start": "329.110500", 
+    "end": "329.227875", 
+    "id": "s128_27", 
+    "dialAct:niteType": "statement", 
+    "subword": "had", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "to", 
+    "tag": "TO", 
+    "start": "329.227875", 
+    "end": "329.377875", 
+    "id": "s128_29", 
+    "dialAct:niteType": "statement", 
+    "subword": "to", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "abort", 
+    "tag": "VB", 
+    "start": "329.377875", 
+    "end": "329.707875", 
+    "id": "s128_30", 
+    "dialAct:niteType": "statement", 
+    "subword": "abort", 
+    "stressProfile": "np", 
+    "num_sylls": 2
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "start": "329.707875", 
+    "end": "329.767875", 
+    "id": "s128_31", 
+    "dialAct:niteType": "statement", 
+    "subword": "the", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "call", 
+    "tag": "NN", 
+    "start": "329.767875", 
+    "end": "330.067875", 
+    "id": "s128_32", 
+    "dialAct:niteType": "statement", 
+    "subword": "call", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "last", 
+    "tag": "JJ", 
+    "start": "330.067875", 
+    "end": "330.377875", 
+    "id": "s128_33", 
+    "dialAct:niteType": "statement", 
+    "subword": "last", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "evening", 
+    "tag": "NN", 
+    "start": "330.377875", 
+    "end": "330.677875", 
+    "id": "s128_34", 
+    "dialAct:niteType": "statement", 
+    "subword": "evening", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "because", 
+    "tag": "IN", 
+    "start": "330.677875", 
+    "end": "330.887875", 
+    "id": "s128_35", 
+    "dialAct:niteType": "statement", 
+    "subword": "because", 
+    "stressProfile": "np", 
+    "num_sylls": 2
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "330.887875", 
+    "end": "330.937875", 
+    "id": "s128_36", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "could", 
+    "tag": "MD", 
+    "start": "330.937875", 
+    "end": "n/a", 
+    "id": "s128_37", 
+    "dialAct:niteType": "statement", 
+    "subword": "couldn't", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "n't", 
+    "tag": "RB", 
+    "start": "n/a", 
+    "end": "331.167875", 
+    "id": "s128_38", 
+    "dialAct:niteType": "statement", 
+    "subword": "couldn't", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "get", 
+    "tag": "VB", 
+    "start": "331.167875", 
+    "end": "331.267875", 
+    "id": "s128_39", 
+    "dialAct:niteType": "statement", 
+    "subword": "get", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "on", 
+    "tag": "IN", 
+    "start": "331.267875", 
+    "end": "331.417875", 
+    "id": "s128_40", 
+    "dialAct:niteType": "statement", 
+    "subword": "on", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "start": "331.417875", 
+    "end": "331.487875", 
+    "id": "s128_41", 
+    "dialAct:niteType": "statement", 
+    "subword": "the", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "line", 
+    "tag": "NN", 
+    "start": "331.487875", 
+    "end": "331.827875", 
+    "id": "s128_42", 
+    "dialAct:niteType": "statement", 
+    "subword": "line", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "So", 
+    "tag": "UH", 
+    "start": "333.140625", 
+    "end": "333.631000", 
+    "id": "s130_1", 
+    "dialAct:niteType": "yn_q", 
+    "subword": "so", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "333.830625", 
+    "end": "334.288250", 
+    "id": "s130_3", 
+    "dialAct:niteType": "yn_q", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "is", 
+    "tag": "VBZ", 
+    "start": "334.555750", 
+    "end": "334.710625", 
+    "id": "s130_5", 
+    "dialAct:niteType": "yn_q", 
+    "subword": "is", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "there", 
+    "tag": "EX", 
+    "start": "334.710625", 
+    "end": "334.850625", 
+    "id": "s130_6", 
+    "dialAct:niteType": "yn_q", 
+    "subword": "there", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "any", 
+    "tag": "DT", 
+    "start": "334.850625", 
+    "end": "335.081125", 
+    "id": "s130_7", 
+    "dialAct:niteType": "yn_q", 
+    "subword": "any", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "335.212875", 
+    "end": "n/a", 
+    "id": "s131_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "i'm", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "'m", 
+    "tag": "VBP", 
+    "start": "n/a", 
+    "end": "335.460625", 
+    "id": "s131_2", 
+    "dialAct:niteType": "statement", 
+    "subword": "i'm", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "not", 
+    "tag": "RB", 
+    "start": "335.460625", 
+    "end": "335.634625", 
+    "id": "s131_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "not", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "sure", 
+    "tag": "JJ", 
+    "start": "335.634625", 
+    "end": "336.301250", 
+    "id": "s131_4", 
+    "dialAct:niteType": "statement", 
+    "subword": "sure", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "how", 
+    "tag": "WRB", 
+    "start": "336.301250", 
+    "end": "336.520625", 
+    "id": "s131_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "how", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "long", 
+    "tag": "RB", 
+    "start": "336.520625", 
+    "end": "336.780625", 
+    "id": "s131_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "long", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "we", 
+    "tag": "PRP", 
+    "start": "336.780625", 
+    "end": "n/a", 
+    "id": "s131_7", 
+    "dialAct:niteType": "statement", 
+    "subword": "we're", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "'re", 
+    "tag": "VBP", 
+    "start": "n/a", 
+    "end": "336.880625", 
+    "id": "s131_8", 
+    "dialAct:niteType": "statement", 
+    "subword": "we're", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "supposed", 
+    "tag": "VBN", 
+    "start": "336.880625", 
+    "end": "337.290625", 
+    "id": "s131_9", 
+    "dialAct:niteType": "statement", 
+    "subword": "supposed", 
+    "stressProfile": "np", 
+    "num_sylls": 2
+}{
+    "word": "to", 
+    "tag": "TO", 
+    "start": "337.290625", 
+    "end": "337.360625", 
+    "id": "s131_11", 
+    "dialAct:niteType": "statement", 
+    "subword": "to", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "talk", 
+    "tag": "VB", 
+    "start": "337.360625", 
+    "end": "337.898375", 
+    "id": "s131_12", 
+    "dialAct:niteType": "statement", 
+    "subword": "talk", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "Oh", 
+    "tag": "UH", 
+    "start": "341.231875", 
+    "end": "341.387125", 
+    "id": "s133_1", 
+    "dialAct:niteType": "uninterp", 
+    "subword": "oh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "O-", 
+    "tag": "UH", 
+    "start": "341.387125", 
+    "end": "341.679000", 
+    "id": "s133_3", 
+    "dialAct:niteType": "uninterp", 
+    "subword": "okay", 
+    "stressProfile": "pp", 
+    "num_sylls": 2
+}{
+    "word": "No", 
+    "tag": "UH", 
+    "start": "351.595625", 
+    "end": "351.825625", 
+    "id": "s136_1", 
+    "dialAct:niteType": "no", 
+    "subword": "no", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "351.825625", 
+    "end": "351.895625", 
+    "id": "s137_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "do", 
+    "tag": "VBP", 
+    "start": "351.895625", 
+    "end": "352.035625", 
+    "id": "s137_2", 
+    "dialAct:niteType": "statement", 
+    "subword": "do", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "not", 
+    "tag": "RB", 
+    "start": "352.035625", 
+    "end": "352.245625", 
+    "id": "s137_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "not", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "352.245625", 
+    "end": "352.325625", 
+    "id": "s138_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "work", 
+    "tag": "VBP", 
+    "start": "352.325625", 
+    "end": "352.525625", 
+    "id": "s138_2", 
+    "dialAct:niteType": "statement", 
+    "subword": "work", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "for", 
+    "tag": "IN", 
+    "start": "352.525625", 
+    "end": "352.655625", 
+    "id": "s138_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "for", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "G", 
+    "tag": "NNP", 
+    "start": "352.655625", 
+    "end": "n/a", 
+    "id": "s138_4", 
+    "dialAct:niteType": "statement", 
+    "subword": "GTE", 
+    "stressProfile": "unknown", 
+    "num_sylls": "unknown"
+}{
+    "word": "T", 
+    "tag": "NNP", 
+    "start": "n/a", 
+    "end": "n/a", 
+    "id": "s138_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "GTE", 
+    "stressProfile": "unknown", 
+    "num_sylls": "unknown"
+}{
+    "word": "E", 
+    "tag": "NNP", 
+    "start": "n/a", 
+    "end": "353.365250", 
+    "id": "s138_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "GTE", 
+    "stressProfile": "unknown", 
+    "num_sylls": "unknown"
+}{
+    "word": "And", 
+    "tag": "CC", 
+    "start": "354.741125", 
+    "end": "355.201125", 
+    "id": "s140_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "and", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "355.201125", 
+    "end": "355.747500", 
+    "id": "s140_4", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "356.030000", 
+    "end": "356.551125", 
+    "id": "s140_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "of", 
+    "tag": "IN", 
+    "start": "357.361500", 
+    "end": "357.459500", 
+    "id": "s140_8", 
+    "dialAct:niteType": "statement", 
+    "subword": "of", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "course", 
+    "tag": "NN", 
+    "start": "357.459500", 
+    "end": "357.731500", 
+    "id": "s140_9", 
+    "dialAct:niteType": "statement", 
+    "subword": "course", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "was", 
+    "tag": "VBD", 
+    "start": "357.731500", 
+    "end": "357.941500", 
+    "id": "s140_11", 
+    "dialAct:niteType": "statement", 
+    "subword": "was", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "357.941500", 
+    "end": "358.071500", 
+    "id": "s140_14", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "was", 
+    "tag": "VBD", 
+    "start": "358.071500", 
+    "end": "358.241500", 
+    "id": "s140_15", 
+    "dialAct:niteType": "statement", 
+    "subword": "was", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "sent", 
+    "tag": "VBN", 
+    "start": "358.241500", 
+    "end": "358.541500", 
+    "id": "s140_17", 
+    "dialAct:niteType": "statement", 
+    "subword": "sent", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "a", 
+    "tag": "DT", 
+    "start": "358.541500", 
+    "end": "358.711500", 
+    "id": "s140_20", 
+    "dialAct:niteType": "statement", 
+    "subword": "a", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "358.711500", 
+    "end": "358.901500", 
+    "id": "s140_23", 
+    "dialAct:niteType": "statement", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "an", 
+    "tag": "DT", 
+    "start": "360.935250", 
+    "end": "361.015250", 
+    "id": "s140_25", 
+    "dialAct:niteType": "statement", 
+    "subword": "an", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "application", 
+    "tag": "NN", 
+    "start": "361.015250", 
+    "end": "361.675250", 
+    "id": "s140_27", 
+    "dialAct:niteType": "statement", 
+    "subword": "application", 
+    "stressProfile": "snpn", 
+    "num_sylls": 4
+}{
+    "word": "from", 
+    "tag": "IN", 
+    "start": "361.675250", 
+    "end": "362.045250", 
+    "id": "s140_29", 
+    "dialAct:niteType": "statement", 
+    "subword": "from", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "362.045250", 
+    "end": "362.185250", 
+    "id": "s140_32", 
+    "dialAct:niteType": "statement", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "from", 
+    "tag": "IN", 
+    "start": "362.185250", 
+    "end": "362.405250", 
+    "id": "s140_34", 
+    "dialAct:niteType": "statement", 
+    "subword": "from", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "Jack", 
+    "tag": "NNP", 
+    "start": "362.405250", 
+    "end": "362.937500", 
+    "id": "s140_36", 
+    "dialAct:niteType": "statement", 
+    "subword": "Jack", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "363.435250", 
+    "end": "n/a", 
+    "id": "s142_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "i've", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "'ve", 
+    "tag": "VBP", 
+    "start": "n/a", 
+    "end": "363.525250", 
+    "id": "s142_2", 
+    "dialAct:niteType": "statement", 
+    "subword": "i've", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "known", 
+    "tag": "VBN", 
+    "start": "363.525250", 
+    "end": "363.715250", 
+    "id": "s142_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "known", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "Jack", 
+    "tag": "NNP", 
+    "start": "363.715250", 
+    "end": "363.965250", 
+    "id": "s142_4", 
+    "dialAct:niteType": "statement", 
+    "subword": "Jack", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "for", 
+    "tag": "IN", 
+    "start": "363.965250", 
+    "end": "364.075250", 
+    "id": "s142_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "for", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "some", 
+    "tag": "DT", 
+    "start": "364.075250", 
+    "end": "n/a", 
+    "id": "s142_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "sometime", 
+    "stressProfile": "ps", 
+    "num_sylls": 2
+}{
+    "word": "time", 
+    "tag": "NN", 
+    "start": "n/a", 
+    "end": "364.754500", 
+    "id": "s142_7", 
+    "dialAct:niteType": "statement", 
+    "subword": "sometime", 
+    "stressProfile": "ps", 
+    "num_sylls": 2
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "365.413625", 
+    "end": "n/a", 
+    "id": "s143_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "i'm", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "'m", 
+    "tag": "VBP", 
+    "start": "n/a", 
+    "end": "365.625250", 
+    "id": "s143_2", 
+    "dialAct:niteType": "statement", 
+    "subword": "i'm", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "in", 
+    "tag": "IN", 
+    "start": "365.625250", 
+    "end": "365.755250", 
+    "id": "s143_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "in", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "start": "365.755250", 
+    "end": "366.005625", 
+    "id": "s143_4", 
+    "dialAct:niteType": "statement", 
+    "subword": "the", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "speech", 
+    "tag": "NN", 
+    "start": "366.997750", 
+    "end": "367.327750", 
+    "id": "s143_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "speech", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "processing", 
+    "tag": "NN", 
+    "start": "367.327750", 
+    "end": "367.927750", 
+    "id": "s143_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "processing", 
+    "stressProfile": "pnn", 
+    "num_sylls": 3
+}{
+    "word": "business", 
+    "tag": "NN", 
+    "start": "367.927750", 
+    "end": "368.557750", 
+    "id": "s143_7", 
+    "dialAct:niteType": "statement", 
+    "subword": "business", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "and", 
+    "tag": "CC", 
+    "start": "368.731000", 
+    "end": "368.887750", 
+    "id": "s143_9", 
+    "dialAct:niteType": "statement", 
+    "subword": "and", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "have", 
+    "tag": "VBP", 
+    "start": "369.037750", 
+    "end": "369.227750", 
+    "id": "s143_10", 
+    "dialAct:niteType": "statement", 
+    "subword": "have", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "been", 
+    "tag": "VBN", 
+    "start": "369.227750", 
+    "end": "369.397750", 
+    "id": "s143_11", 
+    "dialAct:niteType": "statement", 
+    "subword": "been", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "for", 
+    "tag": "IN", 
+    "start": "369.397750", 
+    "end": "369.557750", 
+    "id": "s143_13", 
+    "dialAct:niteType": "statement", 
+    "subword": "for", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "a", 
+    "tag": "DT", 
+    "start": "369.557750", 
+    "end": "369.597750", 
+    "id": "s143_14", 
+    "dialAct:niteType": "statement", 
+    "subword": "a", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "number", 
+    "tag": "NN", 
+    "start": "369.597750", 
+    "end": "369.847750", 
+    "id": "s143_15", 
+    "dialAct:niteType": "statement", 
+    "subword": "number", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "of", 
+    "tag": "IN", 
+    "start": "369.847750", 
+    "end": "369.937750", 
+    "id": "s143_16", 
+    "dialAct:niteType": "statement", 
+    "subword": "of", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "years", 
+    "tag": "NNS", 
+    "start": "369.937750", 
+    "end": "370.277750", 
+    "id": "s143_17", 
+    "dialAct:niteType": "statement", 
+    "subword": "years", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "so", 
+    "tag": "RB", 
+    "start": "370.277750", 
+    "end": "370.583500", 
+    "id": "s145_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "so", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "370.995250", 
+    "end": "371.081875", 
+    "id": "s145_2", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "was", 
+    "tag": "VBD", 
+    "start": "371.081875", 
+    "end": "371.167750", 
+    "id": "s145_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "was", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "very", 
+    "tag": "RB", 
+    "start": "371.167750", 
+    "end": "371.327750", 
+    "id": "s145_4", 
+    "dialAct:niteType": "statement", 
+    "subword": "very", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "much", 
+    "tag": "RB", 
+    "start": "371.327750", 
+    "end": "371.527750", 
+    "id": "s145_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "much", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "interested", 
+    "tag": "JJ", 
+    "start": "371.527750", 
+    "end": "372.027750", 
+    "id": "s145_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "interested", 
+    "stressProfile": "pnnn", 
+    "num_sylls": 4
+}{
+    "word": "in", 
+    "tag": "IN", 
+    "start": "372.993500", 
+    "end": "373.363500", 
+    "id": "s145_9", 
+    "dialAct:niteType": "statement", 
+    "subword": "in", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "in", 
+    "tag": "IN", 
+    "start": "373.483500", 
+    "end": "373.623500", 
+    "id": "s145_12", 
+    "dialAct:niteType": "statement", 
+    "subword": "in", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "being", 
+    "tag": "VBG", 
+    "start": "373.623500", 
+    "end": "373.913500", 
+    "id": "s145_15", 
+    "dialAct:niteType": "statement", 
+    "subword": "being", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "a", 
+    "tag": "DT", 
+    "start": "373.913500", 
+    "end": "373.953500", 
+    "id": "s145_16", 
+    "dialAct:niteType": "statement", 
+    "subword": "a", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "speaker", 
+    "tag": "NN", 
+    "start": "373.953500", 
+    "end": "374.353500", 
+    "id": "s145_17", 
+    "dialAct:niteType": "statement", 
+    "subword": "speaker", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "for", 
+    "tag": "IN", 
+    "start": "374.353500", 
+    "end": "374.503500", 
+    "id": "s145_18", 
+    "dialAct:niteType": "statement", 
+    "subword": "for", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "this", 
+    "tag": "DT", 
+    "start": "374.503500", 
+    "end": "376.091125", 
+    "id": "s145_19", 
+    "dialAct:niteType": "statement", 
+    "subword": "[laughter-this]", 
+    "stressProfile": "unknown", 
+    "num_sylls": "unknown"
+}{
+    "word": "Oh", 
+    "tag": "UH", 
+    "start": "383.143375", 
+    "end": "383.404875", 
+    "id": "s149_1", 
+    "dialAct:niteType": "acknowledge", 
+    "subword": "oh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "383.404875", 
+    "end": "383.588250", 
+    "id": "s149_3", 
+    "dialAct:niteType": "acknowledge", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "see", 
+    "tag": "VBP", 
+    "start": "383.588250", 
+    "end": "383.842125", 
+    "id": "s149_4", 
+    "dialAct:niteType": "acknowledge", 
+    "subword": "see", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "Uh-huh", 
+    "tag": "UH", 
+    "start": "389.291625", 
+    "end": "389.695500", 
+    "id": "s151_1", 
+    "dialAct:niteType": "backchannel", 
+    "subword": "um-hum", 
+    "stressProfile": "unknown", 
+    "num_sylls": "unknown"
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "397.706625", 
+    "end": "n/a", 
+    "id": "s156_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "i'm", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "'m", 
+    "tag": "VBP", 
+    "start": "n/a", 
+    "end": "397.846625", 
+    "id": "s156_2", 
+    "dialAct:niteType": "statement", 
+    "subword": "i'm", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "sure", 
+    "tag": "JJ", 
+    "start": "397.846625", 
+    "end": "398.116625", 
+    "id": "s156_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "sure", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "you", 
+    "tag": "PRP", 
+    "start": "398.116625", 
+    "end": "398.236625", 
+    "id": "s156_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "you", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "have", 
+    "tag": "VBP", 
+    "start": "398.236625", 
+    "end": "398.416625", 
+    "id": "s156_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "have", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "a", 
+    "tag": "DT", 
+    "start": "398.416625", 
+    "end": "398.496625", 
+    "id": "s156_7", 
+    "dialAct:niteType": "statement", 
+    "subword": "a", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "representative", 
+    "tag": "JJ", 
+    "start": "398.496625", 
+    "end": "399.136625", 
+    "id": "s156_8", 
+    "dialAct:niteType": "statement", 
+    "subword": "representative", 
+    "stressProfile": "snpnn", 
+    "num_sylls": 5
+}{
+    "word": "somewhere", 
+    "tag": "NN", 
+    "start": "399.136625", 
+    "end": "399.696625", 
+    "id": "s156_9", 
+    "dialAct:niteType": "statement", 
+    "subword": "somewhere", 
+    "stressProfile": "ps", 
+    "num_sylls": 2
+}{
+    "word": "in", 
+    "tag": "IN", 
+    "start": "399.696625", 
+    "end": "399.796625", 
+    "id": "s156_10", 
+    "dialAct:niteType": "statement", 
+    "subword": "in", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "start": "399.796625", 
+    "end": "399.856625", 
+    "id": "s156_11", 
+    "dialAct:niteType": "statement", 
+    "subword": "the", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "area", 
+    "tag": "NN", 
+    "start": "399.856625", 
+    "end": "400.386625", 
+    "id": "s156_12", 
+    "dialAct:niteType": "statement", 
+    "subword": "area", 
+    "stressProfile": "pnn", 
+    "num_sylls": 3
+}{
+    "word": "just", 
+    "tag": "RB", 
+    "start": "400.616625", 
+    "end": "400.976625", 
+    "id": "s156_15", 
+    "dialAct:niteType": "statement", 
+    "subword": "just", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "nothing", 
+    "tag": "NN", 
+    "start": "400.976625", 
+    "end": "401.286625", 
+    "id": "s156_16", 
+    "dialAct:niteType": "statement", 
+    "subword": "nothing", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "more", 
+    "tag": "JJR", 
+    "start": "401.286625", 
+    "end": "401.516500", 
+    "id": "s156_17", 
+    "dialAct:niteType": "statement", 
+    "subword": "more", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "than", 
+    "tag": "IN", 
+    "start": "401.516500", 
+    "end": "401.626875", 
+    "id": "s156_18", 
+    "dialAct:niteType": "statement", 
+    "subword": "than", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "a", 
+    "tag": "DT", 
+    "start": "401.626875", 
+    "end": "401.845375", 
+    "id": "s156_19", 
+    "dialAct:niteType": "statement", 
+    "subword": "a", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "business", 
+    "tag": "NN", 
+    "start": "402.506625", 
+    "end": "402.876625", 
+    "id": "s156_20", 
+    "dialAct:niteType": "statement", 
+    "subword": "business", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "representative", 
+    "tag": "NN", 
+    "start": "402.876625", 
+    "end": "403.566625", 
+    "id": "s156_21", 
+    "dialAct:niteType": "statement", 
+    "subword": "representative", 
+    "stressProfile": "snpnn", 
+    "num_sylls": 5
+}{
+    "word": "or", 
+    "tag": "CC", 
+    "start": "403.566625", 
+    "end": "403.726625", 
+    "id": "s156_22", 
+    "dialAct:niteType": "statement", 
+    "subword": "or", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "government", 
+    "tag": "NN", 
+    "start": "403.726625", 
+    "end": "404.126625", 
+    "id": "s156_23", 
+    "dialAct:niteType": "statement", 
+    "subword": "government", 
+    "stressProfile": "pnn", 
+    "num_sylls": 3
+}{
+    "word": "services", 
+    "tag": "NNS", 
+    "start": "404.126625", 
+    "end": "404.706625", 
+    "id": "s156_24", 
+    "dialAct:niteType": "statement", 
+    "subword": "services", 
+    "stressProfile": "pnn", 
+    "num_sylls": 3
+}{
+    "word": "representative", 
+    "tag": "JJ", 
+    "start": "404.706625", 
+    "end": "405.405500", 
+    "id": "s156_25", 
+    "dialAct:niteType": "statement", 
+    "subword": "representative", 
+    "stressProfile": "snpnn", 
+    "num_sylls": 5
+}{
+    "word": "and", 
+    "tag": "CC", 
+    "start": "406.653750", 
+    "end": "407.173750", 
+    "id": "s158_2", 
+    "dialAct:niteType": "statement", 
+    "subword": "and", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "um", 
+    "tag": "UH", 
+    "start": "407.173750", 
+    "end": "407.463750", 
+    "id": "s158_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "um", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "but", 
+    "tag": "CC", 
+    "start": "408.547000", 
+    "end": "408.661375", 
+    "id": "s158_7", 
+    "dialAct:niteType": "statement", 
+    "subword": "but", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "408.661375", 
+    "end": "408.829875", 
+    "id": "s158_10", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "have", 
+    "tag": "VBP", 
+    "start": "408.829875", 
+    "end": "409.127000", 
+    "id": "s158_11", 
+    "dialAct:niteType": "statement", 
+    "subword": "have", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "409.127000", 
+    "end": "409.404000", 
+    "id": "s158_14", 
+    "dialAct:niteType": "statement", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "411.052000", 
+    "end": "411.092000", 
+    "id": "s158_16", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "have", 
+    "tag": "VBP", 
+    "start": "411.092000", 
+    "end": "411.242000", 
+    "id": "s158_17", 
+    "dialAct:niteType": "statement", 
+    "subword": "have", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "been", 
+    "tag": "VBN", 
+    "start": "411.242000", 
+    "end": "411.412000", 
+    "id": "s158_19", 
+    "dialAct:niteType": "statement", 
+    "subword": "been", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "a", 
+    "tag": "DT", 
+    "start": "411.632000", 
+    "end": "411.712000", 
+    "id": "s158_20", 
+    "dialAct:niteType": "statement", 
+    "subword": "a", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "speaker", 
+    "tag": "NN", 
+    "start": "411.712000", 
+    "end": "412.142000", 
+    "id": "s158_21", 
+    "dialAct:niteType": "statement", 
+    "subword": "speaker", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "in", 
+    "tag": "IN", 
+    "start": "412.142000", 
+    "end": "412.302000", 
+    "id": "s158_22", 
+    "dialAct:niteType": "statement", 
+    "subword": "in", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "other", 
+    "tag": "JJ", 
+    "start": "412.302000", 
+    "end": "412.810000", 
+    "id": "s158_23", 
+    "dialAct:niteType": "statement", 
+    "subword": "other", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "413.487875", 
+    "end": "413.982000", 
+    "id": "s158_25", 
+    "dialAct:niteType": "statement", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "similar", 
+    "tag": "JJ", 
+    "start": "413.982000", 
+    "end": "414.472000", 
+    "id": "s158_27", 
+    "dialAct:niteType": "statement", 
+    "subword": "similar", 
+    "stressProfile": "pnn", 
+    "num_sylls": 3
+}{
+    "word": "type", 
+    "tag": "NN", 
+    "start": "415.444375", 
+    "end": "415.744375", 
+    "id": "s158_28", 
+    "dialAct:niteType": "statement", 
+    "subword": "type", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "of", 
+    "tag": "IN", 
+    "start": "415.744375", 
+    "end": "415.884375", 
+    "id": "s158_29", 
+    "dialAct:niteType": "statement", 
+    "subword": "of", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "activities", 
+    "tag": "NNS", 
+    "start": "415.884375", 
+    "end": "416.585125", 
+    "id": "s158_30", 
+    "dialAct:niteType": "statement", 
+    "subword": "activities", 
+    "stressProfile": "npnn", 
+    "num_sylls": 4
+}{
+    "word": "And", 
+    "tag": "CC", 
+    "start": "417.432250", 
+    "end": "417.890625", 
+    "id": "s160_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "and", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "418.095750", 
+    "end": "418.254000", 
+    "id": "s160_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "know", 
+    "tag": "VBP", 
+    "start": "418.254000", 
+    "end": "418.524375", 
+    "id": "s160_4", 
+    "dialAct:niteType": "statement", 
+    "subword": "know", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "start": "418.524375", 
+    "end": "418.624375", 
+    "id": "s160_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "the", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "reason", 
+    "tag": "NN", 
+    "start": "418.624375", 
+    "end": "419.004375", 
+    "id": "s160_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "reason", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "why", 
+    "tag": "WRB", 
+    "start": "419.004375", 
+    "end": "419.164375", 
+    "id": "s160_8", 
+    "dialAct:niteType": "statement", 
+    "subword": "why", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "this", 
+    "tag": "DT", 
+    "start": "419.164375", 
+    "end": "419.404375", 
+    "id": "s160_9", 
+    "dialAct:niteType": "statement", 
+    "subword": "this", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "is", 
+    "tag": "VBZ", 
+    "start": "419.404375", 
+    "end": "419.524375", 
+    "id": "s160_10", 
+    "dialAct:niteType": "statement", 
+    "subword": "is", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "why", 
+    "tag": "WRB", 
+    "start": "419.734375", 
+    "end": "419.921250", 
+    "id": "s160_13", 
+    "dialAct:niteType": "statement", 
+    "subword": "why", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "start": "419.921250", 
+    "end": "420.117000", 
+    "id": "s160_15", 
+    "dialAct:niteType": "statement", 
+    "subword": "the", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "420.117000", 
+    "end": "420.402250", 
+    "id": "s160_18", 
+    "dialAct:niteType": "statement", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "this", 
+    "tag": "DT", 
+    "start": "420.869375", 
+    "end": "421.071500", 
+    "id": "s160_20", 
+    "dialAct:niteType": "statement", 
+    "subword": "this", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "is", 
+    "tag": "VBZ", 
+    "start": "421.071500", 
+    "end": "421.182750", 
+    "id": "s160_22", 
+    "dialAct:niteType": "statement", 
+    "subword": "is", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "being", 
+    "tag": "VBG", 
+    "start": "421.182750", 
+    "end": "421.594375", 
+    "id": "s160_24", 
+    "dialAct:niteType": "statement", 
+    "subword": "being", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "gathered", 
+    "tag": "VBN", 
+    "start": "422.195375", 
+    "end": "422.625375", 
+    "id": "s160_25", 
+    "dialAct:niteType": "statement", 
+    "subword": "gathered", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "and", 
+    "tag": "CC", 
+    "start": "422.625375", 
+    "end": "422.725375", 
+    "id": "s160_28", 
+    "dialAct:niteType": "statement", 
+    "subword": "and", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "start": "422.725375", 
+    "end": "422.785375", 
+    "id": "s160_29", 
+    "dialAct:niteType": "statement", 
+    "subword": "the", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "program", 
+    "tag": "NN", 
+    "start": "422.785375", 
+    "end": "423.265375", 
+    "id": "s160_30", 
+    "dialAct:niteType": "statement", 
+    "subword": "program", 
+    "stressProfile": "ps", 
+    "num_sylls": 2
+}{
+    "word": "and", 
+    "tag": "CC", 
+    "start": "423.265375", 
+    "end": "423.395375", 
+    "id": "s160_31", 
+    "dialAct:niteType": "statement", 
+    "subword": "and", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "so", 
+    "tag": "RB", 
+    "start": "423.395375", 
+    "end": "423.585375", 
+    "id": "s160_32", 
+    "dialAct:niteType": "statement", 
+    "subword": "so", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "forth", 
+    "tag": "RB", 
+    "start": "423.674625", 
+    "end": "423.930750", 
+    "id": "s160_33", 
+    "dialAct:niteType": "statement", 
+    "subword": "forth", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "so", 
+    "tag": "RB", 
+    "start": "423.930750", 
+    "end": "424.243375", 
+    "id": "s161_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "so", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "424.923500", 
+    "end": "425.032750", 
+    "id": "s161_4", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "was", 
+    "tag": "VBD", 
+    "start": "425.032750", 
+    "end": "425.115375", 
+    "id": "s161_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "was", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "interested", 
+    "tag": "JJ", 
+    "start": "425.115375", 
+    "end": "425.605375", 
+    "id": "s161_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "interested", 
+    "stressProfile": "pnnn", 
+    "num_sylls": 4
+}{
+    "word": "as", 
+    "tag": "IN", 
+    "start": "425.815375", 
+    "end": "425.925375", 
+    "id": "s161_8", 
+    "dialAct:niteType": "statement", 
+    "subword": "as", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "425.925375", 
+    "end": "425.995375", 
+    "id": "s161_9", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "said", 
+    "tag": "VBD", 
+    "start": "425.995375", 
+    "end": "426.235375", 
+    "id": "s161_10", 
+    "dialAct:niteType": "statement", 
+    "subword": "said", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "426.235375", 
+    "end": "426.285375", 
+    "id": "s161_12", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "was", 
+    "tag": "VBD", 
+    "start": "426.285375", 
+    "end": "426.395375", 
+    "id": "s161_13", 
+    "dialAct:niteType": "statement", 
+    "subword": "was", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "interested", 
+    "tag": "JJ", 
+    "start": "426.395375", 
+    "end": "426.875375", 
+    "id": "s161_14", 
+    "dialAct:niteType": "statement", 
+    "subword": "interested", 
+    "stressProfile": "pnnn", 
+    "num_sylls": 4
+}{
+    "word": "in", 
+    "tag": "IN", 
+    "start": "426.875375", 
+    "end": "427.045375", 
+    "id": "s161_16", 
+    "dialAct:niteType": "statement", 
+    "subword": "in", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "being", 
+    "tag": "VBG", 
+    "start": "427.045375", 
+    "end": "427.315375", 
+    "id": "s161_18", 
+    "dialAct:niteType": "statement", 
+    "subword": "being", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "a", 
+    "tag": "DT", 
+    "start": "427.315375", 
+    "end": "427.355375", 
+    "id": "s161_19", 
+    "dialAct:niteType": "statement", 
+    "subword": "a", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "speaker", 
+    "tag": "NN", 
+    "start": "427.355375", 
+    "end": "427.813875", 
+    "id": "s161_20", 
+    "dialAct:niteType": "statement", 
+    "subword": "speaker", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "We", 
+    "tag": "PRP", 
+    "start": "429.197375", 
+    "end": "429.257375", 
+    "id": "s163_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "we", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "have", 
+    "tag": "VBP", 
+    "start": "429.257375", 
+    "end": "n/a", 
+    "id": "s163_2", 
+    "dialAct:niteType": "statement", 
+    "subword": "haven't", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "n't", 
+    "tag": "RB", 
+    "start": "n/a", 
+    "end": "429.517375", 
+    "id": "s163_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "haven't", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "talked", 
+    "tag": "VBN", 
+    "start": "429.517375", 
+    "end": "429.747375", 
+    "id": "s163_4", 
+    "dialAct:niteType": "statement", 
+    "subword": "talked", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "much", 
+    "tag": "RB", 
+    "start": "429.747375", 
+    "end": "429.927375", 
+    "id": "s163_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "much", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "about", 
+    "tag": "IN", 
+    "start": "429.927375", 
+    "end": "430.207375", 
+    "id": "s163_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "about", 
+    "stressProfile": "np", 
+    "num_sylls": 2
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "start": "430.207375", 
+    "end": "430.302250", 
+    "id": "s163_7", 
+    "dialAct:niteType": "statement", 
+    "subword": "[laughter-the]", 
+    "stressProfile": "unknown", 
+    "num_sylls": "unknown"
+}{
+    "word": "weather", 
+    "tag": "NN", 
+    "start": "430.302250", 
+    "end": "431.573250", 
+    "id": "s163_8", 
+    "dialAct:niteType": "statement", 
+    "subword": "[laughter-weather]", 
+    "stressProfile": "unknown", 
+    "num_sylls": "unknown"
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "431.573250", 
+    "end": "431.716375", 
+    "id": "s165_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "know", 
+    "tag": "VBP", 
+    "start": "431.716375", 
+    "end": "431.827375", 
+    "id": "s165_2", 
+    "dialAct:niteType": "statement", 
+    "subword": "know", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "that", 
+    "tag": "DT", 
+    "start": "431.827375", 
+    "end": "n/a", 
+    "id": "s165_4", 
+    "dialAct:niteType": "statement", 
+    "subword": "that's", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "'s", 
+    "tag": "BES", 
+    "start": "n/a", 
+    "end": "431.997375", 
+    "id": "s165_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "that's", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "what", 
+    "tag": "WP", 
+    "start": "431.997375", 
+    "end": "432.097375", 
+    "id": "s165_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "what", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "we", 
+    "tag": "PRP", 
+    "start": "432.097375", 
+    "end": "n/a", 
+    "id": "s165_7", 
+    "dialAct:niteType": "statement", 
+    "subword": "we're", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "'re", 
+    "tag": "VBP", 
+    "start": "n/a", 
+    "end": "432.207375", 
+    "id": "s165_8", 
+    "dialAct:niteType": "statement", 
+    "subword": "we're", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "supposed", 
+    "tag": "VBN", 
+    "start": "432.207375", 
+    "end": "432.577375", 
+    "id": "s165_9", 
+    "dialAct:niteType": "statement", 
+    "subword": "supposed", 
+    "stressProfile": "np", 
+    "num_sylls": 2
+}{
+    "word": "to", 
+    "tag": "TO", 
+    "start": "432.577375", 
+    "end": "432.667375", 
+    "id": "s165_11", 
+    "dialAct:niteType": "statement", 
+    "subword": "to", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "do", 
+    "tag": "VB", 
+    "start": "432.667375", 
+    "end": "433.047250", 
+    "id": "s165_12", 
+    "dialAct:niteType": "statement", 
+    "subword": "do", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "Uh-huh", 
+    "tag": "UH", 
+    "start": "456.197875", 
+    "end": "456.643750", 
+    "id": "s175_1", 
+    "dialAct:niteType": "backchannel", 
+    "subword": "um-hum", 
+    "stressProfile": "unknown", 
+    "num_sylls": "unknown"
+}{
+    "word": "In", 
+    "tag": "IN", 
+    "start": "457.630000", 
+    "end": "457.750000", 
+    "id": "s176_1", 
+    "dialAct:niteType": "sum", 
+    "subword": "in", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "environmental", 
+    "tag": "JJ", 
+    "start": "457.750000", 
+    "end": "458.380000", 
+    "id": "s176_2", 
+    "dialAct:niteType": "sum", 
+    "subword": "environmental", 
+    "stressProfile": "nsnpn", 
+    "num_sylls": 5
+}{
+    "word": "engineering", 
+    "tag": "NN", 
+    "start": "458.380000", 
+    "end": "459.038625", 
+    "id": "s176_3", 
+    "dialAct:niteType": "sum", 
+    "subword": "engineering", 
+    "stressProfile": "snpn", 
+    "num_sylls": 4
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "459.471750", 
+    "end": "459.820000", 
+    "id": "s176_5", 
+    "dialAct:niteType": "sum", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "is", 
+    "tag": "VBZ", 
+    "start": "462.008500", 
+    "end": "462.168500", 
+    "id": "s178_1", 
+    "dialAct:niteType": "yn_q", 
+    "subword": "is", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "that", 
+    "tag": "DT", 
+    "start": "462.168500", 
+    "end": "462.408500", 
+    "id": "s178_2", 
+    "dialAct:niteType": "yn_q", 
+    "subword": "that", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "with", 
+    "tag": "IN", 
+    "start": "462.648500", 
+    "end": "462.938500", 
+    "id": "s178_3", 
+    "dialAct:niteType": "yn_q", 
+    "subword": "with", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "regard", 
+    "tag": "NN", 
+    "start": "462.938500", 
+    "end": "463.328500", 
+    "id": "s178_4", 
+    "dialAct:niteType": "yn_q", 
+    "subword": "regard", 
+    "stressProfile": "np", 
+    "num_sylls": 2
+}{
+    "word": "to", 
+    "tag": "TO", 
+    "start": "463.328500", 
+    "end": "463.568500", 
+    "id": "s178_5", 
+    "dialAct:niteType": "yn_q", 
+    "subword": "to", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "work", 
+    "tag": "VB", 
+    "start": "463.568500", 
+    "end": "n/a", 
+    "id": "s178_6", 
+    "dialAct:niteType": "yn_q", 
+    "subword": "workplace", 
+    "stressProfile": "ps", 
+    "num_sylls": 2
+}{
+    "word": "place", 
+    "tag": "NN", 
+    "start": "n/a", 
+    "end": "464.068500", 
+    "id": "s178_7", 
+    "dialAct:niteType": "yn_q", 
+    "subword": "workplace", 
+    "stressProfile": "ps", 
+    "num_sylls": 2
+}{
+    "word": "engineering", 
+    "tag": "NN", 
+    "start": "464.068500", 
+    "end": "464.568500", 
+    "id": "s178_8", 
+    "dialAct:niteType": "yn_q", 
+    "subword": "engineering", 
+    "stressProfile": "snpn", 
+    "num_sylls": 4
+}{
+    "word": "or", 
+    "tag": "CC", 
+    "start": "464.568500", 
+    "end": "464.708500", 
+    "id": "s178_10", 
+    "dialAct:niteType": "yn_q", 
+    "subword": "or", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "just", 
+    "tag": "RB", 
+    "start": "464.708500", 
+    "end": "465.073875", 
+    "id": "s178_11", 
+    "dialAct:niteType": "yn_q", 
+    "subword": "just", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "you", 
+    "tag": "PRP", 
+    "start": "466.025000", 
+    "end": "466.105000", 
+    "id": "s178_13", 
+    "dialAct:niteType": "yn_q", 
+    "subword": "you", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "know", 
+    "tag": "VBP", 
+    "start": "466.105000", 
+    "end": "466.345000", 
+    "id": "s178_14", 
+    "dialAct:niteType": "yn_q", 
+    "subword": "know", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "environm-", 
+    "tag": "NN", 
+    "start": "466.345000", 
+    "end": "466.915000", 
+    "id": "s178_17", 
+    "dialAct:niteType": "yn_q", 
+    "subword": "environment", 
+    "stressProfile": "npnn", 
+    "num_sylls": 4
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "start": "466.915000", 
+    "end": "466.985000", 
+    "id": "s178_20", 
+    "dialAct:niteType": "yn_q", 
+    "subword": "the", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "work", 
+    "tag": "NN", 
+    "start": "466.985000", 
+    "end": "467.165000", 
+    "id": "s178_21", 
+    "dialAct:niteType": "yn_q", 
+    "subword": "work", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "place", 
+    "tag": "NN", 
+    "start": "467.165000", 
+    "end": "467.385000", 
+    "id": "s178_22", 
+    "dialAct:niteType": "yn_q", 
+    "subword": "place", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "environment", 
+    "tag": "NN", 
+    "start": "467.385000", 
+    "end": "467.945000", 
+    "id": "s178_23", 
+    "dialAct:niteType": "yn_q", 
+    "subword": "environment", 
+    "stressProfile": "npnn", 
+    "num_sylls": 4
+}{
+    "word": "or", 
+    "tag": "CC", 
+    "start": "467.945000", 
+    "end": "468.215000", 
+    "id": "s179_1", 
+    "dialAct:niteType": "abandon", 
+    "subword": "or", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "Oh", 
+    "tag": "UH", 
+    "start": "471.919750", 
+    "end": "472.112875", 
+    "id": "s181_1", 
+    "dialAct:niteType": "acknowledge", 
+    "subword": "oh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "472.112875", 
+    "end": "472.326000", 
+    "id": "s181_3", 
+    "dialAct:niteType": "acknowledge", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "see", 
+    "tag": "VBP", 
+    "start": "472.326000", 
+    "end": "472.548375", 
+    "id": "s181_4", 
+    "dialAct:niteType": "acknowledge", 
+    "subword": "see", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "Uh-huh", 
+    "tag": "UH", 
+    "start": "491.617750", 
+    "end": "491.937750", 
+    "id": "s188_1", 
+    "dialAct:niteType": "backchannel", 
+    "subword": "um-hum", 
+    "stressProfile": "unknown", 
+    "num_sylls": "unknown"
+}{
+    "word": "Well", 
+    "tag": "UH", 
+    "start": "503.787250", 
+    "end": "503.956875", 
+    "id": "s189_1", 
+    "dialAct:niteType": "abandon", 
+    "subword": "well", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "503.956875", 
+    "end": "504.030750", 
+    "id": "s189_3", 
+    "dialAct:niteType": "abandon", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "had", 
+    "tag": "VBD", 
+    "start": "504.030750", 
+    "end": "504.197250", 
+    "id": "s189_4", 
+    "dialAct:niteType": "abandon", 
+    "subword": "had", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "my", 
+    "tag": "PRP$", 
+    "start": "504.197250", 
+    "end": "504.587250", 
+    "id": "s190_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "my", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "start": "504.837250", 
+    "end": "504.927250", 
+    "id": "s190_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "the", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "start": "504.927250", 
+    "end": "505.197250", 
+    "id": "s190_10", 
+    "dialAct:niteType": "statement", 
+    "subword": "the", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "call", 
+    "tag": "NN", 
+    "start": "505.197250", 
+    "end": "505.627250", 
+    "id": "s190_12", 
+    "dialAct:niteType": "statement", 
+    "subword": "call", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "last", 
+    "tag": "JJ", 
+    "start": "505.627250", 
+    "end": "505.917250", 
+    "id": "s190_13", 
+    "dialAct:niteType": "statement", 
+    "subword": "last", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "evening", 
+    "tag": "NN", 
+    "start": "505.917250", 
+    "end": "506.147250", 
+    "id": "s190_14", 
+    "dialAct:niteType": "statement", 
+    "subword": "evening", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "was", 
+    "tag": "VBD", 
+    "start": "506.147250", 
+    "end": "506.237250", 
+    "id": "s190_15", 
+    "dialAct:niteType": "statement", 
+    "subword": "was", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "supposed", 
+    "tag": "VBN", 
+    "start": "506.237250", 
+    "end": "506.567250", 
+    "id": "s190_16", 
+    "dialAct:niteType": "statement", 
+    "subword": "supposed", 
+    "stressProfile": "np", 
+    "num_sylls": 2
+}{
+    "word": "to", 
+    "tag": "TO", 
+    "start": "506.567250", 
+    "end": "506.671000", 
+    "id": "s190_18", 
+    "dialAct:niteType": "statement", 
+    "subword": "to", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "be", 
+    "tag": "VB", 
+    "start": "506.671000", 
+    "end": "506.983500", 
+    "id": "s190_19", 
+    "dialAct:niteType": "statement", 
+    "subword": "be", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "about", 
+    "tag": "IN", 
+    "start": "506.983500", 
+    "end": "507.297625", 
+    "id": "s190_21", 
+    "dialAct:niteType": "statement", 
+    "subword": "about", 
+    "stressProfile": "np", 
+    "num_sylls": 2
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "507.421875", 
+    "end": "507.597250", 
+    "id": "s190_24", 
+    "dialAct:niteType": "statement", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "concerning", 
+    "tag": "IN", 
+    "start": "507.597250", 
+    "end": "508.269500", 
+    "id": "s190_26", 
+    "dialAct:niteType": "statement", 
+    "subword": "concerning", 
+    "stressProfile": "npn", 
+    "num_sylls": 3
+}{
+    "word": "recycling", 
+    "tag": "NN", 
+    "start": "508.717750", 
+    "end": "509.327250", 
+    "id": "s190_28", 
+    "dialAct:niteType": "statement", 
+    "subword": "recycling", 
+    "stressProfile": "unknown", 
+    "num_sylls": "unknown"
+}{
+    "word": "in", 
+    "tag": "IN", 
+    "start": "509.994750", 
+    "end": "510.085125", 
+    "id": "s190_30", 
+    "dialAct:niteType": "statement", 
+    "subword": "in", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "start": "510.085125", 
+    "end": "510.201500", 
+    "id": "s190_31", 
+    "dialAct:niteType": "statement", 
+    "subword": "the", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "community", 
+    "tag": "NN", 
+    "start": "510.201500", 
+    "end": "510.860875", 
+    "id": "s190_32", 
+    "dialAct:niteType": "statement", 
+    "subword": "community", 
+    "stressProfile": "npnn", 
+    "num_sylls": 4
+}{
+    "word": "The", 
+    "tag": "DT", 
+    "start": "511.210000", 
+    "end": "511.326750", 
+    "id": "s192_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "the", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "call", 
+    "tag": "NN", 
+    "start": "511.326750", 
+    "end": "511.533875", 
+    "id": "s192_2", 
+    "dialAct:niteType": "statement", 
+    "subword": "call", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "511.533875", 
+    "end": "511.661875", 
+    "id": "s192_4", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "received", 
+    "tag": "VBD", 
+    "start": "511.661875", 
+    "end": "512.087250", 
+    "id": "s192_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "received", 
+    "stressProfile": "np", 
+    "num_sylls": 2
+}{
+    "word": "and", 
+    "tag": "CC", 
+    "start": "514.244000", 
+    "end": "514.524000", 
+    "id": "s193_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "and", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "so", 
+    "tag": "RB", 
+    "start": "514.524000", 
+    "end": "515.004000", 
+    "id": "s193_2", 
+    "dialAct:niteType": "statement", 
+    "subword": "so", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "515.004000", 
+    "end": "515.164000", 
+    "id": "s193_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "had", 
+    "tag": "VBD", 
+    "start": "515.164000", 
+    "end": "515.634000", 
+    "id": "s193_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "had", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "515.634000", 
+    "end": "515.938250", 
+    "id": "s193_9", 
+    "dialAct:niteType": "statement", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "517.913500", 
+    "end": "517.973500", 
+    "id": "s193_11", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "had", 
+    "tag": "VBD", 
+    "start": "517.973500", 
+    "end": "518.113500", 
+    "id": "s193_12", 
+    "dialAct:niteType": "statement", 
+    "subword": "had", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "thought", 
+    "tag": "VBN", 
+    "start": "518.113500", 
+    "end": "518.453500", 
+    "id": "s193_14", 
+    "dialAct:niteType": "statement", 
+    "subword": "thought", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "a", 
+    "tag": "DT", 
+    "start": "518.453500", 
+    "end": "518.493500", 
+    "id": "s193_15", 
+    "dialAct:niteType": "statement", 
+    "subword": "a", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "little", 
+    "tag": "JJ", 
+    "start": "518.493500", 
+    "end": "518.703500", 
+    "id": "s193_16", 
+    "dialAct:niteType": "statement", 
+    "subword": "little", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "bit", 
+    "tag": "NN", 
+    "start": "518.703500", 
+    "end": "518.823500", 
+    "id": "s193_17", 
+    "dialAct:niteType": "statement", 
+    "subword": "bit", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "about", 
+    "tag": "IN", 
+    "start": "518.823500", 
+    "end": "519.163500", 
+    "id": "s193_18", 
+    "dialAct:niteType": "statement", 
+    "subword": "about", 
+    "stressProfile": "np", 
+    "num_sylls": 2
+}{
+    "word": "it", 
+    "tag": "PRP", 
+    "start": "519.163500", 
+    "end": "519.426875", 
+    "id": "s193_19", 
+    "dialAct:niteType": "statement", 
+    "subword": "it", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "um", 
+    "tag": "UH", 
+    "start": "519.901500", 
+    "end": "520.033500", 
+    "id": "s193_21", 
+    "dialAct:niteType": "statement", 
+    "subword": "um", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "before", 
+    "tag": "GW", 
+    "start": "520.033500", 
+    "end": "520.529125", 
+    "id": "s193_23", 
+    "dialAct:niteType": "statement", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "hand", 
+    "tag": "^RB", 
+    "start": "521.355875", 
+    "end": "522.118375", 
+    "id": "s193_24", 
+    "dialAct:niteType": "statement", 
+    "subword": "beforehand", 
+    "stressProfile": "nps", 
+    "num_sylls": 3
+}{
+    "word": "So", 
+    "tag": "RB", 
+    "start": "523.197750", 
+    "end": "523.707250", 
+    "id": "s196_1", 
+    "dialAct:niteType": "abandon", 
+    "subword": "[laughter-so]", 
+    "stressProfile": "unknown", 
+    "num_sylls": "unknown"
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "523.707250", 
+    "end": "524.115125", 
+    "id": "s196_3", 
+    "dialAct:niteType": "abandon", 
+    "subword": "[laughter-i]", 
+    "stressProfile": "unknown", 
+    "num_sylls": "unknown"
+}{
+    "word": "but", 
+    "tag": "CC", 
+    "start": "525.016750", 
+    "end": "525.266750", 
+    "id": "s197_1", 
+    "dialAct:niteType": "opinion", 
+    "subword": "but", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "that", 
+    "tag": "DT", 
+    "start": "525.266750", 
+    "end": "525.536750", 
+    "id": "s197_3", 
+    "dialAct:niteType": "opinion", 
+    "subword": "th[at]-", 
+    "stressProfile": "unknown", 
+    "num_sylls": "unknown"
+}{
+    "word": "that", 
+    "tag": "DT", 
+    "start": "525.536750", 
+    "end": "n/a", 
+    "id": "s197_6", 
+    "dialAct:niteType": "opinion", 
+    "subword": "that's", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "'s", 
+    "tag": "BES", 
+    "start": "n/a", 
+    "end": "525.756750", 
+    "id": "s197_7", 
+    "dialAct:niteType": "opinion", 
+    "subword": "that's", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "interesting", 
+    "tag": "JJ", 
+    "start": "525.756750", 
+    "end": "526.126750", 
+    "id": "s197_9", 
+    "dialAct:niteType": "opinion", 
+    "subword": "interesting", 
+    "stressProfile": "pnnn", 
+    "num_sylls": 4
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "526.126750", 
+    "end": "526.256750", 
+    "id": "s198_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "have", 
+    "tag": "VBP", 
+    "start": "526.256750", 
+    "end": "526.486750", 
+    "id": "s198_2", 
+    "dialAct:niteType": "statement", 
+    "subword": "have", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "a", 
+    "tag": "DT", 
+    "start": "526.486750", 
+    "end": "526.796750", 
+    "id": "s198_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "a", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "527.538875", 
+    "end": "528.051125", 
+    "id": "s198_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "528.051125", 
+    "end": "528.176750", 
+    "id": "s198_7", 
+    "dialAct:niteType": "statement", 
+    "subword": "a", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "friend", 
+    "tag": "NN", 
+    "start": "528.176750", 
+    "end": "528.646750", 
+    "id": "s198_9", 
+    "dialAct:niteType": "statement", 
+    "subword": "friend", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "who", 
+    "tag": "WP", 
+    "start": "528.646750", 
+    "end": "529.102125", 
+    "id": "s198_10", 
+    "dialAct:niteType": "statement", 
+    "subword": "who", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "is", 
+    "tag": "VBZ", 
+    "start": "530.698000", 
+    "end": "530.858000", 
+    "id": "s198_12", 
+    "dialAct:niteType": "statement", 
+    "subword": "is", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "a", 
+    "tag": "DT", 
+    "start": "530.858000", 
+    "end": "530.908000", 
+    "id": "s198_13", 
+    "dialAct:niteType": "statement", 
+    "subword": "a", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "planner", 
+    "tag": "NN", 
+    "start": "530.908000", 
+    "end": "531.475250", 
+    "id": "s198_14", 
+    "dialAct:niteType": "statement", 
+    "subword": "planner", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "Uh", 
+    "tag": "UH", 
+    "start": "533.443125", 
+    "end": "533.713125", 
+    "id": "s198_16", 
+    "dialAct:niteType": "statement", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "a", 
+    "tag": "DT", 
+    "start": "533.713125", 
+    "end": "533.775750", 
+    "id": "s198_18", 
+    "dialAct:niteType": "statement", 
+    "subword": "a", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "city", 
+    "tag": "NN", 
+    "start": "533.775750", 
+    "end": "534.103875", 
+    "id": "s198_19", 
+    "dialAct:niteType": "statement", 
+    "subword": "city", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "planner", 
+    "tag": "NN", 
+    "start": "534.103875", 
+    "end": "534.543125", 
+    "id": "s198_20", 
+    "dialAct:niteType": "statement", 
+    "subword": "planner", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "And", 
+    "tag": "CC", 
+    "start": "535.604250", 
+    "end": "535.884250", 
+    "id": "s200_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "and", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "one", 
+    "tag": "CD", 
+    "start": "535.884250", 
+    "end": "536.034250", 
+    "id": "s200_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "one", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "of", 
+    "tag": "IN", 
+    "start": "536.034250", 
+    "end": "536.134250", 
+    "id": "s200_4", 
+    "dialAct:niteType": "statement", 
+    "subword": "of", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "his", 
+    "tag": "PRP$", 
+    "start": "536.134250", 
+    "end": "536.454250", 
+    "id": "s200_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "his", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "and", 
+    "tag": "CC", 
+    "start": "536.454250", 
+    "end": "536.594250", 
+    "id": "s201_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "and", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "he", 
+    "tag": "PRP", 
+    "start": "536.594250", 
+    "end": "536.704250", 
+    "id": "s201_2", 
+    "dialAct:niteType": "statement", 
+    "subword": "he", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "models", 
+    "tag": "VBZ", 
+    "start": "536.704250", 
+    "end": "537.505375", 
+    "id": "s201_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "models", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "537.833000", 
+    "end": "538.144250", 
+    "id": "s201_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "city", 
+    "tag": "NN", 
+    "start": "538.144250", 
+    "end": "538.434250", 
+    "id": "s201_7", 
+    "dialAct:niteType": "statement", 
+    "subword": "city", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "districts", 
+    "tag": "NNS", 
+    "start": "538.434250", 
+    "end": "538.924250", 
+    "id": "s201_8", 
+    "dialAct:niteType": "statement", 
+    "subword": "districts", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "and", 
+    "tag": "CC", 
+    "start": "538.924250", 
+    "end": "539.074250", 
+    "id": "s201_10", 
+    "dialAct:niteType": "statement", 
+    "subword": "and", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "so", 
+    "tag": "RB", 
+    "start": "539.074250", 
+    "end": "539.254250", 
+    "id": "s201_11", 
+    "dialAct:niteType": "statement", 
+    "subword": "so", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "forth", 
+    "tag": "RB", 
+    "start": "539.254250", 
+    "end": "539.694250", 
+    "id": "s201_12", 
+    "dialAct:niteType": "statement", 
+    "subword": "forth", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "539.694250", 
+    "end": "539.804625", 
+    "id": "s201_14", 
+    "dialAct:niteType": "statement", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "does", 
+    "tag": "VBZ", 
+    "start": "539.966500", 
+    "end": "540.134250", 
+    "id": "s201_16", 
+    "dialAct:niteType": "statement", 
+    "subword": "does", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "computer", 
+    "tag": "NN", 
+    "start": "540.134250", 
+    "end": "540.484250", 
+    "id": "s201_17", 
+    "dialAct:niteType": "statement", 
+    "subword": "computer", 
+    "stressProfile": "npn", 
+    "num_sylls": 3
+}{
+    "word": "modeling", 
+    "tag": "NN", 
+    "start": "540.484250", 
+    "end": "540.906125", 
+    "id": "s201_18", 
+    "dialAct:niteType": "statement", 
+    "subword": "modeling", 
+    "stressProfile": "pnn", 
+    "num_sylls": 3
+}{
+    "word": "And", 
+    "tag": "CC", 
+    "start": "541.927750", 
+    "end": "542.107750", 
+    "id": "s204_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "and", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "one", 
+    "tag": "CD", 
+    "start": "542.107750", 
+    "end": "542.231250", 
+    "id": "s204_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "one", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "of", 
+    "tag": "IN", 
+    "start": "542.231250", 
+    "end": "542.468125", 
+    "id": "s204_4", 
+    "dialAct:niteType": "statement", 
+    "subword": "of", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "start": "542.468125", 
+    "end": "542.852375", 
+    "id": "s204_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "the", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "542.852375", 
+    "end": "543.167750", 
+    "id": "s204_7", 
+    "dialAct:niteType": "statement", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "he", 
+    "tag": "PRP", 
+    "start": "543.377750", 
+    "end": "543.507750", 
+    "id": "s205_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "he", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "has", 
+    "tag": "VBZ", 
+    "start": "543.507750", 
+    "end": "543.873250", 
+    "id": "s205_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "has", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "inputs", 
+    "tag": "NNS", 
+    "start": "543.974875", 
+    "end": "544.437750", 
+    "id": "s205_4", 
+    "dialAct:niteType": "statement", 
+    "subword": "inputs", 
+    "stressProfile": "ps", 
+    "num_sylls": 2
+}{
+    "word": "or", 
+    "tag": "CC", 
+    "start": "544.437750", 
+    "end": "544.517750", 
+    "id": "s205_7", 
+    "dialAct:niteType": "statement", 
+    "subword": "or", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "gets", 
+    "tag": "VBZ", 
+    "start": "544.517750", 
+    "end": "544.777750", 
+    "id": "s205_8", 
+    "dialAct:niteType": "statement", 
+    "subword": "gets", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "inputs", 
+    "tag": "NNS", 
+    "start": "544.777750", 
+    "end": "545.267750", 
+    "id": "s205_9", 
+    "dialAct:niteType": "statement", 
+    "subword": "inputs", 
+    "stressProfile": "ps", 
+    "num_sylls": 2
+}{
+    "word": "from", 
+    "tag": "IN", 
+    "start": "545.267750", 
+    "end": "545.537750", 
+    "id": "s205_11", 
+    "dialAct:niteType": "statement", 
+    "subword": "from", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "545.537750", 
+    "end": "545.806125", 
+    "id": "s205_13", 
+    "dialAct:niteType": "statement", 
+    "subword": "a", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "an", 
+    "tag": "DT", 
+    "start": "546.299500", 
+    "end": "546.427750", 
+    "id": "s205_15", 
+    "dialAct:niteType": "statement", 
+    "subword": "an", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "environmental", 
+    "tag": "JJ", 
+    "start": "546.427750", 
+    "end": "547.117750", 
+    "id": "s205_16", 
+    "dialAct:niteType": "statement", 
+    "subword": "environmental", 
+    "stressProfile": "nsnpn", 
+    "num_sylls": 5
+}{
+    "word": "engineer", 
+    "tag": "NN", 
+    "start": "547.117750", 
+    "end": "547.687750", 
+    "id": "s205_17", 
+    "dialAct:niteType": "statement", 
+    "subword": "engineer", 
+    "stressProfile": "unknown", 
+    "num_sylls": "unknown"
+}{
+    "word": "MUMBLEx", 
+    "tag": "XX", 
+    "start": "549.205500", 
+    "end": "549.405500", 
+    "id": "s205_19", 
+    "subword": "to", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "Uh-huh", 
+    "tag": "UH", 
+    "start": "554.639250", 
+    "end": "555.032625", 
+    "id": "s210_1", 
+    "subword": "um-hum", 
+    "stressProfile": "unknown", 
+    "num_sylls": "unknown"
+}{
+    "word": "Oh", 
+    "tag": "UH", 
+    "start": "561.151500", 
+    "end": "561.302875", 
+    "id": "s213_1", 
+    "subword": "oh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "561.302875", 
+    "end": "561.476625", 
+    "id": "s213_3", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "see", 
+    "tag": "VBP", 
+    "start": "561.476625", 
+    "end": "561.791500", 
+    "id": "s213_4", 
+    "subword": "see", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "Well", 
+    "tag": "UH", 
+    "start": "579.792625", 
+    "end": "579.972625", 
+    "id": "s217_1", 
+    "dialAct:niteType": "apprec", 
+    "subword": "well", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "that", 
+    "tag": "DT", 
+    "start": "579.972625", 
+    "end": "n/a", 
+    "id": "s217_3", 
+    "dialAct:niteType": "apprec", 
+    "subword": "that's", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "'s", 
+    "tag": "BES", 
+    "start": "n/a", 
+    "end": "580.152625", 
+    "id": "s217_4", 
+    "dialAct:niteType": "apprec", 
+    "subword": "that's", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "interesting", 
+    "tag": "JJ", 
+    "start": "580.152625", 
+    "end": "580.652625", 
+    "id": "s217_5", 
+    "dialAct:niteType": "apprec", 
+    "subword": "interesting", 
+    "stressProfile": "pnnn", 
+    "num_sylls": 4
+}

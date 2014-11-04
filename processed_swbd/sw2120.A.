@@ -1,0 +1,1401 @@
+{
+    "word": "The", 
+    "tag": "DT", 
+    "start": "1.763750", 
+    "end": "1.873750", 
+    "id": "s2_1", 
+    "dialAct:niteType": "abandon", 
+    "subword": "the", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "1.873750", 
+    "end": "2.143750", 
+    "id": "s2_3", 
+    "dialAct:niteType": "abandon", 
+    "subword": "um", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "3.085000", 
+    "end": "3.531125", 
+    "id": "s2_5", 
+    "dialAct:niteType": "abandon", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "you", 
+    "tag": "PRP", 
+    "start": "3.821375", 
+    "end": "3.976250", 
+    "id": "s2_8", 
+    "dialAct:niteType": "opinion", 
+    "subword": "you", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "know", 
+    "tag": "VBP", 
+    "start": "3.976250", 
+    "end": "4.036250", 
+    "id": "s2_9", 
+    "dialAct:niteType": "opinion", 
+    "subword": "know", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "there", 
+    "tag": "EX", 
+    "start": "4.036250", 
+    "end": "4.206250", 
+    "id": "s3_1", 
+    "dialAct:niteType": "opinion", 
+    "subword": "there", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "are", 
+    "tag": "VBP", 
+    "start": "4.206250", 
+    "end": "4.316250", 
+    "id": "s3_2", 
+    "dialAct:niteType": "opinion", 
+    "subword": "are", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "so", 
+    "tag": "RB", 
+    "start": "4.316250", 
+    "end": "4.729750", 
+    "id": "s3_3", 
+    "dialAct:niteType": "opinion", 
+    "subword": "so", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "many", 
+    "tag": "JJ", 
+    "start": "4.729750", 
+    "end": "5.026250", 
+    "id": "s3_4", 
+    "dialAct:niteType": "opinion", 
+    "subword": "many", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "ramifications", 
+    "tag": "NNS", 
+    "start": "5.026250", 
+    "end": "5.996250", 
+    "id": "s3_5", 
+    "dialAct:niteType": "opinion", 
+    "subword": "ramifications", 
+    "stressProfile": "snnpn", 
+    "num_sylls": 5
+}{
+    "word": "to", 
+    "tag": "IN", 
+    "start": "5.996250", 
+    "end": "6.186250", 
+    "id": "s3_6", 
+    "dialAct:niteType": "opinion", 
+    "subword": "to", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "this", 
+    "tag": "DT", 
+    "start": "6.186250", 
+    "end": "6.574500", 
+    "id": "s3_7", 
+    "dialAct:niteType": "opinion", 
+    "subword": "this", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "entire", 
+    "tag": "JJ", 
+    "start": "6.574500", 
+    "end": "7.286250", 
+    "id": "s3_8", 
+    "dialAct:niteType": "opinion", 
+    "subword": "entire", 
+    "stressProfile": "unknown", 
+    "num_sylls": "unknown"
+}{
+    "word": "thing", 
+    "tag": "NN", 
+    "start": "7.286250", 
+    "end": "7.656250", 
+    "id": "s3_9", 
+    "dialAct:niteType": "opinion", 
+    "subword": "thing", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "of", 
+    "tag": "IN", 
+    "start": "7.656250", 
+    "end": "7.779375", 
+    "id": "s3_10", 
+    "dialAct:niteType": "opinion", 
+    "subword": "of", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "woman", 
+    "tag": "NN", 
+    "start": "8.193625", 
+    "end": "9.036250", 
+    "id": "s3_12", 
+    "dialAct:niteType": "opinion", 
+    "subword": "woman", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "how", 
+    "tag": "WRB", 
+    "start": "9.036250", 
+    "end": "9.236250", 
+    "id": "s3_15", 
+    "dialAct:niteType": "opinion", 
+    "subword": "how", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "women", 
+    "tag": "NNS", 
+    "start": "9.236250", 
+    "end": "9.706250", 
+    "id": "s3_16", 
+    "dialAct:niteType": "opinion", 
+    "subword": "women", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "have", 
+    "tag": "VBP", 
+    "start": "9.706250", 
+    "end": "9.975375", 
+    "id": "s3_18", 
+    "dialAct:niteType": "opinion", 
+    "subword": "have", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "changed", 
+    "tag": "VBN", 
+    "start": "9.975375", 
+    "end": "10.781625", 
+    "id": "s3_19", 
+    "dialAct:niteType": "opinion", 
+    "subword": "changed", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "10.781625", 
+    "end": "11.307375", 
+    "id": "s5_1", 
+    "dialAct:niteType": "directive", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "look", 
+    "tag": "VB", 
+    "start": "11.702875", 
+    "end": "12.046250", 
+    "id": "s5_4", 
+    "dialAct:niteType": "directive", 
+    "subword": "look", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "at", 
+    "tag": "IN", 
+    "start": "12.046250", 
+    "end": "12.156625", 
+    "id": "s5_5", 
+    "dialAct:niteType": "directive", 
+    "subword": "at", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "them", 
+    "tag": "PRP", 
+    "start": "12.280875", 
+    "end": "12.758000", 
+    "id": "s5_6", 
+    "dialAct:niteType": "directive", 
+    "subword": "them", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "in", 
+    "tag": "IN", 
+    "start": "12.901125", 
+    "end": "13.176875", 
+    "id": "s6_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "in", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "England", 
+    "tag": "NNP", 
+    "start": "13.176875", 
+    "end": "13.903500", 
+    "id": "s6_2", 
+    "dialAct:niteType": "statement", 
+    "subword": "England", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "Margaret", 
+    "tag": "NNP", 
+    "start": "14.723375", 
+    "end": "15.139000", 
+    "id": "s6_4", 
+    "dialAct:niteType": "statement", 
+    "subword": "Margaret", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "Thatcher", 
+    "tag": "NNP", 
+    "start": "15.139000", 
+    "end": "15.739500", 
+    "id": "s6_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "Thatcher", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "was", 
+    "tag": "VBD", 
+    "start": "15.739500", 
+    "end": "15.999000", 
+    "id": "s6_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "was", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "prime", 
+    "tag": "JJ", 
+    "start": "15.999000", 
+    "end": "16.319000", 
+    "id": "s6_7", 
+    "dialAct:niteType": "statement", 
+    "subword": "prime", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "minister", 
+    "tag": "NN", 
+    "start": "16.319000", 
+    "end": "16.884875", 
+    "id": "s6_8", 
+    "dialAct:niteType": "statement", 
+    "subword": "minister", 
+    "stressProfile": "pnn", 
+    "num_sylls": 3
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "17.340625", 
+    "end": "17.966125", 
+    "id": "s6_10", 
+    "dialAct:niteType": "statement", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "Indira", 
+    "tag": "NNP", 
+    "start": "17.966125", 
+    "end": "18.449000", 
+    "id": "s7_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "Indira", 
+    "stressProfile": "spn", 
+    "num_sylls": 3
+}{
+    "word": "Ghandi", 
+    "tag": "NNP", 
+    "start": "18.449000", 
+    "end": "19.271500", 
+    "id": "s7_2", 
+    "dialAct:niteType": "statement", 
+    "subword": "Gandhi", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "19.663250", 
+    "end": "19.839000", 
+    "id": "s7_4", 
+    "dialAct:niteType": "statement", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "in", 
+    "tag": "IN", 
+    "start": "19.839000", 
+    "end": "20.109000", 
+    "id": "s7_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "in", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "India", 
+    "tag": "NNP", 
+    "start": "20.109000", 
+    "end": "20.949000", 
+    "id": "s7_7", 
+    "dialAct:niteType": "statement", 
+    "subword": "India", 
+    "stressProfile": "pnn", 
+    "num_sylls": 3
+}{
+    "word": "so", 
+    "tag": "RB", 
+    "start": "20.949000", 
+    "end": "21.119000", 
+    "id": "s9_1", 
+    "dialAct:niteType": "opinion", 
+    "subword": "so", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "many", 
+    "tag": "JJ", 
+    "start": "21.119000", 
+    "end": "21.679000", 
+    "id": "s9_2", 
+    "dialAct:niteType": "opinion", 
+    "subword": "many", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "21.679000", 
+    "end": "21.959000", 
+    "id": "s9_4", 
+    "dialAct:niteType": "opinion", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "women", 
+    "tag": "NNS", 
+    "start": "21.959000", 
+    "end": "22.535125", 
+    "id": "s9_6", 
+    "dialAct:niteType": "opinion", 
+    "subword": "women", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "are", 
+    "tag": "VBP", 
+    "start": "22.771875", 
+    "end": "22.971500", 
+    "id": "s9_7", 
+    "dialAct:niteType": "opinion", 
+    "subword": "are", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "heads", 
+    "tag": "NNS", 
+    "start": "22.971500", 
+    "end": "23.289000", 
+    "id": "s9_8", 
+    "dialAct:niteType": "opinion", 
+    "subword": "heads", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "of", 
+    "tag": "IN", 
+    "start": "23.289000", 
+    "end": "23.399000", 
+    "id": "s9_9", 
+    "dialAct:niteType": "opinion", 
+    "subword": "of", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "state", 
+    "tag": "NN", 
+    "start": "23.399000", 
+    "end": "24.051250", 
+    "id": "s9_10", 
+    "dialAct:niteType": "opinion", 
+    "subword": "state", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "and", 
+    "tag": "CC", 
+    "start": "24.471125", 
+    "end": "24.829625", 
+    "id": "s10_1", 
+    "dialAct:niteType": "opinion", 
+    "subword": "and", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "24.829625", 
+    "end": "25.398500", 
+    "id": "s10_4", 
+    "dialAct:niteType": "opinion", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "you", 
+    "tag": "PRP", 
+    "start": "25.543875", 
+    "end": "25.683250", 
+    "id": "s10_7", 
+    "dialAct:niteType": "opinion", 
+    "subword": "you", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "know", 
+    "tag": "VBP", 
+    "start": "25.683250", 
+    "end": "26.113125", 
+    "id": "s10_8", 
+    "dialAct:niteType": "opinion", 
+    "subword": "know", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "we", 
+    "tag": "PRP", 
+    "start": "26.448375", 
+    "end": "26.691375", 
+    "id": "s10_10", 
+    "dialAct:niteType": "opinion", 
+    "subword": "we", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "we", 
+    "tag": "PRP", 
+    "start": "26.691375", 
+    "end": "26.876375", 
+    "id": "s10_14", 
+    "dialAct:niteType": "opinion", 
+    "subword": "we", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "keep", 
+    "tag": "VBP", 
+    "start": "26.876375", 
+    "end": "27.029625", 
+    "id": "s10_16", 
+    "dialAct:niteType": "opinion", 
+    "subword": "keep", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "saying", 
+    "tag": "VBG", 
+    "start": "27.029625", 
+    "end": "27.439625", 
+    "id": "s10_18", 
+    "dialAct:niteType": "opinion", 
+    "subword": "saying", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "oh", 
+    "tag": "UH", 
+    "start": "27.439625", 
+    "end": "27.559625", 
+    "id": "s10_19", 
+    "dialAct:niteType": "opinion", 
+    "subword": "oh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "yes", 
+    "tag": "UH", 
+    "start": "27.559625", 
+    "end": "27.949625", 
+    "id": "s10_20", 
+    "dialAct:niteType": "opinion", 
+    "subword": "yes", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "we", 
+    "tag": "PRP", 
+    "start": "27.949625", 
+    "end": "28.159625", 
+    "id": "s10_22", 
+    "dialAct:niteType": "opinion", 
+    "subword": "we", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "feel", 
+    "tag": "VBP", 
+    "start": "28.159625", 
+    "end": "28.379625", 
+    "id": "s10_23", 
+    "dialAct:niteType": "opinion", 
+    "subword": "feel", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "some", 
+    "tag": "DT", 
+    "start": "28.379625", 
+    "end": "n/a", 
+    "id": "s10_25", 
+    "dialAct:niteType": "opinion", 
+    "subword": "someday", 
+    "stressProfile": "ps", 
+    "num_sylls": 2
+}{
+    "word": "day", 
+    "tag": "NN", 
+    "start": "n/a", 
+    "end": "28.859625", 
+    "id": "s10_26", 
+    "dialAct:niteType": "opinion", 
+    "subword": "someday", 
+    "stressProfile": "ps", 
+    "num_sylls": 2
+}{
+    "word": "a", 
+    "tag": "DT", 
+    "start": "28.859625", 
+    "end": "28.929625", 
+    "id": "s10_27", 
+    "dialAct:niteType": "opinion", 
+    "subword": "a", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "woman", 
+    "tag": "NN", 
+    "start": "28.929625", 
+    "end": "29.299625", 
+    "id": "s10_28", 
+    "dialAct:niteType": "opinion", 
+    "subword": "woman", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "will", 
+    "tag": "MD", 
+    "start": "29.299625", 
+    "end": "29.429625", 
+    "id": "s10_29", 
+    "dialAct:niteType": "opinion", 
+    "subword": "will", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "be", 
+    "tag": "VB", 
+    "start": "29.429625", 
+    "end": "29.559625", 
+    "id": "s10_30", 
+    "dialAct:niteType": "opinion", 
+    "subword": "be", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "president", 
+    "tag": "NN", 
+    "start": "29.559625", 
+    "end": "30.311250", 
+    "id": "s10_31", 
+    "dialAct:niteType": "opinion", 
+    "subword": "president", 
+    "stressProfile": "pns", 
+    "num_sylls": 3
+}{
+    "word": "But", 
+    "tag": "CC", 
+    "start": "30.959750", 
+    "end": "31.300000", 
+    "id": "s11_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "but", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "31.300000", 
+    "end": "31.520500", 
+    "id": "s11_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "have", 
+    "tag": "VBP", 
+    "start": "31.520500", 
+    "end": "31.830500", 
+    "id": "s11_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "have", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "some", 
+    "tag": "DT", 
+    "start": "31.830500", 
+    "end": "32.080500", 
+    "id": "s11_7", 
+    "dialAct:niteType": "statement", 
+    "subword": "some", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "question", 
+    "tag": "NN", 
+    "start": "32.080500", 
+    "end": "32.510500", 
+    "id": "s11_8", 
+    "dialAct:niteType": "statement", 
+    "subword": "question", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "whether", 
+    "tag": "IN", 
+    "start": "32.510500", 
+    "end": "32.740500", 
+    "id": "s11_10", 
+    "dialAct:niteType": "statement", 
+    "subword": "whether", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "or", 
+    "tag": "CC", 
+    "start": "32.740500", 
+    "end": "32.920500", 
+    "id": "s11_11", 
+    "dialAct:niteType": "statement", 
+    "subword": "or", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "not", 
+    "tag": "RB", 
+    "start": "32.920500", 
+    "end": "33.210500", 
+    "id": "s11_12", 
+    "dialAct:niteType": "statement", 
+    "subword": "not", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "they", 
+    "tag": "PRP", 
+    "start": "33.210500", 
+    "end": "33.330500", 
+    "id": "s11_13", 
+    "dialAct:niteType": "statement", 
+    "subword": "they", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "will", 
+    "tag": "MD", 
+    "start": "33.330500", 
+    "end": "33.550500", 
+    "id": "s11_14", 
+    "dialAct:niteType": "statement", 
+    "subword": "will", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "ever", 
+    "tag": "RB", 
+    "start": "33.550500", 
+    "end": "33.820500", 
+    "id": "s11_15", 
+    "dialAct:niteType": "statement", 
+    "subword": "ever", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "really", 
+    "tag": "RB", 
+    "start": "33.820500", 
+    "end": "34.261250", 
+    "id": "s11_16", 
+    "dialAct:niteType": "statement", 
+    "subword": "really", 
+    "stressProfile": "unknown", 
+    "num_sylls": "unknown"
+}{
+    "word": "get", 
+    "tag": "VB", 
+    "start": "34.728250", 
+    "end": "35.130500", 
+    "id": "s11_17", 
+    "dialAct:niteType": "statement", 
+    "subword": "get", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "around", 
+    "tag": "IN", 
+    "start": "35.130500", 
+    "end": "35.570500", 
+    "id": "s11_18", 
+    "dialAct:niteType": "statement", 
+    "subword": "around", 
+    "stressProfile": "np", 
+    "num_sylls": 2
+}{
+    "word": "to", 
+    "tag": "IN", 
+    "start": "35.570500", 
+    "end": "35.720500", 
+    "id": "s11_19", 
+    "dialAct:niteType": "statement", 
+    "subword": "to", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "that", 
+    "tag": "DT", 
+    "start": "35.720500", 
+    "end": "35.880500", 
+    "id": "s11_20", 
+    "dialAct:niteType": "statement", 
+    "subword": "that", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "35.880500", 
+    "end": "35.960500", 
+    "id": "s12_1", 
+    "dialAct:niteType": "opinion", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "think", 
+    "tag": "VBP", 
+    "start": "35.960500", 
+    "end": "36.200500", 
+    "id": "s12_2", 
+    "dialAct:niteType": "opinion", 
+    "subword": "think", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "we", 
+    "tag": "PRP", 
+    "start": "36.200500", 
+    "end": "n/a", 
+    "id": "s12_4", 
+    "dialAct:niteType": "opinion", 
+    "subword": "we'll", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "'ll", 
+    "tag": "MD", 
+    "start": "n/a", 
+    "end": "36.340500", 
+    "id": "s12_5", 
+    "dialAct:niteType": "opinion", 
+    "subword": "we'll", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "have", 
+    "tag": "VB", 
+    "start": "36.340500", 
+    "end": "36.547625", 
+    "id": "s12_6", 
+    "dialAct:niteType": "opinion", 
+    "subword": "have", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "a", 
+    "tag": "DT", 
+    "start": "36.547625", 
+    "end": "36.690500", 
+    "id": "s12_7", 
+    "dialAct:niteType": "opinion", 
+    "subword": "a", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "black", 
+    "tag": "JJ", 
+    "start": "36.690500", 
+    "end": "37.100500", 
+    "id": "s12_8", 
+    "dialAct:niteType": "opinion", 
+    "subword": "black", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "president", 
+    "tag": "NN", 
+    "start": "37.100500", 
+    "end": "37.730250", 
+    "id": "s12_9", 
+    "dialAct:niteType": "opinion", 
+    "subword": "president", 
+    "stressProfile": "pns", 
+    "num_sylls": 3
+}{
+    "word": "b-", 
+    "tag": "IN", 
+    "start": "37.730250", 
+    "end": "37.824375", 
+    "id": "s12_11", 
+    "dialAct:niteType": "opinion", 
+    "subword": "b[efore]-", 
+    "stressProfile": "unknown", 
+    "num_sylls": "unknown"
+}{
+    "word": "before", 
+    "tag": "IN", 
+    "start": "37.993875", 
+    "end": "38.330500", 
+    "id": "s12_14", 
+    "dialAct:niteType": "opinion", 
+    "subword": "before", 
+    "stressProfile": "np", 
+    "num_sylls": 2
+}{
+    "word": "we", 
+    "tag": "PRP", 
+    "start": "38.330500", 
+    "end": "38.460500", 
+    "id": "s12_16", 
+    "dialAct:niteType": "opinion", 
+    "subword": "we", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "have", 
+    "tag": "VBP", 
+    "start": "38.460500", 
+    "end": "38.640500", 
+    "id": "s12_17", 
+    "dialAct:niteType": "opinion", 
+    "subword": "have", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "a", 
+    "tag": "DT", 
+    "start": "38.640500", 
+    "end": "38.740500", 
+    "id": "s12_18", 
+    "dialAct:niteType": "opinion", 
+    "subword": "a", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "women", 
+    "tag": "NNS", 
+    "start": "38.740500", 
+    "end": "39.080500", 
+    "id": "s12_19", 
+    "dialAct:niteType": "opinion", 
+    "subword": "woman", 
+    "stressProfile": "pn", 
+    "num_sylls": 2
+}{
+    "word": "president", 
+    "tag": "NN", 
+    "start": "39.080500", 
+    "end": "39.776250", 
+    "id": "s12_20", 
+    "dialAct:niteType": "opinion", 
+    "subword": "president", 
+    "stressProfile": "pns", 
+    "num_sylls": 3
+}{
+    "word": "And", 
+    "tag": "CC", 
+    "start": "40.549750", 
+    "end": "41.096125", 
+    "id": "s14_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "and", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "start": "41.096125", 
+    "end": "41.269750", 
+    "id": "s14_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "41.269750", 
+    "end": "41.419750", 
+    "id": "s14_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "do", 
+    "tag": "VBP", 
+    "start": "41.419750", 
+    "end": "n/a", 
+    "id": "s14_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "don't", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "n't", 
+    "tag": "RB", 
+    "start": "n/a", 
+    "end": "41.659750", 
+    "id": "s14_7", 
+    "dialAct:niteType": "statement", 
+    "subword": "don't", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "know", 
+    "tag": "VB", 
+    "start": "41.659750", 
+    "end": "41.809750", 
+    "id": "s14_8", 
+    "dialAct:niteType": "statement", 
+    "subword": "know", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "whether", 
+    "tag": "IN", 
+    "start": "41.809750", 
+    "end": "41.969750", 
+    "id": "s14_9", 
+    "dialAct:niteType": "statement", 
+    "subword": "that", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "that", 
+    "tag": "DT", 
+    "start": "41.969750", 
+    "end": "n/a", 
+    "id": "s14_10", 
+    "dialAct:niteType": "statement", 
+    "subword": "that's", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "'s", 
+    "tag": "BES", 
+    "start": "n/a", 
+    "end": "42.229750", 
+    "id": "s14_11", 
+    "dialAct:niteType": "statement", 
+    "subword": "that's", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "bad", 
+    "tag": "JJ", 
+    "start": "42.229750", 
+    "end": "42.489750", 
+    "id": "s14_12", 
+    "dialAct:niteType": "statement", 
+    "subword": "bad", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "or", 
+    "tag": "CC", 
+    "start": "42.489750", 
+    "end": "42.619750", 
+    "id": "s14_13", 
+    "dialAct:niteType": "statement", 
+    "subword": "or", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "good", 
+    "tag": "JJ", 
+    "start": "42.619750", 
+    "end": "43.039750", 
+    "id": "s14_14", 
+    "dialAct:niteType": "statement", 
+    "subword": "good", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "it", 
+    "tag": "PRP", 
+    "start": "43.039750", 
+    "end": "n/a", 
+    "id": "s15_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "it's", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "'s", 
+    "tag": "BES", 
+    "start": "n/a", 
+    "end": "43.229750", 
+    "id": "s15_2", 
+    "dialAct:niteType": "statement", 
+    "subword": "it's", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "just", 
+    "tag": "RB", 
+    "start": "43.229750", 
+    "end": "43.445000", 
+    "id": "s15_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "just", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "a", 
+    "tag": "DT", 
+    "start": "43.445000", 
+    "end": "43.659750", 
+    "id": "s15_4", 
+    "dialAct:niteType": "statement", 
+    "subword": "a", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "point", 
+    "tag": "NN", 
+    "start": "43.659750", 
+    "end": "43.999750", 
+    "id": "s15_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "point", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "that", 
+    "tag": "WDT", 
+    "start": "43.999750", 
+    "end": "44.159750", 
+    "id": "s15_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "that", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "44.159750", 
+    "end": "44.359750", 
+    "id": "s15_7", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "have", 
+    "tag": "VBP", 
+    "start": "44.359750", 
+    "end": "44.609750", 
+    "id": "s15_8", 
+    "dialAct:niteType": "statement", 
+    "subword": "have", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "observed", 
+    "tag": "VBN", 
+    "start": "44.609750", 
+    "end": "45.420375", 
+    "id": "s15_9", 
+    "dialAct:niteType": "statement", 
+    "subword": "observed", 
+    "stressProfile": "np", 
+    "num_sylls": 2
+}{
+    "word": "that", 
+    "tag": "WDT", 
+    "start": "45.804625", 
+    "end": "46.143250", 
+    "id": "s15_11", 
+    "dialAct:niteType": "statement", 
+    "subword": "that", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "we", 
+    "tag": "PRP", 
+    "start": "46.143250", 
+    "end": "46.525625", 
+    "id": "s15_12", 
+    "dialAct:niteType": "statement", 
+    "subword": "we", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "Yes", 
+    "tag": "UH", 
+    "start": "53.281750", 
+    "end": "53.771375", 
+    "id": "s20_1", 
+    "dialAct:niteType": "agree", 
+    "subword": "yes", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "Right", 
+    "tag": "UH", 
+    "start": "55.319500", 
+    "end": "55.733000", 
+    "id": "s21_1", 
+    "dialAct:niteType": "backchannel", 
+    "subword": "right", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "Uh", 
+    "tag": "UH", 
+    "start": "64.377500", 
+    "end": "64.584625", 
+    "id": "s24_1", 
+    "dialAct:niteType": "backchannel", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "oh", 
+    "tag": "UH", 
+    "start": "64.584625", 
+    "end": "64.886000", 
+    "id": "s24_3", 
+    "dialAct:niteType": "backchannel", 
+    "subword": "oh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "Uh", 
+    "tag": "UH", 
+    "start": "65.515000", 
+    "end": "65.692000", 
+    "id": "s26_1", 
+    "dialAct:niteType": "statement", 
+    "subword": "uh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "oh", 
+    "tag": "UH", 
+    "start": "65.692000", 
+    "end": "66.053625", 
+    "id": "s26_3", 
+    "dialAct:niteType": "statement", 
+    "subword": "oh", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "I", 
+    "tag": "PRP", 
+    "start": "66.053625", 
+    "end": "66.212375", 
+    "id": "s26_5", 
+    "dialAct:niteType": "statement", 
+    "subword": "i", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "think", 
+    "tag": "VBP", 
+    "start": "66.212375", 
+    "end": "66.472375", 
+    "id": "s26_6", 
+    "dialAct:niteType": "statement", 
+    "subword": "think", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "we", 
+    "tag": "PRP", 
+    "start": "66.472375", 
+    "end": "n/a", 
+    "id": "s26_10", 
+    "dialAct:niteType": "statement", 
+    "subword": "we're", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "'re", 
+    "tag": "VBP", 
+    "start": "n/a", 
+    "end": "66.626375", 
+    "id": "s26_11", 
+    "dialAct:niteType": "statement", 
+    "subword": "we're", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "we", 
+    "tag": "PRP", 
+    "start": "66.892375", 
+    "end": "n/a", 
+    "id": "s26_14", 
+    "dialAct:niteType": "statement", 
+    "subword": "we're", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "'re", 
+    "tag": "VBP", 
+    "start": "n/a", 
+    "end": "67.042375", 
+    "id": "s26_15", 
+    "dialAct:niteType": "statement", 
+    "subword": "we're", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "supposed", 
+    "tag": "VBN", 
+    "start": "67.042375", 
+    "end": "67.332375", 
+    "id": "s26_17", 
+    "dialAct:niteType": "statement", 
+    "subword": "supposed", 
+    "stressProfile": "np", 
+    "num_sylls": 2
+}{
+    "word": "to", 
+    "tag": "TO", 
+    "start": "67.332375", 
+    "end": "67.442375", 
+    "id": "s26_19", 
+    "dialAct:niteType": "statement", 
+    "subword": "to", 
+    "stressProfile": "n", 
+    "num_sylls": 1
+}{
+    "word": "hang", 
+    "tag": "VB", 
+    "start": "67.442375", 
+    "end": "67.712375", 
+    "id": "s26_20", 
+    "dialAct:niteType": "statement", 
+    "subword": "hang", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "up", 
+    "tag": "RP", 
+    "start": "67.712375", 
+    "end": "68.101750", 
+    "id": "s26_21", 
+    "dialAct:niteType": "statement", 
+    "subword": "up", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "Yes", 
+    "tag": "UH", 
+    "start": "73.025375", 
+    "end": "73.213875", 
+    "id": "s30_1", 
+    "dialAct:niteType": "backchannel", 
+    "subword": "yes", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "All", 
+    "tag": "RB", 
+    "start": "75.475375", 
+    "end": "76.143000", 
+    "id": "s32_1", 
+    "dialAct:niteType": "close", 
+    "subword": "{alrighty}", 
+    "stressProfile": "unknown", 
+    "num_sylls": "unknown"
+}{
+    "word": "Thank", 
+    "tag": "VB", 
+    "start": "76.233375", 
+    "end": "76.491750", 
+    "id": "s33_2", 
+    "dialAct:niteType": "close", 
+    "subword": "thank", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "you", 
+    "tag": "PRP", 
+    "start": "76.491750", 
+    "end": "76.774250", 
+    "id": "s33_3", 
+    "dialAct:niteType": "close", 
+    "subword": "you", 
+    "stressProfile": "p", 
+    "num_sylls": 1
+}{
+    "word": "Bye", 
+    "tag": "UH", 
+    "start": "76.913625", 
+    "end": "n/a", 
+    "id": "s34_1", 
+    "dialAct:niteType": "close", 
+    "subword": "bye-bye", 
+    "stressProfile": "pp", 
+    "num_sylls": 2
+}{
+    "word": "bye", 
+    "tag": "UH", 
+    "start": "n/a", 
+    "end": "77.509750", 
+    "id": "s34_3", 
+    "dialAct:niteType": "close", 
+    "subword": "bye-bye", 
+    "stressProfile": "pp", 
+    "num_sylls": 2
+}
