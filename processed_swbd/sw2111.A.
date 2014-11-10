@@ -1,4 +1,5 @@
 {
+    "disf_stat": "none", 
     "word": "Our", 
     "tag": "PRP$", 
     "start": "1.071500", 
@@ -11,6 +12,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "community", 
     "tag": "NN", 
     "start": "1.221500", 
@@ -23,6 +25,7 @@
     "stressProfile": "npnn", 
     "num_sylls": 4
 }{
+    "disf_stat": "none", 
     "word": "does", 
     "tag": "VBZ", 
     "start": "1.661500", 
@@ -35,6 +38,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "n't", 
     "tag": "RB", 
     "start": "n/a", 
@@ -47,6 +51,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "really", 
     "tag": "RB", 
     "start": "1.981500", 
@@ -59,6 +64,7 @@
     "stressProfile": "unknown", 
     "num_sylls": "unknown"
 }{
+    "disf_stat": "none", 
     "word": "have", 
     "tag": "VB", 
     "start": "2.231500", 
@@ -71,6 +77,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "any", 
     "tag": "DT", 
     "start": "2.521500", 
@@ -81,6 +88,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "organized", 
     "tag": "JJ", 
     "start": "2.801500", 
@@ -93,6 +101,7 @@
     "stressProfile": "pns", 
     "num_sylls": 3
 }{
+    "disf_stat": "none", 
     "word": "recycling", 
     "tag": "NN", 
     "start": "3.971625", 
@@ -105,6 +114,7 @@
     "stressProfile": "unknown", 
     "num_sylls": "unknown"
 }{
+    "disf_stat": "none", 
     "word": "drive", 
     "tag": "NN", 
     "start": "4.751500", 
@@ -117,6 +127,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "I", 
     "tag": "PRP", 
     "start": "6.847000", 
@@ -129,6 +140,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "live", 
     "tag": "VBP", 
     "start": "6.940000", 
@@ -141,6 +153,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "in", 
     "tag": "IN", 
     "start": "7.090000", 
@@ -151,6 +164,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "San", 
     "tag": "NNP", 
     "start": "7.190000", 
@@ -163,6 +177,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "Antonio", 
     "tag": "NNP", 
     "start": "7.351000", 
@@ -175,6 +190,7 @@
     "stressProfile": "npnn", 
     "num_sylls": 4
 }{
+    "disf_stat": "none", 
     "word": "Uh-huh", 
     "tag": "UH", 
     "start": "9.132500", 
@@ -185,6 +201,7 @@
     "stressProfile": "unknown", 
     "num_sylls": "unknown"
 }{
+    "disf_stat": "none", 
     "word": "Uh-huh", 
     "tag": "UH", 
     "start": "20.080000", 
@@ -195,6 +212,7 @@
     "stressProfile": "unknown", 
     "num_sylls": "unknown"
 }{
+    "disf_stat": "none", 
     "word": "Uh-huh", 
     "tag": "UH", 
     "start": "30.420625", 
@@ -205,6 +223,7 @@
     "stressProfile": "unknown", 
     "num_sylls": "unknown"
 }{
+    "disf_stat": "none", 
     "word": "Yeah", 
     "tag": "UH", 
     "start": "41.629250", 
@@ -215,6 +234,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "reparandum", 
     "word": "there", 
     "tag": "EX", 
     "start": "41.912625", 
@@ -225,6 +245,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "reparandum", 
     "word": "'s", 
     "tag": "HVS", 
     "start": "n/a", 
@@ -235,6 +256,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "repair", 
     "word": "there", 
     "tag": "EX", 
     "start": "42.209500", 
@@ -245,6 +267,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "repair", 
     "word": "'s", 
     "tag": "HVS", 
     "start": "n/a", 
@@ -255,6 +278,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "been", 
     "tag": "VBN", 
     "start": "42.462625", 
@@ -265,6 +289,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "no", 
     "tag": "DT", 
     "start": "42.872625", 
@@ -275,6 +300,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "emphasis", 
     "tag": "NN", 
     "start": "43.102625", 
@@ -285,6 +311,7 @@
     "stressProfile": "pns", 
     "num_sylls": 3
 }{
+    "disf_stat": "none", 
     "word": "on", 
     "tag": "IN", 
     "start": "43.652625", 
@@ -295,6 +322,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "recycling", 
     "tag": "NN", 
     "start": "43.772625", 
@@ -305,6 +333,7 @@
     "stressProfile": "unknown", 
     "num_sylls": "unknown"
 }{
+    "disf_stat": "none", 
     "word": "at", 
     "tag": "IN", 
     "start": "44.352625", 
@@ -315,6 +344,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "all", 
     "tag": "DT", 
     "start": "44.512625", 
@@ -325,6 +355,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "in", 
     "tag": "IN", 
     "start": "44.812625", 
@@ -335,6 +366,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "San", 
     "tag": "NNP", 
     "start": "44.962625", 
@@ -345,6 +377,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "Antonio", 
     "tag": "NNP", 
     "start": "45.112625", 
@@ -355,6 +388,7 @@
     "stressProfile": "npnn", 
     "num_sylls": 4
 }{
+    "disf_stat": "none", 
     "word": "I", 
     "tag": "PRP", 
     "start": "45.712625", 
@@ -365,6 +399,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "used", 
     "tag": "VBD", 
     "start": "45.782625", 
@@ -375,6 +410,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "to", 
     "tag": "TO", 
     "start": "46.032625", 
@@ -385,6 +421,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "work", 
     "tag": "VB", 
     "start": "46.132625", 
@@ -395,6 +432,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "for", 
     "tag": "IN", 
     "start": "46.352625", 
@@ -405,6 +443,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "the", 
     "tag": "DT", 
     "start": "46.472625", 
@@ -415,6 +454,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "power", 
     "tag": "NN", 
     "start": "46.532625", 
@@ -425,6 +465,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "company", 
     "tag": "NN", 
     "start": "46.892625", 
@@ -435,6 +476,7 @@
     "stressProfile": "pnn", 
     "num_sylls": 3
 }{
+    "disf_stat": "none", 
     "word": "here", 
     "tag": "RB", 
     "start": "47.382625", 
@@ -445,6 +487,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "and", 
     "tag": "CC", 
     "start": "47.612625", 
@@ -455,6 +498,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "there", 
     "tag": "EX", 
     "start": "47.742625", 
@@ -465,6 +509,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "was", 
     "tag": "VBD", 
     "start": "47.852625", 
@@ -475,6 +520,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "discussion", 
     "tag": "NN", 
     "start": "48.098500", 
@@ -485,6 +531,7 @@
     "stressProfile": "spn", 
     "num_sylls": 3
 }{
+    "disf_stat": "none", 
     "word": "for", 
     "tag": "IN", 
     "start": "49.316250", 
@@ -495,6 +542,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "a", 
     "tag": "DT", 
     "start": "49.517250", 
@@ -505,6 +553,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "while", 
     "tag": "NN", 
     "start": "49.617250", 
@@ -515,6 +564,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "about", 
     "tag": "IN", 
     "start": "50.247250", 
@@ -525,6 +575,7 @@
     "stressProfile": "np", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "uh", 
     "tag": "UH", 
     "start": "50.877250", 
@@ -535,6 +586,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "building", 
     "tag": "VBG", 
     "start": "51.143875", 
@@ -545,6 +597,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "a", 
     "tag": "DT", 
     "start": "51.682500", 
@@ -555,6 +608,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "garbage", 
     "tag": "NN", 
     "start": "52.136875", 
@@ -565,6 +619,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "burning", 
     "tag": "VBG", 
     "start": "52.547250", 
@@ -575,6 +630,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "uh", 
     "tag": "UH", 
     "start": "53.859500", 
@@ -585,6 +641,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "electric", 
     "tag": "JJ", 
     "start": "54.071125", 
@@ -595,6 +652,7 @@
     "stressProfile": "npn", 
     "num_sylls": 3
 }{
+    "disf_stat": "none", 
     "word": "generation", 
     "tag": "NN", 
     "start": "54.908500", 
@@ -605,6 +663,7 @@
     "stressProfile": "snpn", 
     "num_sylls": 4
 }{
+    "disf_stat": "none", 
     "word": "plant", 
     "tag": "NN", 
     "start": "55.361125", 
@@ -615,6 +674,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "but", 
     "tag": "CC", 
     "start": "56.156625", 
@@ -625,6 +685,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "it", 
     "tag": "PRP", 
     "start": "56.271125", 
@@ -635,6 +696,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "just", 
     "tag": "RB", 
     "start": "56.471125", 
@@ -645,6 +707,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "was", 
     "tag": "VBD", 
     "start": "56.721125", 
@@ -655,6 +718,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "n't", 
     "tag": "RB", 
     "start": "n/a", 
@@ -665,6 +729,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "cost", 
     "tag": "NN", 
     "start": "57.081125", 
@@ -675,6 +740,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "effective", 
     "tag": "NN", 
     "start": "57.411125", 
@@ -685,6 +751,7 @@
     "stressProfile": "npn", 
     "num_sylls": 3
 }{
+    "disf_stat": "none", 
     "word": "at", 
     "tag": "IN", 
     "start": "58.541125", 
@@ -695,6 +762,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "the", 
     "tag": "DT", 
     "start": "58.671125", 
@@ -705,6 +773,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "time", 
     "tag": "NN", 
     "start": "58.778625", 
@@ -715,6 +784,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "And", 
     "tag": "CC", 
     "start": "59.728625", 
@@ -725,6 +795,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "reparandum", 
     "word": "there", 
     "tag": "EX", 
     "start": "60.000125", 
@@ -735,6 +806,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "reparandum", 
     "word": "'s", 
     "tag": "BES", 
     "start": "n/a", 
@@ -745,6 +817,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "repair", 
     "word": "there", 
     "tag": "EX", 
     "start": "60.391250", 
@@ -755,6 +828,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "repair", 
     "word": "'s", 
     "tag": "BES", 
     "start": "n/a", 
@@ -765,6 +839,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "reparandum", 
     "word": "a", 
     "tag": "DT", 
     "start": "60.680125", 
@@ -775,6 +850,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "little", 
     "tag": "JJ", 
     "start": "61.168750", 
@@ -785,6 +861,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "recycling", 
     "tag": "NN", 
     "start": "61.660125", 
@@ -795,6 +872,7 @@
     "stressProfile": "unknown", 
     "num_sylls": "unknown"
 }{
+    "disf_stat": "none", 
     "word": "trucks", 
     "tag": "NNS", 
     "start": "62.430125", 
@@ -805,6 +883,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "and", 
     "tag": "CC", 
     "start": "62.840125", 
@@ -815,6 +894,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "things", 
     "tag": "NNS", 
     "start": "63.000125", 
@@ -825,6 +905,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "throughout", 
     "tag": "IN", 
     "start": "63.309750", 
@@ -835,6 +916,7 @@
     "stressProfile": "np", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "the", 
     "tag": "DT", 
     "start": "63.682625", 
@@ -845,6 +927,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "city", 
     "tag": "NN", 
     "start": "63.820125", 
@@ -855,6 +938,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "but", 
     "tag": "CC", 
     "start": "64.170125", 
@@ -865,6 +949,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "there", 
     "tag": "EX", 
     "start": "64.380125", 
@@ -875,6 +960,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "is", 
     "tag": "VBZ", 
     "start": "64.540125", 
@@ -885,6 +971,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "n't", 
     "tag": "RB", 
     "start": "n/a", 
@@ -895,6 +982,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "any", 
     "tag": "DT", 
     "start": "64.830125", 
@@ -905,6 +993,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "uh", 
     "tag": "UH", 
     "start": "65.346875", 
@@ -915,6 +1004,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "advertising", 
     "tag": "NN", 
     "start": "66.485750", 
@@ -925,6 +1015,7 @@
     "stressProfile": "pnsn", 
     "num_sylls": 4
 }{
+    "disf_stat": "none", 
     "word": "campaign", 
     "tag": "NN", 
     "start": "67.096875", 
@@ -935,6 +1026,7 @@
     "stressProfile": "np", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "There", 
     "tag": "EX", 
     "start": "67.616875", 
@@ -945,6 +1037,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "'s", 
     "tag": "BES", 
     "start": "n/a", 
@@ -955,6 +1048,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "just", 
     "tag": "RB", 
     "start": "67.786875", 
@@ -965,6 +1059,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "not", 
     "tag": "RB", 
     "start": "67.986875", 
@@ -975,6 +1070,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "any", 
     "tag": "DT", 
     "start": "68.196875", 
@@ -985,6 +1081,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "push", 
     "tag": "NN", 
     "start": "68.416875", 
@@ -995,6 +1092,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "to", 
     "tag": "TO", 
     "start": "68.776875", 
@@ -1005,6 +1103,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "recycle", 
     "tag": "VB", 
     "start": "68.886875", 
@@ -1015,6 +1114,7 @@
     "stressProfile": "npn", 
     "num_sylls": 3
 }{
+    "disf_stat": "none", 
     "word": "I", 
     "tag": "PRP", 
     "start": "69.396875", 
@@ -1025,6 +1125,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "recycle", 
     "tag": "VBP", 
     "start": "69.646875", 
@@ -1035,6 +1136,7 @@
     "stressProfile": "npn", 
     "num_sylls": 3
 }{
+    "disf_stat": "none", 
     "word": "my", 
     "tag": "PRP$", 
     "start": "70.166875", 
@@ -1045,6 +1147,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "newspapers", 
     "tag": "NNS", 
     "start": "70.286875", 
@@ -1055,6 +1158,7 @@
     "stressProfile": "psn", 
     "num_sylls": 3
 }{
+    "disf_stat": "none", 
     "word": "and", 
     "tag": "CC", 
     "start": "71.106875", 
@@ -1065,6 +1169,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "uh", 
     "tag": "UH", 
     "start": "71.979875", 
@@ -1075,6 +1180,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "reparandum", 
     "word": "alumi-", 
     "tag": "NN", 
     "start": "72.356875", 
@@ -1085,6 +1191,7 @@
     "stressProfile": "unknown", 
     "num_sylls": "unknown"
 }{
+    "disf_stat": "repair", 
     "word": "my", 
     "tag": "PRP$", 
     "start": "72.792625", 
@@ -1095,6 +1202,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "repair", 
     "word": "aluminum", 
     "tag": "NN", 
     "start": "72.956875", 
@@ -1105,6 +1213,7 @@
     "stressProfile": "npnn", 
     "num_sylls": 4
 }{
+    "disf_stat": "none", 
     "word": "stuff", 
     "tag": "NN", 
     "start": "74.102625", 
@@ -1115,6 +1224,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "But", 
     "tag": "CC", 
     "start": "75.275750", 
@@ -1125,6 +1235,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "uh", 
     "tag": "UH", 
     "start": "75.526000", 
@@ -1135,6 +1246,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "they", 
     "tag": "PRP", 
     "start": "76.592000", 
@@ -1145,6 +1257,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "make", 
     "tag": "VBP", 
     "start": "76.677625", 
@@ -1155,6 +1268,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "it", 
     "tag": "PRP", 
     "start": "76.937625", 
@@ -1165,6 +1279,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "as", 
     "tag": "RB", 
     "start": "77.007625", 
@@ -1175,6 +1290,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "hard", 
     "tag": "JJ", 
     "start": "77.137625", 
@@ -1185,6 +1301,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "as", 
     "tag": "IN", 
     "start": "77.347625", 
@@ -1195,6 +1312,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "possible", 
     "tag": "JJ", 
     "start": "77.427625", 
@@ -1205,6 +1323,7 @@
     "stressProfile": "pnn", 
     "num_sylls": 3
 }{
+    "disf_stat": "none", 
     "word": "it", 
     "tag": "PRP", 
     "start": "78.442875", 
@@ -1215,6 +1334,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "'s", 
     "tag": "BES", 
     "start": "n/a", 
@@ -1225,6 +1345,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "not", 
     "tag": "RB", 
     "start": "78.765250", 
@@ -1235,6 +1356,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "very", 
     "tag": "RB", 
     "start": "78.957625", 
@@ -1245,6 +1367,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "convenient", 
     "tag": "JJ", 
     "start": "79.127625", 
@@ -1255,6 +1378,7 @@
     "stressProfile": "npn", 
     "num_sylls": 3
 }{
+    "disf_stat": "none", 
     "word": "to", 
     "tag": "TO", 
     "start": "79.857625", 
@@ -1265,6 +1389,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "do", 
     "tag": "VB", 
     "start": "79.967625", 
@@ -1275,6 +1400,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "Uh-huh", 
     "tag": "UH", 
     "start": "83.005500", 
@@ -1285,6 +1411,7 @@
     "stressProfile": "unknown", 
     "num_sylls": "unknown"
 }{
+    "disf_stat": "none", 
     "word": "Yes", 
     "tag": "UH", 
     "start": "90.772875", 
@@ -1295,6 +1422,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "Uh-huh", 
     "tag": "UH", 
     "start": "105.856375", 
@@ -1305,6 +1433,7 @@
     "stressProfile": "unknown", 
     "num_sylls": "unknown"
 }{
+    "disf_stat": "none", 
     "word": "Uh-huh", 
     "tag": "UH", 
     "start": "114.735625", 
@@ -1315,6 +1444,7 @@
     "stressProfile": "unknown", 
     "num_sylls": "unknown"
 }{
+    "disf_stat": "none", 
     "word": "Yeah", 
     "tag": "UH", 
     "start": "118.864625", 
@@ -1325,6 +1455,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "Yeah", 
     "tag": "UH", 
     "start": "125.218375", 
@@ -1335,6 +1466,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "Yeah", 
     "tag": "UH", 
     "start": "133.864000", 
@@ -1345,6 +1477,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "Yes", 
     "tag": "UH", 
     "start": "148.969750", 
@@ -1355,6 +1488,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "Yeah", 
     "tag": "UH", 
     "start": "157.401375", 
@@ -1365,6 +1499,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "where", 
     "tag": "WRB", 
     "start": "157.541750", 
@@ -1375,6 +1510,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "I", 
     "tag": "PRP", 
     "start": "157.721750", 
@@ -1385,6 +1521,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "work", 
     "tag": "VBP", 
     "start": "157.801750", 
@@ -1395,6 +1532,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "now", 
     "tag": "RB", 
     "start": "158.061750", 
@@ -1405,6 +1543,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "we", 
     "tag": "PRP", 
     "start": "158.331750", 
@@ -1415,6 +1554,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "recycle", 
     "tag": "VBP", 
     "start": "158.491750", 
@@ -1425,6 +1565,7 @@
     "stressProfile": "npn", 
     "num_sylls": 3
 }{
+    "disf_stat": "none", 
     "word": "all", 
     "tag": "PDT", 
     "start": "159.101750", 
@@ -1435,6 +1576,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "the", 
     "tag": "DT", 
     "start": "159.241750", 
@@ -1445,6 +1587,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "computer", 
     "tag": "NN", 
     "start": "159.301750", 
@@ -1455,6 +1598,7 @@
     "stressProfile": "npn", 
     "num_sylls": 3
 }{
+    "disf_stat": "none", 
     "word": "paper", 
     "tag": "NN", 
     "start": "159.831750", 
@@ -1465,6 +1609,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "But", 
     "tag": "CC", 
     "start": "161.506625", 
@@ -1475,6 +1620,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "that", 
     "tag": "DT", 
     "start": "161.680750", 
@@ -1485,6 +1631,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "'s", 
     "tag": "BES", 
     "start": "n/a", 
@@ -1495,6 +1642,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "about", 
     "tag": "RB", 
     "start": "161.920750", 
@@ -1505,6 +1653,7 @@
     "stressProfile": "np", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "the", 
     "tag": "DT", 
     "start": "162.280750", 
@@ -1515,6 +1664,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "extent", 
     "tag": "NN", 
     "start": "162.360750", 
@@ -1525,6 +1675,7 @@
     "stressProfile": "np", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "of", 
     "tag": "IN", 
     "start": "162.920750", 
@@ -1535,6 +1686,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "it", 
     "tag": "PRP", 
     "start": "163.050750", 
@@ -1545,6 +1697,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "Yeah", 
     "tag": "UH", 
     "start": "165.671000", 
@@ -1555,6 +1708,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "yeah", 
     "tag": "UH", 
     "start": "166.415625", 
@@ -1565,6 +1719,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "And", 
     "tag": "CC", 
     "start": "169.867625", 
@@ -1575,6 +1730,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "I", 
     "tag": "PRP", 
     "start": "170.022500", 
@@ -1585,6 +1741,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "'m", 
     "tag": "VBP", 
     "start": "n/a", 
@@ -1595,6 +1752,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "sure", 
     "tag": "JJ", 
     "start": "170.175000", 
@@ -1605,6 +1763,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "that", 
     "tag": "IN", 
     "start": "170.435000", 
@@ -1615,6 +1774,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "the", 
     "tag": "DT", 
     "start": "170.785000", 
@@ -1625,6 +1785,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "uh", 
     "tag": "UH", 
     "start": "171.321125", 
@@ -1635,6 +1796,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "driving", 
     "tag": "VBG", 
     "start": "171.930000", 
@@ -1645,6 +1807,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "factor", 
     "tag": "NN", 
     "start": "172.355000", 
@@ -1655,6 +1818,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "for", 
     "tag": "IN", 
     "start": "172.795000", 
@@ -1665,6 +1829,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "recycling", 
     "tag": "NN", 
     "start": "172.965000", 
@@ -1675,6 +1840,7 @@
     "stressProfile": "unknown", 
     "num_sylls": "unknown"
 }{
+    "disf_stat": "none", 
     "word": "the", 
     "tag": "DT", 
     "start": "173.535000", 
@@ -1685,6 +1851,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "computer", 
     "tag": "NN", 
     "start": "173.595000", 
@@ -1695,6 +1862,7 @@
     "stressProfile": "npn", 
     "num_sylls": 3
 }{
+    "disf_stat": "none", 
     "word": "paper", 
     "tag": "NN", 
     "start": "174.015000", 
@@ -1705,6 +1873,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "is", 
     "tag": "VBZ", 
     "start": "174.415000", 
@@ -1715,6 +1884,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "that", 
     "tag": "IN", 
     "start": "174.662125", 
@@ -1725,6 +1895,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "we", 
     "tag": "PRP", 
     "start": "175.255000", 
@@ -1735,6 +1906,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "get", 
     "tag": "VBP", 
     "start": "175.395000", 
@@ -1745,6 +1917,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "paid", 
     "tag": "VBN", 
     "start": "175.595000", 
@@ -1755,6 +1928,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "to", 
     "tag": "TO", 
     "start": "176.382750", 
@@ -1765,6 +1939,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "do", 
     "tag": "VB", 
     "start": "176.485000", 
@@ -1775,6 +1950,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "so", 
     "tag": "RB", 
     "start": "176.773500", 
@@ -1785,6 +1961,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "We", 
     "tag": "PRP", 
     "start": "177.592875", 
@@ -1795,6 +1972,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "sell", 
     "tag": "VBP", 
     "start": "177.779875", 
@@ -1805,6 +1983,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "the", 
     "tag": "DT", 
     "start": "178.015000", 
@@ -1815,6 +1994,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "paper", 
     "tag": "NN", 
     "start": "178.085000", 
@@ -1825,6 +2005,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "back", 
     "tag": "RB", 
     "start": "178.455000", 
@@ -1835,6 +2016,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "reparandum", 
     "word": "to", 
     "tag": "IN", 
     "start": "178.878000", 
@@ -1845,6 +2027,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "reparandum", 
     "word": "the", 
     "tag": "DT", 
     "start": "180.027750", 
@@ -1855,6 +2038,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "repair", 
     "word": "uh", 
     "tag": "UH", 
     "start": "180.270750", 
@@ -1865,6 +2049,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "repair", 
     "word": "to", 
     "tag": "IN", 
     "start": "181.244125", 
@@ -1875,6 +2060,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "repair", 
     "word": "a", 
     "tag": "DT", 
     "start": "181.409250", 
@@ -1885,6 +2071,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "paper", 
     "tag": "NN", 
     "start": "181.915375", 
@@ -1895,6 +2082,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "manufacturing", 
     "tag": "NN", 
     "start": "182.165750", 
@@ -1905,6 +2093,7 @@
     "stressProfile": "snpnn", 
     "num_sylls": 5
 }{
+    "disf_stat": "none", 
     "word": "company", 
     "tag": "NN", 
     "start": "182.925750", 
@@ -1915,6 +2104,7 @@
     "stressProfile": "pnn", 
     "num_sylls": 3
 }{
+    "disf_stat": "none", 
     "word": "Well", 
     "tag": "UH", 
     "start": "185.544875", 
@@ -1925,6 +2115,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "reparandum", 
     "word": "it", 
     "tag": "PRP", 
     "start": "185.980625", 
@@ -1935,6 +2126,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "repair", 
     "word": "it", 
     "tag": "PRP", 
     "start": "186.300000", 
@@ -1945,6 +2137,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "defrays", 
     "tag": "VBZ", 
     "start": "186.680250", 
@@ -1955,6 +2148,7 @@
     "stressProfile": "np", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "the", 
     "tag": "DT", 
     "start": "187.160500", 
@@ -1965,6 +2159,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "cost", 
     "tag": "NN", 
     "start": "187.220500", 
@@ -1975,6 +2170,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "of", 
     "tag": "IN", 
     "start": "187.750500", 
@@ -1985,6 +2181,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "buying", 
     "tag": "VBG", 
     "start": "187.920500", 
@@ -1995,6 +2192,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "the", 
     "tag": "DT", 
     "start": "188.340500", 
@@ -2005,6 +2203,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "paper", 
     "tag": "NN", 
     "start": "188.400500", 
@@ -2015,6 +2214,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "I", 
     "tag": "PRP", 
     "start": "188.860500", 
@@ -2025,6 +2225,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "think", 
     "tag": "VBP", 
     "start": "189.027875", 
@@ -2035,6 +2236,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "I", 
     "tag": "PRP", 
     "start": "189.630500", 
@@ -2045,6 +2247,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "not", 
     "tag": "RB", 
     "start": "189.947875", 
@@ -2055,6 +2258,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "by", 
     "tag": "IN", 
     "start": "190.180500", 
@@ -2065,6 +2269,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "much", 
     "tag": "JJ", 
     "start": "190.320500", 
@@ -2075,6 +2280,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "but", 
     "tag": "CC", 
     "start": "190.840500", 
@@ -2085,6 +2291,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "it", 
     "tag": "PRP", 
     "start": "191.010500", 
@@ -2095,6 +2302,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "does", 
     "tag": "VBZ", 
     "start": "191.140500", 
@@ -2105,6 +2313,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "defray", 
     "tag": "VB", 
     "start": "191.597750", 
@@ -2115,6 +2324,7 @@
     "stressProfile": "np", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "it", 
     "tag": "PRP", 
     "start": "191.950500", 
@@ -2125,6 +2335,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "some", 
     "tag": "RB", 
     "start": "192.070500", 
@@ -2135,6 +2346,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "Enough", 
     "tag": "RB", 
     "start": "193.036500", 
@@ -2145,6 +2357,7 @@
     "stressProfile": "np", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "to", 
     "tag": "TO", 
     "start": "193.306500", 
@@ -2155,6 +2368,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "make", 
     "tag": "VB", 
     "start": "193.456500", 
@@ -2165,6 +2379,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "it", 
     "tag": "PRP", 
     "start": "193.706500", 
@@ -2175,6 +2390,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "worth", 
     "tag": "JJ", 
     "start": "194.147750", 
@@ -2185,6 +2401,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "our", 
     "tag": "PRP$", 
     "start": "194.426500", 
@@ -2195,6 +2412,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "while", 
     "tag": "NN", 
     "start": "194.526500", 
@@ -2205,6 +2423,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "to", 
     "tag": "TO", 
     "start": "194.886500", 
@@ -2215,6 +2434,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "have", 
     "tag": "VB", 
     "start": "195.553000", 
@@ -2225,6 +2445,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "several", 
     "tag": "JJ", 
     "start": "195.870125", 
@@ -2235,6 +2456,7 @@
     "stressProfile": "pnn", 
     "num_sylls": 3
 }{
+    "disf_stat": "none", 
     "word": "bins", 
     "tag": "NNS", 
     "start": "196.646500", 
@@ -2245,6 +2467,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "through", 
     "tag": "GW", 
     "start": "197.168625", 
@@ -2255,6 +2478,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "out", 
     "tag": "^IN", 
     "start": "197.246500", 
@@ -2265,6 +2489,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "the", 
     "tag": "DT", 
     "start": "197.486500", 
@@ -2275,6 +2500,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "building", 
     "tag": "NN", 
     "start": "198.078500", 
@@ -2285,6 +2511,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "Yeah", 
     "tag": "UH", 
     "start": "201.539875", 
@@ -2295,6 +2522,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "Yes", 
     "tag": "UH", 
     "start": "216.779750", 
@@ -2305,6 +2533,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "Yeah", 
     "tag": "UH", 
     "start": "224.502500", 
@@ -2315,6 +2544,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "Well", 
     "tag": "UH", 
     "start": "237.073250", 
@@ -2325,6 +2555,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "the", 
     "tag": "DT", 
     "start": "237.196750", 
@@ -2335,6 +2566,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "last", 
     "tag": "JJ", 
     "start": "237.286750", 
@@ -2345,6 +2577,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "time", 
     "tag": "NN", 
     "start": "237.606750", 
@@ -2355,6 +2588,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "uh", 
     "tag": "UH", 
     "start": "237.956750", 
@@ -2365,6 +2599,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "someone", 
     "tag": "NN", 
     "start": "239.097500", 
@@ -2375,6 +2610,7 @@
     "stressProfile": "ps", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "moved", 
     "tag": "VBD", 
     "start": "239.836875", 
@@ -2385,6 +2621,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "offices", 
     "tag": "NNS", 
     "start": "240.152250", 
@@ -2395,6 +2632,7 @@
     "stressProfile": "pnn", 
     "num_sylls": 3
 }{
+    "disf_stat": "none", 
     "word": "in", 
     "tag": "IN", 
     "start": "240.772250", 
@@ -2405,6 +2643,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "my", 
     "tag": "PRP$", 
     "start": "240.892250", 
@@ -2415,6 +2654,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "building", 
     "tag": "NN", 
     "start": "241.092250", 
@@ -2425,6 +2665,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "and", 
     "tag": "CC", 
     "start": "241.928750", 
@@ -2435,6 +2676,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "uh", 
     "tag": "UH", 
     "start": "242.112250", 
@@ -2445,6 +2687,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "the", 
     "tag": "DT", 
     "start": "242.510250", 
@@ -2455,6 +2698,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "uh", 
     "tag": "UH", 
     "start": "242.766375", 
@@ -2465,6 +2709,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "properties", 
     "tag": "NNS", 
     "start": "243.062250", 
@@ -2475,6 +2720,7 @@
     "stressProfile": "pnn", 
     "num_sylls": 3
 }{
+    "disf_stat": "none", 
     "word": "people", 
     "tag": "NNS", 
     "start": "243.642250", 
@@ -2485,6 +2731,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "came", 
     "tag": "VBD", 
     "start": "243.902250", 
@@ -2495,6 +2742,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "in", 
     "tag": "RB", 
     "start": "244.292250", 
@@ -2505,6 +2753,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "reparandum", 
     "word": "with", 
     "tag": "IN", 
     "start": "244.502250", 
@@ -2515,6 +2764,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "reparandum", 
     "word": "all", 
     "tag": "DT", 
     "start": "244.692250", 
@@ -2525,6 +2775,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "repair", 
     "word": "with", 
     "tag": "IN", 
     "start": "244.912250", 
@@ -2535,6 +2786,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "repair", 
     "word": "the", 
     "tag": "DT", 
     "start": "245.136750", 
@@ -2545,6 +2797,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "good", 
     "tag": "JJ", 
     "start": "245.212250", 
@@ -2555,6 +2808,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "cardboard", 
     "tag": "NN", 
     "start": "245.472250", 
@@ -2565,6 +2819,7 @@
     "stressProfile": "ps", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "boxes", 
     "tag": "NNS", 
     "start": "245.972250", 
@@ -2575,6 +2830,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "Not", 
     "tag": "RB", 
     "start": "246.382250", 
@@ -2585,6 +2841,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "the", 
     "tag": "DT", 
     "start": "246.582250", 
@@ -2595,6 +2852,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "cheap", 
     "tag": "JJ", 
     "start": "246.712250", 
@@ -2605,6 +2863,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "ones", 
     "tag": "NNS", 
     "start": "246.962250", 
@@ -2615,6 +2874,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "of", 
     "tag": "IN", 
     "start": "247.152250", 
@@ -2625,6 +2885,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "course", 
     "tag": "NN", 
     "start": "247.242250", 
@@ -2635,6 +2896,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "And", 
     "tag": "CC", 
     "start": "247.802250", 
@@ -2645,6 +2907,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "packed", 
     "tag": "VBD", 
     "start": "247.892250", 
@@ -2655,6 +2918,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "everything", 
     "tag": "NN", 
     "start": "248.152250", 
@@ -2665,6 +2929,7 @@
     "stressProfile": "pns", 
     "num_sylls": 3
 }{
+    "disf_stat": "none", 
     "word": "up", 
     "tag": "RP", 
     "start": "248.482250", 
@@ -2675,6 +2940,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "and", 
     "tag": "CC", 
     "start": "248.602250", 
@@ -2685,6 +2951,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "moved", 
     "tag": "VBD", 
     "start": "248.712250", 
@@ -2695,6 +2962,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "them", 
     "tag": "PRP", 
     "start": "248.942250", 
@@ -2705,6 +2973,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "and", 
     "tag": "CC", 
     "start": "249.092250", 
@@ -2715,6 +2984,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "left", 
     "tag": "VBD", 
     "start": "249.212250", 
@@ -2725,6 +2995,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "them", 
     "tag": "PRP", 
     "start": "249.432250", 
@@ -2735,6 +3006,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "lying", 
     "tag": "VBG", 
     "start": "249.592250", 
@@ -2745,6 +3017,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "around", 
     "tag": "RB", 
     "start": "249.892250", 
@@ -2755,6 +3028,7 @@
     "stressProfile": "np", 
     "num_sylls": 2
 }{
+    "disf_stat": "reparandum", 
     "word": "I", 
     "tag": "PRP", 
     "start": "n/a", 
@@ -2765,6 +3039,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "repair", 
     "word": "I", 
     "tag": "PRP", 
     "start": "251.413375", 
@@ -2775,6 +3050,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "took", 
     "tag": "VBD", 
     "start": "251.570500", 
@@ -2785,6 +3061,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "several", 
     "tag": "JJ", 
     "start": "251.832000", 
@@ -2795,6 +3072,7 @@
     "stressProfile": "pnn", 
     "num_sylls": 3
 }{
+    "disf_stat": "none", 
     "word": "home", 
     "tag": "NN", 
     "start": "252.193000", 
@@ -2805,6 +3083,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "because", 
     "tag": "IN", 
     "start": "252.433000", 
@@ -2815,6 +3094,7 @@
     "stressProfile": "np", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "I", 
     "tag": "PRP", 
     "start": "252.643000", 
@@ -2825,6 +3105,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "'m", 
     "tag": "VBP", 
     "start": "n/a", 
@@ -2835,6 +3116,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "moving", 
     "tag": "VBG", 
     "start": "252.843000", 
@@ -2845,6 +3127,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "pretty", 
     "tag": "RB", 
     "start": "253.183000", 
@@ -2855,6 +3138,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "soon", 
     "tag": "RB", 
     "start": "253.423000", 
@@ -2865,6 +3149,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "and", 
     "tag": "CC", 
     "start": "253.713000", 
@@ -2875,6 +3160,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "they", 
     "tag": "PRP", 
     "start": "253.813000", 
@@ -2885,6 +3171,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "'re", 
     "tag": "VBP", 
     "start": "n/a", 
@@ -2895,6 +3182,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "good", 
     "tag": "JJ", 
     "start": "253.973000", 
@@ -2905,6 +3193,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "boxes", 
     "tag": "NNS", 
     "start": "254.153000", 
@@ -2915,6 +3204,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "And", 
     "tag": "CC", 
     "start": "255.146875", 
@@ -2925,6 +3215,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "they", 
     "tag": "PRP", 
     "start": "255.253000", 
@@ -2935,6 +3226,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "were", 
     "tag": "VBD", 
     "start": "255.363000", 
@@ -2945,6 +3237,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "just", 
     "tag": "RB", 
     "start": "255.583000", 
@@ -2955,6 +3248,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "going", 
     "tag": "VBG", 
     "start": "255.873000", 
@@ -2965,6 +3259,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "to", 
     "tag": "TO", 
     "start": "256.053000", 
@@ -2975,6 +3270,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "throw", 
     "tag": "VB", 
     "start": "256.143000", 
@@ -2985,6 +3281,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "them", 
     "tag": "PRP", 
     "start": "256.483000", 
@@ -2995,6 +3292,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "away", 
     "tag": "RB", 
     "start": "256.653000", 
@@ -3005,6 +3303,7 @@
     "stressProfile": "np", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "Yeah", 
     "tag": "UH", 
     "start": "258.928500", 
@@ -3015,6 +3314,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "Huh-uh", 
     "tag": "UH", 
     "start": "261.142625", 
@@ -3025,6 +3325,7 @@
     "stressProfile": "unknown", 
     "num_sylls": "unknown"
 }{
+    "disf_stat": "none", 
     "word": "Right", 
     "tag": "UH", 
     "start": "263.911750", 
@@ -3035,6 +3336,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "reparandum", 
     "word": "and", 
     "tag": "CC", 
     "start": "264.384875", 
@@ -3045,6 +3347,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "repair", 
     "word": "and", 
     "tag": "CC", 
     "start": "264.504875", 
@@ -3055,6 +3358,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "these", 
     "tag": "DT", 
     "start": "264.654875", 
@@ -3065,6 +3369,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "boxes", 
     "tag": "NNS", 
     "start": "264.834875", 
@@ -3075,6 +3380,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "are", 
     "tag": "VBP", 
     "start": "265.304875", 
@@ -3085,6 +3391,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "you", 
     "tag": "PRP", 
     "start": "265.364875", 
@@ -3095,6 +3402,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "can", 
     "tag": "MD", 
     "start": "265.544875", 
@@ -3105,6 +3413,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "unfold", 
     "tag": "VB", 
     "start": "265.704875", 
@@ -3115,6 +3424,7 @@
     "stressProfile": "np", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "them", 
     "tag": "PRP", 
     "start": "266.174875", 
@@ -3125,6 +3435,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "So", 
     "tag": "RB", 
     "start": "267.063625", 
@@ -3135,6 +3446,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "you", 
     "tag": "PRP", 
     "start": "267.566750", 
@@ -3145,6 +3457,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "know", 
     "tag": "VBP", 
     "start": "267.651750", 
@@ -3155,6 +3468,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "reparandum", 
     "word": "there", 
     "tag": "RB", 
     "start": "267.841750", 
@@ -3165,6 +3479,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "repair", 
     "word": "they", 
     "tag": "PRP", 
     "start": "268.085250", 
@@ -3175,6 +3490,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "do", 
     "tag": "VBP", 
     "start": "268.191750", 
@@ -3185,6 +3501,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "n't", 
     "tag": "RB", 
     "start": "n/a", 
@@ -3195,6 +3512,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "take", 
     "tag": "VB", 
     "start": "268.411750", 
@@ -3205,6 +3523,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "up", 
     "tag": "RP", 
     "start": "268.591750", 
@@ -3215,6 +3534,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "much", 
     "tag": "JJ", 
     "start": "268.721750", 
@@ -3225,6 +3545,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "storage", 
     "tag": "NN", 
     "start": "268.921750", 
@@ -3235,6 +3556,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "space", 
     "tag": "NN", 
     "start": "269.361750", 
@@ -3245,6 +3567,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "Yeah", 
     "tag": "UH", 
     "start": "272.577750", 
@@ -3255,6 +3578,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "yeah", 
     "tag": "UH", 
     "start": "273.497500", 
@@ -3265,6 +3589,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "reparandum", 
     "word": "I", 
     "tag": "PRP", 
     "start": "n/a", 
@@ -3275,6 +3600,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "repair", 
     "word": "I", 
     "tag": "PRP", 
     "start": "274.275875", 
@@ -3285,6 +3611,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "felt", 
     "tag": "VBD", 
     "start": "274.464125", 
@@ -3295,6 +3622,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "a", 
     "tag": "DT", 
     "start": "274.717500", 
@@ -3305,6 +3633,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "little", 
     "tag": "RB", 
     "start": "274.777500", 
@@ -3315,6 +3644,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "guilty", 
     "tag": "JJ", 
     "start": "274.997500", 
@@ -3325,6 +3655,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "about", 
     "tag": "IN", 
     "start": "275.327500", 
@@ -3335,6 +3666,7 @@
     "stressProfile": "np", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "taking", 
     "tag": "VBG", 
     "start": "275.547500", 
@@ -3345,6 +3677,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "the", 
     "tag": "DT", 
     "start": "275.797500", 
@@ -3355,6 +3688,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "boxes", 
     "tag": "NNS", 
     "start": "275.857500", 
@@ -3365,6 +3699,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "for", 
     "tag": "IN", 
     "start": "276.287500", 
@@ -3375,6 +3710,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "about", 
     "tag": "RB", 
     "start": "276.417500", 
@@ -3385,6 +3721,7 @@
     "stressProfile": "np", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "two", 
     "tag": "CD", 
     "start": "276.697500", 
@@ -3395,6 +3732,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "seconds", 
     "tag": "NNS", 
     "start": "276.847500", 
@@ -3405,6 +3743,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "until", 
     "tag": "IN", 
     "start": "277.337500", 
@@ -3415,6 +3754,7 @@
     "stressProfile": "np", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "I", 
     "tag": "PRP", 
     "start": "277.557500", 
@@ -3425,6 +3765,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "realized", 
     "tag": "VBD", 
     "start": "277.679875", 
@@ -3435,6 +3776,7 @@
     "stressProfile": "pns", 
     "num_sylls": 3
 }{
+    "disf_stat": "none", 
     "word": "they", 
     "tag": "PRP", 
     "start": "278.049000", 
@@ -3445,6 +3787,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "would", 
     "tag": "MD", 
     "start": "278.117500", 
@@ -3455,6 +3798,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "be", 
     "tag": "VB", 
     "start": "278.207500", 
@@ -3465,6 +3809,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "thrown", 
     "tag": "VBN", 
     "start": "278.297500", 
@@ -3475,6 +3820,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "away", 
     "tag": "RB", 
     "start": "278.637500", 
@@ -3485,6 +3831,7 @@
     "stressProfile": "np", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "so", 
     "tag": "RB", 
     "start": "279.139000", 
@@ -3495,6 +3842,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "I", 
     "tag": "PRP", 
     "start": "280.153500", 
@@ -3505,6 +3853,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "thought", 
     "tag": "VBD", 
     "start": "280.273125", 
@@ -3515,6 +3864,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "well", 
     "tag": "UH", 
     "start": "280.484000", 
@@ -3525,6 +3875,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "I", 
     "tag": "PRP", 
     "start": "280.594000", 
@@ -3535,6 +3886,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "was", 
     "tag": "VBD", 
     "start": "280.730750", 
@@ -3545,6 +3897,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "doing", 
     "tag": "VBG", 
     "start": "280.862250", 
@@ -3555,6 +3908,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "them", 
     "tag": "PRP", 
     "start": "281.054000", 
@@ -3565,6 +3919,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "a", 
     "tag": "DT", 
     "start": "281.204000", 
@@ -3575,6 +3930,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "favor", 
     "tag": "NN", 
     "start": "281.284000", 
@@ -3585,6 +3941,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "by", 
     "tag": "IN", 
     "start": "282.091500", 
@@ -3595,6 +3952,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "taking", 
     "tag": "VBG", 
     "start": "282.215500", 
@@ -3605,6 +3963,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "them", 
     "tag": "PRP", 
     "start": "282.584625", 
@@ -3615,6 +3974,7 @@
     "stressProfile": "unknown", 
     "num_sylls": "unknown"
 }{
+    "disf_stat": "none", 
     "word": "Yeah", 
     "tag": "UH", 
     "start": "289.023750", 
@@ -3625,6 +3985,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "Uh-huh", 
     "tag": "UH", 
     "start": "295.625750", 
@@ -3635,6 +3996,7 @@
     "stressProfile": "unknown", 
     "num_sylls": "unknown"
 }{
+    "disf_stat": "none", 
     "word": "Yeah", 
     "tag": "UH", 
     "start": "297.622875", 
@@ -3645,6 +4007,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "the", 
     "tag": "DT", 
     "start": "297.967750", 
@@ -3655,6 +4018,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "ones", 
     "tag": "NNS", 
     "start": "298.167750", 
@@ -3665,6 +4029,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "at", 
     "tag": "IN", 
     "start": "298.417750", 
@@ -3675,6 +4040,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "the", 
     "tag": "DT", 
     "start": "298.487750", 
@@ -3685,6 +4051,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "grocery", 
     "tag": "NN", 
     "start": "298.547750", 
@@ -3695,6 +4062,7 @@
     "stressProfile": "unknown", 
     "num_sylls": "unknown"
 }{
+    "disf_stat": "none", 
     "word": "store", 
     "tag": "NN", 
     "start": "298.837750", 
@@ -3705,6 +4073,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "half", 
     "tag": "PDT", 
     "start": "299.007750", 
@@ -3715,6 +4084,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "the", 
     "tag": "DT", 
     "start": "299.217750", 
@@ -3725,6 +4095,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "time", 
     "tag": "NN", 
     "start": "299.287750", 
@@ -3735,6 +4106,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "they", 
     "tag": "PRP", 
     "start": "299.597750", 
@@ -3745,6 +4117,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "'ve", 
     "tag": "VBP", 
     "start": "n/a", 
@@ -3755,6 +4128,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "pulled", 
     "tag": "VBN", 
     "start": "299.767750", 
@@ -3765,6 +4139,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "the", 
     "tag": "DT", 
     "start": "300.147750", 
@@ -3775,6 +4150,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "lid", 
     "tag": "NN", 
     "start": "300.227750", 
@@ -3785,6 +4161,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "off", 
     "tag": "RP", 
     "start": "300.467750", 
@@ -3795,6 +4172,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "so", 
     "tag": "RB", 
     "start": "301.407875", 
@@ -3805,6 +4183,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "you", 
     "tag": "PRP", 
     "start": "301.453000", 
@@ -3815,6 +4194,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "ca", 
     "tag": "MD", 
     "start": "301.543625", 
@@ -3825,6 +4205,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "n't", 
     "tag": "RB", 
     "start": "n/a", 
@@ -3835,6 +4216,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "use", 
     "tag": "VB", 
     "start": "301.787750", 
@@ -3845,6 +4227,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "it", 
     "tag": "PRP", 
     "start": "302.037750", 
@@ -3855,6 +4238,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "anyway", 
     "tag": "RB", 
     "start": "302.147750", 
@@ -3865,6 +4249,7 @@
     "stressProfile": "pns", 
     "num_sylls": 3
 }{
+    "disf_stat": "none", 
     "word": "Those", 
     "tag": "DT", 
     "start": "303.320250", 
@@ -3875,6 +4260,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "and", 
     "tag": "CC", 
     "start": "303.854625", 
@@ -3885,6 +4271,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "the", 
     "tag": "DT", 
     "start": "304.100125", 
@@ -3895,6 +4282,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "real", 
     "tag": "RB", 
     "start": "304.399125", 
@@ -3905,6 +4293,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "sturdy", 
     "tag": "JJ", 
     "start": "304.635875", 
@@ -3915,6 +4304,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "boxes", 
     "tag": "NNS", 
     "start": "305.729125", 
@@ -3925,6 +4315,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "that", 
     "tag": "WDT", 
     "start": "306.366750", 
@@ -3935,6 +4326,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "copy", 
     "tag": "NN", 
     "start": "306.842000", 
@@ -3945,6 +4337,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "room", 
     "tag": "NN", 
     "start": "307.165875", 
@@ -3955,6 +4348,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "paper", 
     "tag": "NN", 
     "start": "307.425875", 
@@ -3965,6 +4359,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "comes", 
     "tag": "VBZ", 
     "start": "307.775875", 
@@ -3975,6 +4370,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "in", 
     "tag": "RP", 
     "start": "308.165875", 
@@ -3985,6 +4381,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "with", 
     "tag": "IN", 
     "start": "308.805875", 
@@ -3995,6 +4392,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "the", 
     "tag": "DT", 
     "start": "308.925875", 
@@ -4005,6 +4403,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "nice", 
     "tag": "JJ", 
     "start": "308.985875", 
@@ -4015,6 +4414,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "lids", 
     "tag": "NNS", 
     "start": "309.315875", 
@@ -4025,6 +4425,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "Those", 
     "tag": "DT", 
     "start": "309.615875", 
@@ -4035,6 +4436,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "get", 
     "tag": "VBP", 
     "start": "309.845875", 
@@ -4045,6 +4447,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "thrown", 
     "tag": "VBN", 
     "start": "310.005875", 
@@ -4055,6 +4458,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "away", 
     "tag": "RB", 
     "start": "310.235875", 
@@ -4065,6 +4469,7 @@
     "stressProfile": "np", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "And", 
     "tag": "CC", 
     "start": "311.342875", 
@@ -4075,6 +4480,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "I", 
     "tag": "PRP", 
     "start": "311.502875", 
@@ -4085,6 +4491,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "am", 
     "tag": "VBP", 
     "start": "311.642875", 
@@ -4095,6 +4502,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "constantly", 
     "tag": "RB", 
     "start": "311.772875", 
@@ -4105,6 +4513,7 @@
     "stressProfile": "pnn", 
     "num_sylls": 3
 }{
+    "disf_stat": "none", 
     "word": "scouting", 
     "tag": "VBG", 
     "start": "312.492875", 
@@ -4115,6 +4524,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "out", 
     "tag": "RP", 
     "start": "312.962875", 
@@ -4125,6 +4535,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "the", 
     "tag": "DT", 
     "start": "313.062875", 
@@ -4135,6 +4546,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "copy", 
     "tag": "NN", 
     "start": "313.122875", 
@@ -4145,6 +4557,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "room", 
     "tag": "NN", 
     "start": "313.512875", 
@@ -4155,6 +4568,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "for", 
     "tag": "IN", 
     "start": "313.742875", 
@@ -4165,6 +4579,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "those", 
     "tag": "DT", 
     "start": "313.862875", 
@@ -4175,6 +4590,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "boxes", 
     "tag": "NNS", 
     "start": "314.082875", 
@@ -4185,6 +4601,7 @@
     "stressProfile": "unknown", 
     "num_sylls": "unknown"
 }{
+    "disf_stat": "none", 
     "word": "Those", 
     "tag": "DT", 
     "start": "315.283500", 
@@ -4195,6 +4612,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "are", 
     "tag": "VBP", 
     "start": "315.485250", 
@@ -4205,6 +4623,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "perfect", 
     "tag": "JJ", 
     "start": "316.515000", 
@@ -4215,6 +4634,7 @@
     "stressProfile": "np", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "boxes", 
     "tag": "NNS", 
     "start": "316.944500", 
@@ -4225,6 +4645,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "to", 
     "tag": "TO", 
     "start": "317.374500", 
@@ -4235,6 +4656,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "put", 
     "tag": "VB", 
     "start": "317.464500", 
@@ -4245,6 +4667,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "files", 
     "tag": "NNS", 
     "start": "317.674500", 
@@ -4255,6 +4678,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "in", 
     "tag": "RP", 
     "start": "318.064500", 
@@ -4265,6 +4689,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "reparandum", 
     "word": "What", 
     "tag": "WP", 
     "start": "329.421375", 
@@ -4275,6 +4700,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "repair", 
     "word": "what", 
     "tag": "WP", 
     "start": "330.472750", 
@@ -4285,6 +4711,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "I", 
     "tag": "PRP", 
     "start": "330.619500", 
@@ -4295,6 +4722,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "'ve", 
     "tag": "VBP", 
     "start": "n/a", 
@@ -4305,6 +4733,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "done", 
     "tag": "VBN", 
     "start": "330.759500", 
@@ -4315,6 +4744,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "in", 
     "tag": "IN", 
     "start": "330.949500", 
@@ -4325,6 +4755,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "the", 
     "tag": "DT", 
     "start": "331.039500", 
@@ -4335,6 +4766,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "past", 
     "tag": "NN", 
     "start": "331.099500", 
@@ -4345,6 +4777,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "I", 
     "tag": "PRP", 
     "start": "331.589500", 
@@ -4355,6 +4788,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "do", 
     "tag": "VBP", 
     "start": "331.659500", 
@@ -4365,6 +4799,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "n't", 
     "tag": "RB", 
     "start": "n/a", 
@@ -4375,6 +4810,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "have", 
     "tag": "VB", 
     "start": "331.939500", 
@@ -4385,6 +4821,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "any", 
     "tag": "DT", 
     "start": "332.199500", 
@@ -4395,6 +4832,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "now", 
     "tag": "RB", 
     "start": "332.379500", 
@@ -4405,6 +4843,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "but", 
     "tag": "CC", 
     "start": "332.779500", 
@@ -4415,6 +4854,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "I", 
     "tag": "PRP", 
     "start": "333.436000", 
@@ -4425,6 +4865,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "would", 
     "tag": "MD", 
     "start": "333.569500", 
@@ -4435,6 +4876,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "buy", 
     "tag": "VB", 
     "start": "333.739500", 
@@ -4445,6 +4887,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "some", 
     "tag": "DT", 
     "start": "334.175625", 
@@ -4455,6 +4898,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "cheap", 
     "tag": "JJ", 
     "start": "334.559500", 
@@ -4465,6 +4909,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "wallpaper", 
     "tag": "NN", 
     "start": "334.859500", 
@@ -4475,6 +4920,7 @@
     "stressProfile": "psn", 
     "num_sylls": 3
 }{
+    "disf_stat": "none", 
     "word": "from", 
     "tag": "IN", 
     "start": "335.479500", 
@@ -4485,6 +4931,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "somewhere", 
     "tag": "RB", 
     "start": "335.825500", 
@@ -4495,6 +4942,7 @@
     "stressProfile": "ps", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "and", 
     "tag": "CC", 
     "start": "336.079500", 
@@ -4505,6 +4953,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "cover", 
     "tag": "VB", 
     "start": "336.209500", 
@@ -4515,6 +4964,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "those", 
     "tag": "DT", 
     "start": "336.499500", 
@@ -4525,6 +4975,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "nice", 
     "tag": "JJ", 
     "start": "336.831750", 
@@ -4535,6 +4986,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "boxes", 
     "tag": "NNS", 
     "start": "337.199250", 
@@ -4545,6 +4997,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "with", 
     "tag": "IN", 
     "start": "337.599500", 
@@ -4555,6 +5008,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "the", 
     "tag": "DT", 
     "start": "337.779500", 
@@ -4565,6 +5019,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "lids", 
     "tag": "NNS", 
     "start": "337.859500", 
@@ -4575,6 +5030,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "and", 
     "tag": "CC", 
     "start": "338.878125", 
@@ -4585,6 +5041,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "you", 
     "tag": "PRP", 
     "start": "338.989750", 
@@ -4595,6 +5052,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "can", 
     "tag": "MD", 
     "start": "339.184375", 
@@ -4605,6 +5063,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "stack", 
     "tag": "VB", 
     "start": "339.539500", 
@@ -4615,6 +5074,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "them", 
     "tag": "PRP", 
     "start": "339.953125", 
@@ -4625,6 +5085,7 @@
     "stressProfile": "unknown", 
     "num_sylls": "unknown"
 }{
+    "disf_stat": "none", 
     "word": "up", 
     "tag": "RP", 
     "start": "340.100000", 
@@ -4635,6 +5096,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "reparandum", 
     "word": "and", 
     "tag": "CC", 
     "start": "340.346625", 
@@ -4645,6 +5107,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "repair", 
     "word": "and", 
     "tag": "CC", 
     "start": "340.626625", 
@@ -4655,6 +5118,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "leave", 
     "tag": "VB", 
     "start": "340.816625", 
@@ -4665,6 +5129,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "them", 
     "tag": "PRP", 
     "start": "341.016625", 
@@ -4675,6 +5140,7 @@
     "stressProfile": "unknown", 
     "num_sylls": "unknown"
 }{
+    "disf_stat": "none", 
     "word": "out", 
     "tag": "RB", 
     "start": "341.146625", 
@@ -4685,6 +5151,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "and", 
     "tag": "CC", 
     "start": "341.436625", 
@@ -4695,6 +5162,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "put", 
     "tag": "VB", 
     "start": "341.931750", 
@@ -4705,6 +5173,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "things", 
     "tag": "NNS", 
     "start": "342.146625", 
@@ -4715,6 +5184,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "in", 
     "tag": "IN", 
     "start": "342.446625", 
@@ -4725,6 +5195,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "them", 
     "tag": "PRP", 
     "start": "342.606625", 
@@ -4735,6 +5206,7 @@
     "stressProfile": "unknown", 
     "num_sylls": "unknown"
 }{
+    "disf_stat": "none", 
     "word": "even", 
     "tag": "RB", 
     "start": "342.948625", 
@@ -4745,6 +5217,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "Uh-huh", 
     "tag": "UH", 
     "start": "344.304250", 
@@ -4755,6 +5228,7 @@
     "stressProfile": "unknown", 
     "num_sylls": "unknown"
 }{
+    "disf_stat": "none", 
     "word": "yeah", 
     "tag": "UH", 
     "start": "345.840500", 
@@ -4765,6 +5239,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "Yeah", 
     "tag": "UH", 
     "start": "348.741375", 
@@ -4775,6 +5250,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "well", 
     "tag": "UH", 
     "start": "349.098000", 
@@ -4785,6 +5261,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "you", 
     "tag": "PRP", 
     "start": "349.439125", 
@@ -4795,6 +5272,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "know", 
     "tag": "VBP", 
     "start": "349.569500", 
@@ -4805,6 +5283,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "it", 
     "tag": "PRP", 
     "start": "349.703000", 
@@ -4815,6 +5294,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "'s", 
     "tag": "BES", 
     "start": "n/a", 
@@ -4825,6 +5305,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "cheaper", 
     "tag": "JJR", 
     "start": "349.913000", 
@@ -4835,6 +5316,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "than", 
     "tag": "IN", 
     "start": "350.233000", 
@@ -4845,6 +5327,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "going", 
     "tag": "VBG", 
     "start": "350.383000", 
@@ -4855,6 +5338,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "and", 
     "tag": "CC", 
     "start": "350.663000", 
@@ -4865,6 +5349,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "buying", 
     "tag": "VBG", 
     "start": "350.833000", 
@@ -4875,6 +5360,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "the", 
     "tag": "DT", 
     "start": "351.213000", 
@@ -4885,6 +5371,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "kind", 
     "tag": "NN", 
     "start": "351.273000", 
@@ -4895,6 +5382,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "at", 
     "tag": "IN", 
     "start": "351.703000", 
@@ -4905,6 +5393,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "Target", 
     "tag": "NNP", 
     "start": "351.853000", 
@@ -4915,6 +5404,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "that", 
     "tag": "WDT", 
     "start": "352.403000", 
@@ -4925,6 +5415,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "are", 
     "tag": "VBP", 
     "start": "352.623000", 
@@ -4935,6 +5426,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "all", 
     "tag": "RB", 
     "start": "352.743000", 
@@ -4945,6 +5437,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "ready", 
     "tag": "JJ", 
     "start": "352.903000", 
@@ -4955,6 +5448,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "with", 
     "tag": "IN", 
     "start": "353.559500", 
@@ -4965,6 +5459,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "the", 
     "tag": "DT", 
     "start": "353.723000", 
@@ -4975,6 +5470,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "little", 
     "tag": "JJ", 
     "start": "353.823000", 
@@ -4985,6 +5481,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "design", 
     "tag": "NN", 
     "start": "354.073000", 
@@ -4995,6 +5492,7 @@
     "stressProfile": "np", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "on", 
     "tag": "IN", 
     "start": "354.683000", 
@@ -5005,6 +5503,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "them", 
     "tag": "PRP", 
     "start": "354.873000", 
@@ -5015,6 +5514,7 @@
     "stressProfile": "unknown", 
     "num_sylls": "unknown"
 }{
+    "disf_stat": "none", 
     "word": "or", 
     "tag": "CC", 
     "start": "355.023000", 
@@ -5025,6 +5525,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "whatever", 
     "tag": "WDT", 
     "start": "355.153000", 
@@ -5035,6 +5536,7 @@
     "stressProfile": "spn", 
     "num_sylls": 3
 }{
+    "disf_stat": "none", 
     "word": "Uh-huh", 
     "tag": "UH", 
     "start": "356.221000", 
@@ -5045,6 +5547,7 @@
     "stressProfile": "unknown", 
     "num_sylls": "unknown"
 }{
+    "disf_stat": "none", 
     "word": "yeah", 
     "tag": "UH", 
     "start": "359.305250", 
@@ -5055,6 +5558,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "Yes", 
     "tag": "UH", 
     "start": "362.804750", 
@@ -5065,6 +5569,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "Uh-huh", 
     "tag": "UH", 
     "start": "378.466375", 
@@ -5075,6 +5580,7 @@
     "stressProfile": "unknown", 
     "num_sylls": "unknown"
 }{
+    "disf_stat": "none", 
     "word": "Uh-huh", 
     "tag": "UH", 
     "start": "404.460125", 
@@ -5085,6 +5591,7 @@
     "stressProfile": "pp", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "Yeah", 
     "tag": "UH", 
     "start": "416.543125", 
@@ -5095,6 +5602,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "I", 
     "tag": "PRP", 
     "start": "417.300625", 
@@ -5105,6 +5613,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "live", 
     "tag": "VBP", 
     "start": "417.420750", 
@@ -5115,6 +5624,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "near", 
     "tag": "RB", 
     "start": "417.620750", 
@@ -5125,6 +5635,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "a", 
     "tag": "DT", 
     "start": "417.850750", 
@@ -5135,6 +5646,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "Walmart", 
     "tag": "NNP", 
     "start": "417.920750", 
@@ -5145,6 +5657,7 @@
     "stressProfile": "ps", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "and", 
     "tag": "CC", 
     "start": "418.480750", 
@@ -5155,6 +5668,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "there", 
     "tag": "EX", 
     "start": "418.634500", 
@@ -5165,6 +5679,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "'s", 
     "tag": "BES", 
     "start": "n/a", 
@@ -5175,6 +5690,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "a", 
     "tag": "DT", 
     "start": "418.890500", 
@@ -5185,6 +5701,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "big", 
     "tag": "JJ", 
     "start": "419.169375", 
@@ -5195,6 +5712,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "uh", 
     "tag": "UH", 
     "start": "420.195750", 
@@ -5205,6 +5723,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "uh", 
     "tag": "UH", 
     "start": "420.739375", 
@@ -5215,6 +5734,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "huge", 
     "tag": "JJ", 
     "start": "421.481375", 
@@ -5225,6 +5745,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "dumpster", 
     "tag": "NN", 
     "start": "422.367875", 
@@ -5235,6 +5756,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "looking", 
     "tag": "JJ", 
     "start": "422.836875", 
@@ -5245,6 +5767,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "thing", 
     "tag": "NN", 
     "start": "423.136875", 
@@ -5255,6 +5778,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "sitting", 
     "tag": "VBG", 
     "start": "423.580000", 
@@ -5265,6 +5789,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "out", 
     "tag": "IN", 
     "start": "423.760750", 
@@ -5275,6 +5800,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "front", 
     "tag": "RB", 
     "start": "423.966875", 
@@ -5285,6 +5811,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "in", 
     "tag": "IN", 
     "start": "424.406875", 
@@ -5295,6 +5822,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "fact", 
     "tag": "NN", 
     "start": "424.546875", 
@@ -5305,6 +5833,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "I", 
     "tag": "PRP", 
     "start": "424.806875", 
@@ -5315,6 +5844,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "think", 
     "tag": "VBP", 
     "start": "424.846875", 
@@ -5325,6 +5855,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "there", 
     "tag": "EX", 
     "start": "425.056875", 
@@ -5335,6 +5866,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "'s", 
     "tag": "BES", 
     "start": "n/a", 
@@ -5345,6 +5877,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "two", 
     "tag": "CD", 
     "start": "425.236875", 
@@ -5355,6 +5888,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "of", 
     "tag": "IN", 
     "start": "425.446875", 
@@ -5365,6 +5899,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "them", 
     "tag": "PRP", 
     "start": "425.626875", 
@@ -5375,6 +5910,7 @@
     "stressProfile": "unknown", 
     "num_sylls": "unknown"
 }{
+    "disf_stat": "none", 
     "word": "that", 
     "tag": "WDT", 
     "start": "426.378750", 
@@ -5385,6 +5921,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "have", 
     "tag": "VBP", 
     "start": "426.580750", 
@@ -5395,6 +5932,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "several", 
     "tag": "JJ", 
     "start": "426.816875", 
@@ -5405,6 +5943,7 @@
     "stressProfile": "pnn", 
     "num_sylls": 3
 }{
+    "disf_stat": "none", 
     "word": "openings", 
     "tag": "NNS", 
     "start": "427.206875", 
@@ -5415,6 +5954,7 @@
     "stressProfile": "pnn", 
     "num_sylls": 3
 }{
+    "disf_stat": "none", 
     "word": "and", 
     "tag": "CC", 
     "start": "428.440125", 
@@ -5425,6 +5965,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "it", 
     "tag": "PRP", 
     "start": "428.580125", 
@@ -5435,6 +5976,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "'s", 
     "tag": "BES", 
     "start": "n/a", 
@@ -5445,6 +5987,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "for", 
     "tag": "IN", 
     "start": "428.730125", 
@@ -5455,6 +5998,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "recycling", 
     "tag": "NN", 
     "start": "428.900125", 
@@ -5465,6 +6009,7 @@
     "stressProfile": "unknown", 
     "num_sylls": "unknown"
 }{
+    "disf_stat": "none", 
     "word": "and", 
     "tag": "CC", 
     "start": "429.710125", 
@@ -5475,6 +6020,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "they", 
     "tag": "PRP", 
     "start": "429.820125", 
@@ -5485,6 +6031,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "have", 
     "tag": "VBP", 
     "start": "429.930125", 
@@ -5495,6 +6042,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "aluminum", 
     "tag": "NN", 
     "start": "430.360125", 
@@ -5505,6 +6053,7 @@
     "stressProfile": "npnn", 
     "num_sylls": 4
 }{
+    "disf_stat": "none", 
     "word": "and", 
     "tag": "CC", 
     "start": "430.990125", 
@@ -5515,6 +6064,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "newspaper", 
     "tag": "NN", 
     "start": "431.090125", 
@@ -5525,6 +6075,7 @@
     "stressProfile": "psn", 
     "num_sylls": 3
 }{
+    "disf_stat": "none", 
     "word": "and", 
     "tag": "CC", 
     "start": "431.770125", 
@@ -5535,6 +6086,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "plastic", 
     "tag": "NN", 
     "start": "431.940125", 
@@ -5545,6 +6097,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "and", 
     "tag": "CC", 
     "start": "432.460125", 
@@ -5555,6 +6108,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "some", 
     "tag": "DT", 
     "start": "432.680125", 
@@ -5565,6 +6119,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "other", 
     "tag": "JJ", 
     "start": "432.850125", 
@@ -5575,6 +6130,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "category", 
     "tag": "NN", 
     "start": "433.322500", 
@@ -5585,6 +6141,7 @@
     "stressProfile": "pnsn", 
     "num_sylls": 4
 }{
+    "disf_stat": "none", 
     "word": "I", 
     "tag": "PRP", 
     "start": "433.880125", 
@@ -5595,6 +6152,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "do", 
     "tag": "VBP", 
     "start": "433.930125", 
@@ -5605,6 +6163,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "n't", 
     "tag": "RB", 
     "start": "n/a", 
@@ -5615,6 +6174,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "maybe", 
     "tag": "RB", 
     "start": "434.180125", 
@@ -5625,6 +6185,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "there", 
     "tag": "EX", 
     "start": "434.430125", 
@@ -5635,6 +6196,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "'s", 
     "tag": "BES", 
     "start": "n/a", 
@@ -5645,6 +6207,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "two", 
     "tag": "CD", 
     "start": "434.590125", 
@@ -5655,6 +6218,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "for", 
     "tag": "IN", 
     "start": "434.820125", 
@@ -5665,6 +6229,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "aluminum", 
     "tag": "NN", 
     "start": "434.920125", 
@@ -5675,6 +6240,7 @@
     "stressProfile": "npnn", 
     "num_sylls": 4
 }{
+    "disf_stat": "none", 
     "word": "And", 
     "tag": "CC", 
     "start": "435.809750", 
@@ -5685,6 +6251,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "you", 
     "tag": "PRP", 
     "start": "435.959375", 
@@ -5695,6 +6262,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "do", 
     "tag": "VBP", 
     "start": "436.019375", 
@@ -5705,6 +6273,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "n't", 
     "tag": "RB", 
     "start": "n/a", 
@@ -5715,6 +6284,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "get", 
     "tag": "VB", 
     "start": "436.239375", 
@@ -5725,6 +6295,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "paid", 
     "tag": "VBN", 
     "start": "436.429375", 
@@ -5735,6 +6306,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "but", 
     "tag": "CC", 
     "start": "436.929375", 
@@ -5745,6 +6317,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "it", 
     "tag": "PRP", 
     "start": "437.069375", 
@@ -5755,6 +6328,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "'s", 
     "tag": "BES", 
     "start": "n/a", 
@@ -5765,6 +6339,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "real", 
     "tag": "RB", 
     "start": "437.249375", 
@@ -5775,6 +6350,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "convenient", 
     "tag": "JJ", 
     "start": "437.379375", 
@@ -5785,6 +6361,7 @@
     "stressProfile": "npn", 
     "num_sylls": 3
 }{
+    "disf_stat": "none", 
     "word": "just", 
     "tag": "RB", 
     "start": "437.879375", 
@@ -5795,6 +6372,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "to", 
     "tag": "TO", 
     "start": "438.069375", 
@@ -5805,6 +6383,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "chunk", 
     "tag": "VB", 
     "start": "438.385500", 
@@ -5815,6 +6394,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "the", 
     "tag": "DT", 
     "start": "438.719375", 
@@ -5825,6 +6405,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "newspapers", 
     "tag": "NNS", 
     "start": "438.799375", 
@@ -5835,6 +6416,7 @@
     "stressProfile": "psn", 
     "num_sylls": 3
 }{
+    "disf_stat": "none", 
     "word": "in", 
     "tag": "IN", 
     "start": "439.449375", 
@@ -5845,6 +6427,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "there", 
     "tag": "RB", 
     "start": "439.599375", 
@@ -5855,6 +6438,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "Yeah", 
     "tag": "UH", 
     "start": "440.979625", 
@@ -5865,6 +6449,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "Uh-huh", 
     "tag": "UH", 
     "start": "453.375125", 
@@ -5875,6 +6460,7 @@
     "stressProfile": "unknown", 
     "num_sylls": "unknown"
 }{
+    "disf_stat": "none", 
     "word": "Uh-huh", 
     "tag": "UH", 
     "start": "461.150125", 
@@ -5885,6 +6471,7 @@
     "stressProfile": "unknown", 
     "num_sylls": "unknown"
 }{
+    "disf_stat": "none", 
     "word": "Uh-huh", 
     "tag": "UH", 
     "start": "475.372375", 
@@ -5895,6 +6482,7 @@
     "stressProfile": "unknown", 
     "num_sylls": "unknown"
 }{
+    "disf_stat": "none", 
     "word": "Uh-huh", 
     "tag": "UH", 
     "start": "481.462875", 
@@ -5905,6 +6493,7 @@
     "stressProfile": "unknown", 
     "num_sylls": "unknown"
 }{
+    "disf_stat": "none", 
     "word": "It", 
     "tag": "PRP", 
     "start": "482.117250", 
@@ -5915,6 +6504,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "gets", 
     "tag": "VBZ", 
     "start": "482.242875", 
@@ -5925,6 +6515,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "to", 
     "tag": "TO", 
     "start": "482.482875", 
@@ -5935,6 +6526,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "be", 
     "tag": "VB", 
     "start": "482.632875", 
@@ -5945,6 +6537,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "uh", 
     "tag": "UH", 
     "start": "483.125250", 
@@ -5955,6 +6548,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "I", 
     "tag": "PRP", 
     "start": "483.640500", 
@@ -5965,6 +6559,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "guess", 
     "tag": "VBP", 
     "start": "483.812375", 
@@ -5975,6 +6570,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "you", 
     "tag": "PRP", 
     "start": "484.032875", 
@@ -5985,6 +6581,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "have", 
     "tag": "VBP", 
     "start": "484.192875", 
@@ -5995,6 +6592,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "to", 
     "tag": "TO", 
     "start": "484.402875", 
@@ -6005,6 +6603,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "make", 
     "tag": "VB", 
     "start": "484.542875", 
@@ -6015,6 +6614,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "it", 
     "tag": "PRP", 
     "start": "484.832875", 
@@ -6025,6 +6625,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "a", 
     "tag": "DT", 
     "start": "484.922875", 
@@ -6035,6 +6636,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "habit", 
     "tag": "NN", 
     "start": "485.022875", 
@@ -6045,6 +6647,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "I", 
     "tag": "PRP", 
     "start": "485.442875", 
@@ -6055,6 +6658,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "mean", 
     "tag": "VBP", 
     "start": "485.472875", 
@@ -6065,6 +6669,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "you", 
     "tag": "PRP", 
     "start": "485.652875", 
@@ -6075,6 +6680,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "have", 
     "tag": "VBP", 
     "start": "485.712875", 
@@ -6085,6 +6691,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "to", 
     "tag": "TO", 
     "start": "485.832875", 
@@ -6095,6 +6702,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "get", 
     "tag": "VB", 
     "start": "485.942875", 
@@ -6105,6 +6713,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "so", 
     "tag": "RB", 
     "start": "486.200375", 
@@ -6115,6 +6724,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "used", 
     "tag": "JJ", 
     "start": "486.610875", 
@@ -6125,6 +6735,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "to", 
     "tag": "IN", 
     "start": "486.912875", 
@@ -6135,6 +6746,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "doing", 
     "tag": "VBG", 
     "start": "486.992875", 
@@ -6145,6 +6757,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "it", 
     "tag": "PRP", 
     "start": "487.282875", 
@@ -6155,6 +6768,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "that", 
     "tag": "IN", 
     "start": "487.442875", 
@@ -6165,6 +6779,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "it", 
     "tag": "PRP", 
     "start": "487.542875", 
@@ -6175,6 +6790,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "'s", 
     "tag": "BES", 
     "start": "n/a", 
@@ -6185,6 +6801,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "a", 
     "tag": "DT", 
     "start": "487.702875", 
@@ -6195,6 +6812,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "habit", 
     "tag": "NN", 
     "start": "487.792875", 
@@ -6205,6 +6823,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "Uh-huh", 
     "tag": "UH", 
     "start": "502.949875", 
@@ -6215,6 +6834,7 @@
     "stressProfile": "unknown", 
     "num_sylls": "unknown"
 }{
+    "disf_stat": "none", 
     "word": "Oh", 
     "tag": "UH", 
     "start": "509.832000", 
@@ -6225,6 +6845,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "And", 
     "tag": "CC", 
     "start": "520.027750", 
@@ -6235,6 +6856,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "someone", 
     "tag": "NN", 
     "start": "520.144750", 
@@ -6245,6 +6867,7 @@
     "stressProfile": "ps", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "else", 
     "tag": "RB", 
     "start": "520.394750", 
@@ -6255,6 +6878,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "is", 
     "tag": "VBZ", 
     "start": "520.604750", 
@@ -6265,6 +6889,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "n't", 
     "tag": "RB", 
     "start": "n/a", 
@@ -6275,6 +6900,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "going", 
     "tag": "VBG", 
     "start": "520.764750", 
@@ -6285,6 +6911,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "to", 
     "tag": "TO", 
     "start": "520.884750", 
@@ -6295,6 +6922,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "take", 
     "tag": "VB", 
     "start": "520.954750", 
@@ -6305,6 +6933,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "the", 
     "tag": "DT", 
     "start": "521.194750", 
@@ -6315,6 +6944,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "time", 
     "tag": "NN", 
     "start": "521.264750", 
@@ -6325,6 +6955,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "to", 
     "tag": "TO", 
     "start": "521.584750", 
@@ -6335,6 +6966,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "put", 
     "tag": "VB", 
     "start": "521.654750", 
@@ -6345,6 +6977,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "it", 
     "tag": "PRP", 
     "start": "521.814750", 
@@ -6355,6 +6988,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "in", 
     "tag": "IN", 
     "start": "521.944750", 
@@ -6365,6 +6999,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "two", 
     "tag": "CD", 
     "start": "522.024750", 
@@ -6375,6 +7010,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "separate", 
     "tag": "JJ", 
     "start": "522.194750", 
@@ -6385,6 +7021,7 @@
     "stressProfile": "unknown", 
     "num_sylls": "unknown"
 }{
+    "disf_stat": "none", 
     "word": "bags", 
     "tag": "NNS", 
     "start": "522.534750", 
@@ -6395,6 +7032,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "Uh-huh", 
     "tag": "UH", 
     "start": "536.885875", 
@@ -6405,6 +7043,7 @@
     "stressProfile": "unknown", 
     "num_sylls": "unknown"
 }{
+    "disf_stat": "none", 
     "word": "Yeah", 
     "tag": "UH", 
     "start": "548.438625", 
@@ -6415,6 +7054,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "Well", 
     "tag": "UH", 
     "start": "551.279875", 
@@ -6425,6 +7065,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "I", 
     "tag": "PRP", 
     "start": "551.556875", 
@@ -6435,6 +7076,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "'ve", 
     "tag": "VBP", 
     "start": "n/a", 
@@ -6445,6 +7087,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "enjoyed", 
     "tag": "VBN", 
     "start": "551.766875", 
@@ -6455,6 +7098,7 @@
     "stressProfile": "np", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "talking", 
     "tag": "VBG", 
     "start": "552.136875", 
@@ -6465,6 +7109,7 @@
     "stressProfile": "pn", 
     "num_sylls": 2
 }{
+    "disf_stat": "none", 
     "word": "to", 
     "tag": "IN", 
     "start": "552.486875", 
@@ -6475,6 +7120,7 @@
     "stressProfile": "n", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "you", 
     "tag": "PRP", 
     "start": "552.687750", 
@@ -6485,6 +7131,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "Well", 
     "tag": "UH", 
     "start": "553.664500", 
@@ -6495,6 +7142,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "thank", 
     "tag": "VBP", 
     "start": "554.817625", 
@@ -6505,6 +7153,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "you", 
     "tag": "PRP", 
     "start": "555.038750", 
@@ -6515,6 +7164,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "Bye", 
     "tag": "UH", 
     "start": "555.158750", 
@@ -6525,6 +7175,7 @@
     "stressProfile": "p", 
     "num_sylls": 1
 }{
+    "disf_stat": "none", 
     "word": "bye", 
     "tag": "UH", 
     "start": "555.278750", 
