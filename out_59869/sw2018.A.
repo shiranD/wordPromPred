@@ -1,0 +1,8758 @@
+{
+    "word": "hello", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1", 
+        "AH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "dialAct": "open", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "None", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "this", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "open", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "is", 
+    "tag": "VBZ", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "open", 
+    "phrases": "major", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "lois", 
+    "tag": "NNS", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1", 
+        "AH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "dialAct": "open", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "and", 
+    "tag": "CC", 
+    "collps_tag": "CONJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "4", 
+    "dialAct": "statement", 
+    "phrases": "disfluent", 
+    "accents strength": "full", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "backchannel", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "i", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "dialAct": "statement", 
+    "phrases": "disfluent", 
+    "accents strength": "weak", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AO1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "called", 
+    "tag": "VBD", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AO1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AO1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "disfluent", 
+    "accents strength": "full", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "you", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "dialAct": "statement", 
+    "phrases": "minor", 
+    "left_nuc": "AO1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "know", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "dialAct": "statement", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "from", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "disfluent", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "4", 
+    "dialAct": "statement", 
+    "phrases": "minor", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "ti", 
+    "tag": "NNP", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IY1", 
+    "nuc_kind": "1", 
+    "dialAct": "statement", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "EY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "database", 
+    "tag": "NNP", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EY1", 
+        "EY2", 
+        "AH0"
+    ], 
+    "num_sylls": 3, 
+    "nuc": "EY1", 
+    "nuc_kind": "1", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AO1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "calling", 
+    "tag": "NNP", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AO1", 
+        "IH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AO1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "EY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "instructions", 
+    "tag": "NNPS", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1", 
+        "IH0", 
+        "AH0"
+    ], 
+    "num_sylls": 3, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "AO1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "yeah", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "2", 
+    "dialAct": "backchannel", 
+    "phrases": "major", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "this", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "is", 
+    "tag": "VBZ", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "about", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AW1", 
+        "AH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AW1", 
+    "nuc_kind": "1", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "EY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "changes", 
+    "tag": "NNS", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EY1", 
+        "AH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "EY1", 
+    "nuc_kind": "1", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "AW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "IH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "in", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH0", 
+    "nuc_kind": "4", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "left_nuc": "EY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "women", 
+    "tag": "NNS", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1", 
+        "AH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "disfluent", 
+    "accents strength": "full", 
+    "left_nuc": "IH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "IH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "in", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH0", 
+    "nuc_kind": "4", 
+    "dialAct": "statement", 
+    "phrases": "disfluent", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "4", 
+    "dialAct": "statement", 
+    "phrases": "disfluent", 
+    "left_nuc": "IH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "dialAct": "yn_q", 
+    "phrases": "backchannel", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "there", 
+    "tag": "EX", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EH1", 
+    "nuc_kind": "2", 
+    "dialAct": "yn_q", 
+    "phrases": "major", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "'s", 
+    "tag": "BES", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EH1", 
+    "nuc_kind": "2", 
+    "dialAct": "yn_q", 
+    "phrases": "major", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "really", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1", 
+        "IY0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "yn_q", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "a", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "4", 
+    "dialAct": "yn_q", 
+    "phrases": "major", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AA1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "lot", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AA1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AA1", 
+    "nuc_kind": "2", 
+    "dialAct": "yn_q", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "isn't", 
+    "tag": "VBZ", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1", 
+        "AH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "yn_q", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "AA1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "there", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EH1", 
+    "nuc_kind": "2", 
+    "dialAct": "yn_q", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "i", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "think", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "there", 
+    "tag": "EX", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "really", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1", 
+        "IY0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "is", 
+    "tag": "VBZ", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "oh", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "dialAct": "yn_q", 
+    "phrases": "backchannel", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "i", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "dialAct": "yn_q", 
+    "phrases": "minor", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "guess", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EH1", 
+    "nuc_kind": "2", 
+    "dialAct": "yn_q", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "4", 
+    "dialAct": "yn_q", 
+    "phrases": "minor", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "ER1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "work", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "ER1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "ER1", 
+    "nuc_kind": "1", 
+    "dialAct": "yn_q", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "AO1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "force", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AO1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AO1", 
+    "nuc_kind": "2", 
+    "dialAct": "yn_q", 
+    "phrases": "minor", 
+    "left_nuc": "ER1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "UH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "would", 
+    "tag": "MD", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UH1", 
+    "nuc_kind": "2", 
+    "dialAct": "yn_q", 
+    "phrases": "minor", 
+    "left_nuc": "AO1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "be", 
+    "tag": "VB", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IY1", 
+    "nuc_kind": "1", 
+    "dialAct": "yn_q", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "UH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "4", 
+    "dialAct": "yn_q", 
+    "phrases": "major", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "EY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "main", 
+    "tag": "JJ", 
+    "collps_tag": "ADJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EY1", 
+    "nuc_kind": "1", 
+    "dialAct": "yn_q", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "UH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "wouldn't", 
+    "tag": "MD", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UH1", 
+        "AH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "UH1", 
+    "nuc_kind": "2", 
+    "dialAct": "yn_q", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "EY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "it", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "yn_q", 
+    "phrases": "major", 
+    "left_nuc": "UH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "EY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "okay", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EY1", 
+        "OW2"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "EY1", 
+    "nuc_kind": "1", 
+    "dialAct": "agree", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AO1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "all", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AO1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AO1", 
+    "nuc_kind": "2", 
+    "dialAct": "agree", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "EY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "right", 
+    "tag": "JJ", 
+    "collps_tag": "ADJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "dialAct": "agree", 
+    "phrases": "major", 
+    "left_nuc": "AO1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AA1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "are", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AA1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AA1", 
+    "nuc_kind": "2", 
+    "dialAct": "yn_q", 
+    "phrases": "major", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "you", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "dialAct": "yn_q", 
+    "phrases": "major", 
+    "left_nuc": "AA1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "ready", 
+    "tag": "JJ", 
+    "collps_tag": "ADJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EH1", 
+        "IY0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "EH1", 
+    "nuc_kind": "2", 
+    "dialAct": "yn_q", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "now", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AW1", 
+    "nuc_kind": "1", 
+    "dialAct": "yn_q", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "EY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "okay", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EY1", 
+        "OW2"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "EY1", 
+    "nuc_kind": "1", 
+    "dialAct": "backchannel", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "AW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "like", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "left_nuc": "EY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "i", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "said", 
+    "tag": "VBD", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "i", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "guess", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "it", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "UH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "would", 
+    "tag": "MD", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "be", 
+    "tag": "VB", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IY1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "left_nuc": "UH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "4", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "ER1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "work", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "ER1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "ER1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "AO1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "force", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AO1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AO1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "ER1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "you", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "backchannel", 
+    "left_nuc": "AO1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "know", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "backchannel", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "as", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AA1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "far", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AA1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AA1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "as", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "left_nuc": "AA1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "EY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "changes", 
+    "tag": "NNS", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EY1", 
+        "AH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "EY1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "in", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH0", 
+    "nuc_kind": "4", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "left_nuc": "EY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "4", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "left_nuc": "IH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "EY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "generations", 
+    "tag": "NNS", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EY1", 
+        "EH2", 
+        "ER0", 
+        "AH0"
+    ], 
+    "num_sylls": 4, 
+    "nuc": "EY1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "dialAct": "agree", 
+    "phrases": "backchannel", 
+    "left_nuc": "EY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "no", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": true, 
+    "vowels": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "dialAct": "agree", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "i", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "disfluent", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "think", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "disfluent", 
+    "accents strength": "full", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "now", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AW1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "you", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "left_nuc": "AW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "go", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "to", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "ER1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "work", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "ER1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "ER1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "when", 
+    "tag": "WRB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "left_nuc": "ER1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "EY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "they're", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "six", 
+    "tag": "CD", 
+    "collps_tag": "NUM", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "EY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "weeks", 
+    "tag": "NNS", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IY1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "old", 
+    "tag": "JJ", 
+    "collps_tag": "ADJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "you", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "backchannel", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "know", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "backchannel", 
+    "accents strength": "full", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "and", 
+    "tag": "CC", 
+    "collps_tag": "CONJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "4", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "you", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "EY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "stay", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EY1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "there", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "left_nuc": "EY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "and", 
+    "tag": "CC", 
+    "collps_tag": "CONJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "4", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "i", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "feel", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IY1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "like", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "4", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "next", 
+    "tag": "JJ", 
+    "collps_tag": "ADJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "EY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "generation", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EY1", 
+        "EH2", 
+        "ER0", 
+        "AH0"
+    ], 
+    "num_sylls": 4, 
+    "nuc": "EY1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "you'll", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "left_nuc": "EY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AA1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "probably", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AA1", 
+        "AH0", 
+        "IY0"
+    ], 
+    "num_sylls": 3, 
+    "nuc": "AA1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "just", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "left_nuc": "AA1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "ER1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "work", 
+    "tag": "VB", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "ER1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "ER1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "right", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "left_nuc": "ER1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AO1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "along", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AO1", 
+        "AH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AO1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "with", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "left_nuc": "AO1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AO1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "your", 
+    "tag": "PRP$", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AO1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AO1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "husband", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1", 
+        "AH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "AO1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "you", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "backchannel", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "know", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "backchannel", 
+    "accents strength": "full", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "oh", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "dialAct": "agree", 
+    "phrases": "minor", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "i", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "dialAct": "agree", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "do", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "dialAct": "agree", 
+    "phrases": "minor", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "to", 
+    "tag": "^RB", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "dialAct": "agree", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "much", 
+    "tag": "JJ", 
+    "collps_tag": "ADJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "dialAct": "agree", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "and", 
+    "tag": "CC", 
+    "collps_tag": "CONJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "4", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "it's", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "just", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "going", 
+    "tag": "VBG", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1", 
+        "IH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "to", 
+    "tag": "TO", 
+    "collps_tag": "PRT", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "get", 
+    "tag": "VB", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "better", 
+    "tag": "JJR", 
+    "collps_tag": "ADJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EH1", 
+        "ER0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "EH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "it", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "really", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1", 
+        "IY0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "is", 
+    "tag": "VBZ", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "oh", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "dialAct": "statement", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "i", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "can't", 
+    "tag": "MD", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "either", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IY1", 
+        "ER0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "IY1", 
+    "nuc_kind": "1", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AA1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "not", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": true, 
+    "vowels": [
+        "AA1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AA1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "a", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "4", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "left_nuc": "AA1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "one", 
+    "tag": "CD", 
+    "collps_tag": "NUM", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "uh-huh", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1", 
+        "AH1"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "dialAct": "backchannel", 
+    "phrases": "backchannel", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "yeah", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "2", 
+    "dialAct": "backchannel", 
+    "phrases": "backchannel", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "even", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IY1", 
+        "IH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "IY1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "in", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH0", 
+    "nuc_kind": "4", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AA1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "washington", 
+    "tag": "NNP", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AA1", 
+        "IH0", 
+        "AH0"
+    ], 
+    "num_sylls": 3, 
+    "nuc": "AA1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "IH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "you", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "left_nuc": "AA1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "know", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "there", 
+    "tag": "EX", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "seems", 
+    "tag": "VBZ", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IY1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "to", 
+    "tag": "TO", 
+    "collps_tag": "PRT", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "be", 
+    "tag": "VB", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IY1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AA1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "lot", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AA1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AA1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AO1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "more", 
+    "tag": "JJR", 
+    "collps_tag": "ADJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AO1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AO1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "left_nuc": "AA1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "women", 
+    "tag": "NNS", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1", 
+        "AH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "AO1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AA1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "involved", 
+    "tag": "JJ", 
+    "collps_tag": "ADJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AA1", 
+        "IH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AA1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "yeah", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "2", 
+    "dialAct": "backchannel", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "AA1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "yeah", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "2", 
+    "dialAct": "backchannel", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "oh", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "dialAct": "agree", 
+    "phrases": "backchannel", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "i", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "dialAct": "agree", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "do", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "dialAct": "agree", 
+    "phrases": "major", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "too", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "dialAct": "agree", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "just", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "dialAct": "sum", 
+    "phrases": "minor", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AO1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "your", 
+    "tag": "PRP$", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AO1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AO1", 
+    "nuc_kind": "2", 
+    "dialAct": "sum", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "EY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "qualifications", 
+    "tag": "NNS", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EY1", 
+        "AA2", 
+        "AH0", 
+        "AH0", 
+        "AH0"
+    ], 
+    "num_sylls": 5, 
+    "nuc": "EY1", 
+    "nuc_kind": "1", 
+    "dialAct": "sum", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "AO1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "and", 
+    "tag": "CC", 
+    "collps_tag": "CONJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "4", 
+    "dialAct": "sum", 
+    "phrases": "major", 
+    "left_nuc": "EY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "that", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "2", 
+    "dialAct": "sum", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "UH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "would", 
+    "tag": "MD", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UH1", 
+    "nuc_kind": "2", 
+    "dialAct": "sum", 
+    "phrases": "major", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "be", 
+    "tag": "VB", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IY1", 
+    "nuc_kind": "1", 
+    "dialAct": "sum", 
+    "phrases": "major", 
+    "left_nuc": "UH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "it", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "sum", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "yeah", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "2", 
+    "dialAct": "agree", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "i", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "kind", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "of", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "think", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "accents strength": "weak", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "EY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "maybe", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EY1", 
+        "IY0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "EY1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "in", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH0", 
+    "nuc_kind": "4", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "left_nuc": "EY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "time", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "IH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "that", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "you", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "backchannel", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "know", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "backchannel", 
+    "accents strength": "full", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "you'll", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "go", 
+    "tag": "VB", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "by", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "social", 
+    "tag": "JJ", 
+    "collps_tag": "ADJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1", 
+        "AH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "UH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "security", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UH1", 
+        "IH0", 
+        "AH0", 
+        "IY0"
+    ], 
+    "num_sylls": 4, 
+    "nuc": "UH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "numbers", 
+    "tag": "NNS", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1", 
+        "ER0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "UH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "you", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "backchannel", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "know", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "backchannel", 
+    "accents strength": "full", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "and", 
+    "tag": "CC", 
+    "collps_tag": "CONJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "4", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "that", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "EY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "way", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EY1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "EY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "they", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EY1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "left_nuc": "EY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "can't", 
+    "tag": "MD", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "accents strength": "weak", 
+    "left_nuc": "EY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "EY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "say", 
+    "tag": "VB", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EY1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "well", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "left_nuc": "EY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "EY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "they", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EY1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "picked", 
+    "tag": "VBD", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "EY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "a", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "4", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "EY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "male", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EY1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "over", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1", 
+        "ER0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "left_nuc": "EY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "a", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "4", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "female", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IY1", 
+        "EY2"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "IY1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "female", 
+    "tag": "JJ", 
+    "collps_tag": "ADJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IY1", 
+        "EY2"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "IY1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "over", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1", 
+        "ER0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "a", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "4", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "EY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "male", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EY1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "you", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "backchannel", 
+    "left_nuc": "EY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "know", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "backchannel", 
+    "accents strength": "full", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "yeah", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "2", 
+    "dialAct": "backchannel", 
+    "phrases": "backchannel", 
+    "accents strength": "full", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "yeah", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "2", 
+    "dialAct": "backchannel", 
+    "phrases": "backchannel", 
+    "accents strength": "full", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "i", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "dialAct": "agree", 
+    "phrases": "major", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "do", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "dialAct": "agree", 
+    "phrases": "major", 
+    "accents strength": "weak", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "to", 
+    "tag": "TO", 
+    "collps_tag": "PRT", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "dialAct": "agree", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "just", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "go", 
+    "tag": "VB", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "by", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AO1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "your", 
+    "tag": "PRP$", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AO1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AO1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "social", 
+    "tag": "JJ", 
+    "collps_tag": "ADJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1", 
+        "AH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "AO1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "UH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "security", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UH1", 
+        "IH0", 
+        "AH0", 
+        "IY0"
+    ], 
+    "num_sylls": 4, 
+    "nuc": "UH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "number", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1", 
+        "ER0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "UH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "and", 
+    "tag": "CC", 
+    "collps_tag": "CONJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "4", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "then", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "UH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "look", 
+    "tag": "VB", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "at", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "left_nuc": "UH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "you", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "EY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "qualifications", 
+    "tag": "NNS", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EY1", 
+        "AA2", 
+        "AH0", 
+        "AH0", 
+        "AH0"
+    ], 
+    "num_sylls": 5, 
+    "nuc": "EY1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "you", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "backchannel", 
+    "left_nuc": "EY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "know", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "backchannel", 
+    "accents strength": "full", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "that", 
+    "tag": "WDT", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "you", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "have", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "and", 
+    "tag": "CC", 
+    "collps_tag": "CONJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "4", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "if", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "you", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "get", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "it", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "you", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "backchannel", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "know", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "dialAct": "opinion", 
+    "phrases": "backchannel", 
+    "accents strength": "full", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "then", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "uh-huh", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1", 
+        "AH1"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "dialAct": "backchannel", 
+    "phrases": "backchannel", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "oh", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "dialAct": "backchannel", 
+    "phrases": "backchannel", 
+    "accents strength": "full", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "yeah", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "2", 
+    "dialAct": "backchannel", 
+    "phrases": "backchannel", 
+    "accents strength": "full", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "as", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "minor", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "a", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "4", 
+    "dialAct": "statement", 
+    "phrases": "minor", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "matter", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AE1", 
+        "ER0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AE1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "of", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "minor", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "fact", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "that's", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "what", 
+    "tag": "WP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "i'm", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "doing", 
+    "tag": "VBG", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1", 
+        "IH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "uh-huh", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1", 
+        "AH1"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "dialAct": "yes", 
+    "phrases": "backchannel", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "it", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "UH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "sure", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UH1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "is", 
+    "tag": "VBZ", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "UH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "it", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "agree", 
+    "phrases": "major", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "UH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "sure", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UH1", 
+    "nuc_kind": "2", 
+    "dialAct": "agree", 
+    "phrases": "major", 
+    "accents strength": "weak", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "is", 
+    "tag": "VBZ", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "agree", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "UH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "oh", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "dialAct": "backchannel", 
+    "phrases": "backchannel", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "yeah", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "2", 
+    "dialAct": "agree", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "yeah", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "2", 
+    "dialAct": "agree", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "that", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "is", 
+    "tag": "VBZ", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "opinion", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "uh-huh", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1", 
+        "AH1"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "dialAct": "backchannel", 
+    "phrases": "backchannel", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "oh", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "dialAct": "affirm", 
+    "phrases": "backchannel", 
+    "accents strength": "full", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "i", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "dialAct": "affirm", 
+    "phrases": "major", 
+    "accents strength": "weak", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "do", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "dialAct": "affirm", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "i", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "dialAct": "statement", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "really", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1", 
+        "IY0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "minor", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "do", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "dialAct": "statement", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "i", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "think", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "it's", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "EY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "great", 
+    "tag": "JJ", 
+    "collps_tag": "ADJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EY1", 
+    "nuc_kind": "1", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "uh", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "backchannel", 
+    "left_nuc": "EY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "well", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EH1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "backchannel", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "like", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "dialAct": "statement", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "one", 
+    "tag": "CD", 
+    "collps_tag": "NUM", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "minor", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "week", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IY1", 
+    "nuc_kind": "1", 
+    "dialAct": "statement", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "she'll", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IY1", 
+    "nuc_kind": "1", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "ER1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "work", 
+    "tag": "VB", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "ER1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "ER1", 
+    "nuc_kind": "1", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "three", 
+    "tag": "CD", 
+    "collps_tag": "NUM", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IY1", 
+    "nuc_kind": "1", 
+    "dialAct": "statement", 
+    "phrases": "minor", 
+    "left_nuc": "ER1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "EY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "days", 
+    "tag": "NNS", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EY1", 
+    "nuc_kind": "1", 
+    "dialAct": "statement", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "and", 
+    "tag": "CC", 
+    "collps_tag": "CONJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "4", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "left_nuc": "EY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "i'll", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "ER1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "work", 
+    "tag": "VB", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "ER1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "ER1", 
+    "nuc_kind": "1", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "accents strength": "weak", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "two", 
+    "tag": "CD", 
+    "collps_tag": "NUM", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "left_nuc": "ER1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "and", 
+    "tag": "CC", 
+    "collps_tag": "CONJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "4", 
+    "dialAct": "excluded", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "4", 
+    "dialAct": "excluded", 
+    "phrases": "minor", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "next", 
+    "tag": "JJ", 
+    "collps_tag": "ADJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EH1", 
+    "nuc_kind": "2", 
+    "dialAct": "excluded", 
+    "phrases": "minor", 
+    "accents strength": "weak", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "week", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IY1", 
+    "nuc_kind": "1", 
+    "dialAct": "excluded", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "you", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "dialAct": "excluded", 
+    "phrases": "backchannel", 
+    "accents strength": "full", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "know", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "dialAct": "excluded", 
+    "phrases": "backchannel", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "i'll", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "dialAct": "excluded", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "ER1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "work", 
+    "tag": "VB", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "ER1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "ER1", 
+    "nuc_kind": "1", 
+    "dialAct": "excluded", 
+    "phrases": "major", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "three", 
+    "tag": "CD", 
+    "collps_tag": "NUM", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IY1", 
+    "nuc_kind": "1", 
+    "dialAct": "excluded", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "ER1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "and", 
+    "tag": "CC", 
+    "collps_tag": "CONJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "4", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "she'll", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IY1", 
+    "nuc_kind": "1", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "accents strength": "weak", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "ER1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "work", 
+    "tag": "VB", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "ER1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "ER1", 
+    "nuc_kind": "1", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "two", 
+    "tag": "CD", 
+    "collps_tag": "NUM", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "ER1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "we", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IY1", 
+    "nuc_kind": "1", 
+    "dialAct": "statement", 
+    "phrases": "minor", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "just", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "share", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EH1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AO1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "off", 
+    "tag": "RP", 
+    "collps_tag": "PRT", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AO1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AO1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "like", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "left_nuc": "AO1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "that", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "uh-huh", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1", 
+        "AH1"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "dialAct": "yes", 
+    "phrases": "backchannel", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "yeah", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "2", 
+    "dialAct": "yes", 
+    "phrases": "disfluent", 
+    "accents strength": "full", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "we", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IY1", 
+    "nuc_kind": "1", 
+    "dialAct": "statement", 
+    "phrases": "disfluent", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "get", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EH1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "disfluent", 
+    "accents strength": "full", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "4", 
+    "dialAct": "statement", 
+    "phrases": "disfluent", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "UH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "full", 
+    "tag": "JJ", 
+    "collps_tag": "ADJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UH1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "benefits", 
+    "tag": "NNS", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EH1", 
+        "AH0", 
+        "IH0"
+    ], 
+    "num_sylls": 3, 
+    "nuc": "EH1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "UH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "but", 
+    "tag": "CC", 
+    "collps_tag": "CONJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "minor", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "we've", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IY1", 
+    "nuc_kind": "1", 
+    "dialAct": "statement", 
+    "phrases": "minor", 
+    "accents strength": "weak", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "just", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "really", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1", 
+        "IY0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "disfluent", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AA1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "got", 
+    "tag": "VBN", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AA1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AA1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "disfluent", 
+    "accents strength": "full", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "a", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "4", 
+    "dialAct": "statement", 
+    "phrases": "minor", 
+    "left_nuc": "AA1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "wonderful", 
+    "tag": "JJ", 
+    "collps_tag": "ADJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1", 
+        "ER0", 
+        "AH0"
+    ], 
+    "num_sylls": 3, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "system", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1", 
+        "AH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "minor", 
+    "accents strength": "weak", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "that", 
+    "tag": "WDT", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "we're", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IY1", 
+    "nuc_kind": "1", 
+    "dialAct": "statement", 
+    "phrases": "minor", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "ER1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "working", 
+    "tag": "VBG", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "ER1", 
+        "IH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "ER1", 
+    "nuc_kind": "1", 
+    "dialAct": "statement", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "under", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1", 
+        "ER0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "ER1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "yeah", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "2", 
+    "dialAct": "backchannel", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "it", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "minor", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "really", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1", 
+        "IY0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "minor", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "is", 
+    "tag": "VBZ", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "and", 
+    "tag": "CC", 
+    "collps_tag": "CONJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "4", 
+    "dialAct": "statement", 
+    "phrases": "minor", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "that", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "EY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "way", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EY1", 
+    "nuc_kind": "1", 
+    "dialAct": "statement", 
+    "phrases": "minor", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "we're", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IY1", 
+    "nuc_kind": "1", 
+    "dialAct": "statement", 
+    "phrases": "minor", 
+    "left_nuc": "EY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AA1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "not", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": true, 
+    "vowels": [
+        "AA1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AA1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "really", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1", 
+        "IY0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "minor", 
+    "left_nuc": "AA1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "missing", 
+    "tag": "VBG", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1", 
+        "IH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "anything", 
+    "tag": "GW", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EH1", 
+        "IH2", 
+        "IY0"
+    ], 
+    "num_sylls": 3, 
+    "nuc": "EH1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "out", 
+    "tag": "RP", 
+    "collps_tag": "PRT", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AW1", 
+    "nuc_kind": "1", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "you", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "dialAct": "statement", 
+    "phrases": "backchannel", 
+    "left_nuc": "AW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "know", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "dialAct": "statement", 
+    "phrases": "backchannel", 
+    "accents strength": "full", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "of", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "dialAct": "statement", 
+    "phrases": "major", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "EY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "name", 
+    "tag": "XX", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EY1", 
+    "nuc_kind": "1", 
+    "phrases": "major", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "children", 
+    "tag": "NNS", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1", 
+        "AH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "EY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "uh-huh", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1", 
+        "AH1"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "phrases": "backchannel", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "oh", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "phrases": "backchannel", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "it", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "phrases": "major", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "is", 
+    "tag": "VBZ", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "it", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "phrases": "major", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "is", 
+    "tag": "VBZ", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "well", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EH1", 
+    "nuc_kind": "2", 
+    "phrases": "minor", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "both", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "of", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "phrases": "minor", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "ours", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AW1", 
+        "ER0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AW1", 
+    "nuc_kind": "1", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "is", 
+    "tag": "VBZ", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "phrases": "major", 
+    "left_nuc": "AW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "school", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "EY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "age", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EY1", 
+    "nuc_kind": "1", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "but", 
+    "tag": "CC", 
+    "collps_tag": "CONJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "phrases": "minor", 
+    "left_nuc": "EY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "we", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IY1", 
+    "nuc_kind": "1", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "don't", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "phrases": "minor", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AA1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "want", 
+    "tag": "VB", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AA1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AA1", 
+    "nuc_kind": "2", 
+    "phrases": "minor", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "to", 
+    "tag": "TO", 
+    "collps_tag": "PRT", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "phrases": "minor", 
+    "left_nuc": "AA1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "miss", 
+    "tag": "VB", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "phrases": "minor", 
+    "accents strength": "weak", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "any", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EH1", 
+        "IY0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "EH1", 
+    "nuc_kind": "2", 
+    "phrases": "minor", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "of", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "phrases": "minor", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "those", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "p", 
+    "tag": "NNP", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IY1", 
+    "nuc_kind": "1", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "t", 
+    "tag": "NNP", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IY1", 
+    "nuc_kind": "1", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "a", 
+    "tag": "NNP", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "4", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "EY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "name", 
+    "tag": "NNPS", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EY1", 
+    "nuc_kind": "1", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "and", 
+    "tag": "CC", 
+    "collps_tag": "CONJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "4", 
+    "phrases": "minor", 
+    "left_nuc": "EY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "you", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "know", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AO1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "all", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AO1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AO1", 
+    "nuc_kind": "2", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "of", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "phrases": "major", 
+    "left_nuc": "AO1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "that", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "2", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "uh-huh", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1", 
+        "AH1"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "phrases": "backchannel", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "i", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "think", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "phrases": "minor", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "it's", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "phrases": "minor", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "EY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "great", 
+    "tag": "JJ", 
+    "collps_tag": "ADJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EY1", 
+    "nuc_kind": "1", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "i", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "phrases": "disfluent", 
+    "left_nuc": "EY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "really", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1", 
+        "IY0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "phrases": "disfluent", 
+    "accents strength": "full", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "and", 
+    "tag": "CC", 
+    "collps_tag": "CONJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "4", 
+    "phrases": "minor", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "i", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "UH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "look", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UH1", 
+    "nuc_kind": "2", 
+    "phrases": "minor", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AO1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "for", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AO1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AO1", 
+    "nuc_kind": "2", 
+    "phrases": "minor", 
+    "left_nuc": "UH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AO1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "more", 
+    "tag": "JJR", 
+    "collps_tag": "ADJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AO1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AO1", 
+    "nuc_kind": "2", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "AO1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "of", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "phrases": "minor", 
+    "left_nuc": "AO1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "that", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "2", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "in", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH0", 
+    "nuc_kind": "4", 
+    "phrases": "major", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "4", 
+    "phrases": "major", 
+    "left_nuc": "IH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "next", 
+    "tag": "JJ", 
+    "collps_tag": "ADJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EH1", 
+    "nuc_kind": "2", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "EY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "generation", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EY1", 
+        "EH2", 
+        "ER0", 
+        "AH0"
+    ], 
+    "num_sylls": 4, 
+    "nuc": "EY1", 
+    "nuc_kind": "1", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "yes", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EH1", 
+    "nuc_kind": "2", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "EY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "oh", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "phrases": "backchannel", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "i", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "phrases": "minor", 
+    "accents strength": "full", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "do", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "phrases": "minor", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "too", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "phrases": "minor", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "most", 
+    "tag": "JJS", 
+    "collps_tag": "ADJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "phrases": "major", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "time", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "phrases": "major", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "now", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AW1", 
+    "nuc_kind": "1", 
+    "phrases": "major", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "you", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "phrases": "backchannel", 
+    "left_nuc": "AW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "know", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "phrases": "backchannel", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "it's", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "phrases": "minor", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "just", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "phrases": "minor", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "4", 
+    "phrases": "minor", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "weekend", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IY1", 
+        "EH2"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "IY1", 
+    "nuc_kind": "1", 
+    "phrases": "minor", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "AO1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "or", 
+    "tag": "CC", 
+    "collps_tag": "CONJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AO1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AO1", 
+    "nuc_kind": "2", 
+    "phrases": "major", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "just", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "phrases": "major", 
+    "left_nuc": "AO1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "forget", 
+    "tag": "VB", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EH1", 
+        "ER0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "EH1", 
+    "nuc_kind": "2", 
+    "phrases": "major", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "it", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "phrases": "major", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "uh-huh", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1", 
+        "AH1"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "phrases": "backchannel", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "to", 
+    "tag": "TO", 
+    "collps_tag": "PRT", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "phrases": "minor", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "do", 
+    "tag": "VB", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "phrases": "minor", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "yeah", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "2", 
+    "phrases": "backchannel", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "uh-huh", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1", 
+        "AH1"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "phrases": "backchannel", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "well", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EH1", 
+    "nuc_kind": "2", 
+    "phrases": "minor", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "i", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "phrases": "minor", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "think", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "phrases": "minor", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "we've", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IY1", 
+    "nuc_kind": "1", 
+    "phrases": "minor", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "really", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1", 
+        "IY0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "phrases": "minor", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "come", 
+    "tag": "VBN", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "phrases": "minor", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "a", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "4", 
+    "phrases": "minor", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AO1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "long", 
+    "tag": "JJ", 
+    "collps_tag": "ADJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AO1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AO1", 
+    "nuc_kind": "2", 
+    "phrases": "minor", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "EY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "way", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EY1", 
+    "nuc_kind": "1", 
+    "phrases": "minor", 
+    "left_nuc": "AO1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "in", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH0", 
+    "nuc_kind": "4", 
+    "phrases": "major", 
+    "left_nuc": "EY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "that", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "2", 
+    "phrases": "major", 
+    "left_nuc": "IH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "AO1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "because", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AO1", 
+        "IH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AO1", 
+    "nuc_kind": "2", 
+    "phrases": "disfluent", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "uh-huh", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1", 
+        "AH1"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "phrases": "backchannel", 
+    "left_nuc": "AO1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "yeah", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "2", 
+    "phrases": "backchannel", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "but", 
+    "tag": "CC", 
+    "collps_tag": "CONJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "phrases": "disfluent", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "i", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "phrases": "disfluent", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "can", 
+    "tag": "MD", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "2", 
+    "phrases": "disfluent", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "remember", 
+    "tag": "VB", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EH1", 
+        "IH0", 
+        "ER0"
+    ], 
+    "num_sylls": 3, 
+    "nuc": "EH1", 
+    "nuc_kind": "2", 
+    "phrases": "minor", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "back", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "2", 
+    "phrases": "minor", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "growing", 
+    "tag": "VBG", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1", 
+        "IH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "phrases": "minor", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "up", 
+    "tag": "RP", 
+    "collps_tag": "PRT", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "phrases": "minor", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "my", 
+    "tag": "PRP$", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "phrases": "minor", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "mother", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1", 
+        "ER0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "phrases": "minor", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "i", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "phrases": "disfluent", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "mean", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IY1", 
+    "nuc_kind": "1", 
+    "phrases": "disfluent", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "it", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "phrases": "disfluent", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AA1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "was", 
+    "tag": "VBD", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AA1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AA1", 
+    "nuc_kind": "2", 
+    "phrases": "disfluent", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "she", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IY1", 
+    "nuc_kind": "1", 
+    "phrases": "minor", 
+    "left_nuc": "AA1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AO1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "always", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AO1", 
+        "EY2"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AO1", 
+    "nuc_kind": "2", 
+    "phrases": "minor", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "ER1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "worked", 
+    "tag": "VBD", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "ER1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "ER1", 
+    "nuc_kind": "1", 
+    "phrases": "major", 
+    "left_nuc": "AO1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "but", 
+    "tag": "CC", 
+    "collps_tag": "CONJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "phrases": "major", 
+    "left_nuc": "ER1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "it", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "phrases": "major", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AA1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "wasn't", 
+    "tag": "VBD", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AA1", 
+        "AH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AA1", 
+    "nuc_kind": "2", 
+    "phrases": "major", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "that", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "2", 
+    "phrases": "major", 
+    "left_nuc": "AA1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "easy", 
+    "tag": "JJ", 
+    "collps_tag": "ADJ", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IY1", 
+        "IY0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "IY1", 
+    "nuc_kind": "1", 
+    "phrases": "major", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AO1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "for", 
+    "tag": "IN", 
+    "collps_tag": "ADP", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AO1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AO1", 
+    "nuc_kind": "2", 
+    "phrases": "major", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "ER0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "her", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "ER0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "ER0", 
+    "nuc_kind": "4", 
+    "phrases": "major", 
+    "left_nuc": "AO1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "to", 
+    "tag": "TO", 
+    "collps_tag": "PRT", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "phrases": "major", 
+    "left_nuc": "ER0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "AH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "just", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH1", 
+    "nuc_kind": "2", 
+    "phrases": "major", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "EY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "take", 
+    "tag": "VB", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EY1", 
+    "nuc_kind": "1", 
+    "phrases": "major", 
+    "left_nuc": "AH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AO1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "off", 
+    "tag": "RP", 
+    "collps_tag": "PRT", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AO1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AO1", 
+    "nuc_kind": "2", 
+    "phrases": "major", 
+    "left_nuc": "EY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "oh", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "phrases": "backchannel", 
+    "left_nuc": "AO1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AE1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "yeah", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AE1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AE1", 
+    "nuc_kind": "2", 
+    "phrases": "backchannel", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "oh", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "phrases": "backchannel", 
+    "left_nuc": "AE1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "i", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "phrases": "major", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "do", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "phrases": "major", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "UW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "too", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UW1", 
+    "nuc_kind": "1", 
+    "phrases": "major", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "yes", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EH1", 
+    "nuc_kind": "2", 
+    "phrases": "backchannel", 
+    "left_nuc": "UW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "EH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "yes", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EH1", 
+    "nuc_kind": "2", 
+    "phrases": "backchannel", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "EY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "they", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "EY1", 
+    "nuc_kind": "1", 
+    "phrases": "major", 
+    "left_nuc": "EH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "really", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1", 
+        "IY0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "phrases": "major", 
+    "left_nuc": "EY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AA1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "are", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AA1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AA1", 
+    "nuc_kind": "2", 
+    "phrases": "major", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "i", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "phrases": "major", 
+    "left_nuc": "AA1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "know", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "phrases": "major", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "i", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "phrases": "major", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "OW1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "know", 
+    "tag": "VBP", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "OW1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "OW1", 
+    "nuc_kind": "1", 
+    "phrases": "major", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AH0", 
+    "right_nuc_kind": "4"
+}{
+    "word": "the", 
+    "tag": "DT", 
+    "collps_tag": "DET", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AH0"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AH0", 
+    "nuc_kind": "4", 
+    "phrases": "major", 
+    "left_nuc": "OW1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "IY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "feeling", 
+    "tag": "NN", 
+    "collps_tag": "NOUN", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IY1", 
+        "IH0"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "IY1", 
+    "nuc_kind": "1", 
+    "phrases": "major", 
+    "left_nuc": "AH0", 
+    "left_nuc_kind": "4", 
+    "right_nuc": "EY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "okay", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "EY1", 
+        "OW2"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "EY1", 
+    "nuc_kind": "1", 
+    "phrases": "major", 
+    "left_nuc": "IY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "i", 
+    "tag": "PRP", 
+    "collps_tag": "PRON", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "phrases": "major", 
+    "left_nuc": "EY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "UH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "sure", 
+    "tag": "RB", 
+    "collps_tag": "ADV", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "UH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "UH1", 
+    "nuc_kind": "2", 
+    "phrases": "major", 
+    "left_nuc": "AY1", 
+    "left_nuc_kind": "1", 
+    "right_nuc": "IH1", 
+    "right_nuc_kind": "2"
+}{
+    "word": "will", 
+    "tag": "MD", 
+    "collps_tag": "VERB", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "IH1"
+    ], 
+    "num_sylls": 1, 
+    "nuc": "IH1", 
+    "nuc_kind": "2", 
+    "phrases": "major", 
+    "left_nuc": "UH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "AY1", 
+    "right_nuc_kind": "1"
+}{
+    "word": "bye-bye", 
+    "tag": "UH", 
+    "collps_tag": "X", 
+    "function": false, 
+    "negation": false, 
+    "vowels": [
+        "AY1", 
+        "AY1"
+    ], 
+    "num_sylls": 2, 
+    "nuc": "AY1", 
+    "nuc_kind": "1", 
+    "dialAct": "close", 
+    "phrases": "major", 
+    "accents strength": "full", 
+    "left_nuc": "IH1", 
+    "left_nuc_kind": "2", 
+    "right_nuc": "None"
+}
