@@ -83,7 +83,7 @@ def tfeats(partial_yyhat, order):
     for i in xrange(order):
         t_list.append("t_i-"+str(i+1)+"='"+partial_yyhat[-i-1]+"'")
         
-    tt_list = t_list[::-1]
+    tt_list = t_list[::-1]# reverse
             
     for i in xrange(order-1):
         combo = tt_list[-2-i:]

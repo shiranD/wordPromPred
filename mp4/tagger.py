@@ -109,10 +109,10 @@ def efeats(tokens):
             idx = min(3,len(tokens[i+1]))
             l_token.append("suf3(w_i+1)="+tokens[i+1][-idx:].upper())            
         
-        boo = all(e.isalpha() for e in token)          
+        boo = all(e.isalpha() for e in token)# works on strs       
         if boo: 
             l_token.append("*alphabetic*")
-            boo2 = all(e.upper() for e in token)
+            boo2 = all(e.upper() for e in token) # strs
             if boo2: # letter case
                 l_token.append("*uppercase*")
             else:
@@ -128,7 +128,7 @@ def efeats(tokens):
                 l_token.append("*numberlike*")
             else:
                 # punctuation
-                punc = all(e in punctuation for e in token)
+                punc = all(e in punctuation for e in token)# capti
                 if punc:
                     l_token.append("*punctuation*")
                     
@@ -142,8 +142,9 @@ def efeats(tokens):
         try:
             a = tokens[i+1]
             l_token.append("fut="+tokens[i+1].upper())  
-        except:
+        except IndexError: 
             pass
+            
         try:
             a = tokens[i+2]
             l_token.append("2fut="+tokens[i+1].upper()+" "+tokens[i+2].upper())
@@ -190,7 +191,7 @@ def tfeats(partial_yyhat, order):
     >>> tfeats(partial_yyhat, 2)
     ["t_i-1='NNP'"]
     """
-    if order==0 or len(partial_yyhat)==0 or partial_yyhat==[None]:
+    if order==0 or len(partial_yyhat)==0:
         return []
 
     t_list = []
@@ -328,6 +329,6 @@ class AveragedPerceptronTagger(object):
 
 if __name__ == "__main__":
     tagger = AveragedPerceptronTagger(order=2)
-    #tagger.fit(tagged_corpus("trn_00-18.pos"), epochs=20)
+    tagger.fit(tagged_corpus("trn_00-18.pos"), epochs=20)
     accuracy = tagger.evaluate(tagged_corpus("dev_19-21.pos"))
     print "Accuracy: {:.4f}".format(accuracy)

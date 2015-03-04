@@ -11,10 +11,12 @@ from functools import partial
 from string import punctuation
 from operator import itemgetter
 from collections import defaultdict
+from ngrammodel import MaximumLikelihoodNGramModel
 
 # reusing this from MP3, but not the larger AveragedPerceptron class
 from perceptron import LazyWeight
 from dataPrep import data_prep
+import itertools
 
 
 DIGIT = "*DIGIT*"
@@ -27,9 +29,16 @@ thirty fourty fifty sixty seventy eighty ninety hundred thousand million
 billion trillion quadrillion
 """.upper().split())
 
+def extract(History):
+    
+    if not History:
+        return []
+    if len(History)==1:
+        return History[0]
+    else:
+        return History[-1]
 
-# helper for reading things in
-
+    
 def shuffle_set(x,y):
     
     index = sample(range(len(x)), len(x))
@@ -42,6 +51,9 @@ def shuffle_set(x,y):
     return x_new, y_new
     
 
+
+    
+    
     
 def tfeats(partial_yyhat, order):
     """
@@ -104,6 +116,13 @@ class AveragedPerceptronTagger(object):
         self.time = 0
 
     # low-level perceptron operations
+    
+    def score(self, phi, yhat):
+        """
+        Get scores for a particular class according to the feature vector `phi`
+        """
+        return sum(self.weights[phi_i][yhat].get() for phi_i in phi)
+  
 
     def scores(self, phi):
         """
@@ -120,8 +139,8 @@ class AveragedPerceptronTagger(object):
         Predict most likely class for the feature vector `phi`
         """
         scores = self.scores(phi)
-        (yhat, _) = max(scores.iteritems(), key=itemgetter(1))
-        return yhat
+        (yhat, score) = max(scores.iteritems(), key=itemgetter(1))
+        return yhat, score # has max score
 
     def update(self, y, yhat, phi, alpha=1):
         """
@@ -149,20 +168,23 @@ class AveragedPerceptronTagger(object):
 
     def tag_with_features(self, efeats):
         """
-        Tag a list of tokens using a greedy approximation of an HMM,
-        returning a (list of tags, list of list of features) tuple; use
-        the `tag` instance method if you want to ignore the features 
+        Tag a list of tokens using a greedy approximation of an HMM, 
+        using Viterbi returning a (list of tags, list of list of features)
+        tuple; use the `tag` instance method if you want to ignore the features 
         returned
         """
-        yyhat = []
-        phis = []
-        for e_phi in efeats:
-            phi = e_phi + tfeats(yyhat, self.order)
-            # viterbi
-            yhat = self.predict(phi)
-            yyhat.append(yhat)
-            phis.append(phi)
-        return (yyhat, phis)
+
+        # build array of dicts
+        state_dicts = []
+        for e_phi in efeats: 
+            state_dicts = self.viterbi(e_phi, state_dicts)
+            
+            
+        # trace back
+        yyhat, phis = self.traceback(efeats, state_dicts)
+        assert len(efeats)==len(state_dicts)#len(yyhat), 
+
+        return (yyhat, phis)    
 
     def tag(self, tokens):
         """
@@ -209,11 +231,89 @@ class AveragedPerceptronTagger(object):
 
         return corect/(corect+incorect)
                 
-
+    def viterbi(self, e_phi, states_dict):
+        """compute the current states scores
+        basing on the previous score, previous states 
+        and the current emission state score. save history of 2 past
+        states and score of previous one that its 'partial score' was the
+        highest. The max score is partial score and efeats score."""
+        
+        states = ["0","1","2"]
+        
+        if not states_dict:
+            first_dict = {}        
+            for state in states:   
+                S_e = self.score(e_phi, state)                 
+                first_dict[state] = (S_e,([]))
+            return [first_dict] 
+        
+        else:
+            last_dict = states_dict[-1]
+            this_dict = {}
+            scores = self.scores(e_phi)
+            for (state, S_e) in scores.iteritems():
+                max_score=-float('inf')
+                max_label = None
+                for prev in states:
+                    (Sprev, (Hprev))=last_dict[prev]
+                    if not Hprev:
+                        Hstate = [prev] # no history
+                    else:
+                        Hstate = Hprev[1:]+[prev]                        
+                    t_phi = tfeats(Hstate, self.order)
+                                             
+                    partial_score = Sprev+self.score(t_phi, state)
+                    if max_score < partial_score:
+                        S_max = partial_score
+                        max_hstate = Hstate
+                # write to dict
+                this_dict[state]=(S_max+S_e,(max_hstate))# brakets
+            states_dict.append(this_dict)
+            return states_dict
+        
+    
+    def traceback(self, efeats, states_dict):
+        """return the tag sequence and its
+        corresponding phis """
+        
+        states = ["0","1","2"]
+        yyhat = []
+        phis = []
+        
+        if len(states_dict)==1:
+            last_dict = states_dict[0]
+            last_efeat = efeats[0]
+            
+        else:
+            last_dict = states_dict[-1]
+            last_efeat = efeats[-1]
+            
+            
+        (state,(_, Hstate))=max(last_dict.iteritems(),key=itemgetter(1)) 
+        
+        yyhat.append(state)
+        phi = last_efeat+tfeats(Hstate, self.order)
+        phis.append(phi)
+        
+        for (last_dict, e_phi) in zip(reversed(states_dict[:-1]),reversed(efeats[:-1])):
+            Hstate=extract(Hstate)
+            (_,Hstate)=last_dict[Hstate]# if H=["2"]->["2"] need "2". H[-1:]
+            yyhat.append(state)
+            phi = last_efeat+tfeats(Hstate, self.order)
+            phis.append(phi)                
+                         
+           
+        
+        return yyhat[::-1], phis[::-1]
+        
+        
 if __name__ == "__main__":
     
-    X_train, y_train, X_test, y_test = data_prep()    
+
+    X_train, y_train, X_test, y_test = data_prep()  
+    trans = MaximumLikelihoodNGramModel(y_train,2).prob.items() # transitions 
+    
     tagger = AveragedPerceptronTagger(order=2)    
-    tagger.fit(X_train, y_train, epochs=20)
+    tagger.fit(X_train, y_train, epochs=1)
     accuracy = tagger.evaluate(X_test, y_test)
     print "Accuracy: {:.4f}".format(accuracy)

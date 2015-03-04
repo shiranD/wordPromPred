@@ -10,7 +10,7 @@ def load_data(datapath):
 
     X_data = []
     y_data = []
-
+    #h=0
     last_dialAct = "n" # do it by dialect ID    
     for (i, supdir) in enumerate(walk(datapath)):
         prefix = supdir[0] + '/'
@@ -19,16 +19,37 @@ def load_data(datapath):
             continue
         
         X_seq = []
-        y_seq = []        
+        y_seq = []
+        feat = []
 
         for suffix in suffixes:
             jfilename = prefix + suffix
             with open(jfilename) as fjson:
                 
+                jdict = json.load(fjson)                
+                
+                if jdict["dialAct"]=="no":
+                    continue  
+                if jdict["seq"]!=last_dialAct:
+                    if feat:
+                        feat.append("ultimate_w")
+                    #h+=1
+                    #if h ==78:
+                        #print h
+                    X_data.append(X_seq)
+                    y_data.append(y_seq)
+                    X_seq = []
+                    y_seq = []                    
+                    g=0
+                    
+                else:
+                    g+=1                   
+                last_dialAct=jdict["seq"]                
+                
                 # read json as dict
-                jdict = json.load(fjson)
                 feat = []
                 feat.append("*bias*")
+                 
                 feat.append("word="+jdict["word"])
                 feat.append("tag="+jdict["tag"])
                 feat.append("cltag="+jdict["collps_tag"])
@@ -50,19 +71,12 @@ def load_data(datapath):
                 feat.append("phrases="+jdict["phrases"])
                 feat.append("kon_type="+jdict["kontrast type"])
                 feat.append("kon_level="+jdict["kontrast level"])
+                
+                if g==0:
+                    feat.append("initial_w")
+                if g==1:
+                    feat.append("second_w")                
                                 
-                
-                if jdict["dialAct"]=="no":
-                    continue  
-                if jdict["seq"]!=last_dialAct:
-                    X_data.append(X_seq)
-                    y_data.append(y_seq)
-                    
-                    last_dialAct=jdict["seq"]
-                    
-                    X_seq = []
-                    y_seq = []
-                
 
                 try:  # remove Y values from dict to create Y
                     accent = jdict["accents_strength"]
@@ -71,23 +85,31 @@ def load_data(datapath):
                     accent = "0"
                     
                 X_seq.append(feat)
+                #if len(X_seq)==13:
+                    #print "13"
                 
                 # labels cannot be "0"
                 if accent == "full":
-                    y_seq.append("full")
+                    y_seq.append("0")
                 elif accent == "weak":
-                    y_seq.append("weak")
+                    y_seq.append("1")
                 else:
-                    y_seq.append("non")
+                    y_seq.append("2")
 
                 
         X_data.append(X_seq)
-        y_data.append(y_seq)   
-    
-            
-
-
-    return X_data[1:], y_data[1:]
+        y_data.append(y_seq) 
+        
+    X = []
+    Y = []
+    for x,y in zip(X_data,y_data):
+        if not x:
+            continue
+        else:
+            assert len(x)==len(y)
+            X.append(x)
+            Y.append(y)            
+    return X, Y
 
 def data_prep():
     
