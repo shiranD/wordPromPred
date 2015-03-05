@@ -50,10 +50,6 @@ def shuffle_set(x,y):
         
     return x_new, y_new
     
-
-
-    
-    
     
 def tfeats(partial_yyhat, order):
     """
@@ -110,7 +106,9 @@ class AveragedPerceptronTagger(object):
 
     def __init__(self, order, default=None, seed=None):
         self.order = order
-        self.classes = {default}        
+        self.classes = {default} 
+        #self.classes = {"0","1","2"}        
+        
         self.random = Random(seed)
         self.weights = defaultdict(partial(defaultdict, LazyWeight))
         self.time = 0
@@ -129,7 +127,7 @@ class AveragedPerceptronTagger(object):
         Get scores for all classes according to the feature vector `phi`
         """
         scores = dict.fromkeys(self.classes, 0)
-        print scores
+        #print scores
         for phi_i in phi:
             for (cls, weight) in self.weights[phi_i].iteritems():
                 scores[cls] += weight.get()
@@ -174,13 +172,11 @@ class AveragedPerceptronTagger(object):
         tuple; use the `tag` instance method if you want to ignore the features 
         returned
         """
-        if len(efeats)==3:
-            print "d"
 
         # build array of dicts
         state_dicts = []
         for e_phi in efeats: 
-            state_dicts = self.viterbi1(e_phi, state_dicts)
+            state_dicts = self.viterbi(e_phi, state_dicts)
             
             
         # trace back
@@ -200,6 +196,8 @@ class AveragedPerceptronTagger(object):
         """
         Fit the tagger model 
         """
+        classes = ["0","1","2"]
+        self.register_classes(classes)
         # make an (evaluated) copy of the data, to shuffle it in place
         for i in xrange(1, 1 + epochs):
             #print(i)
@@ -305,50 +303,15 @@ class AveragedPerceptronTagger(object):
             phi = last_efeat+tfeats(Hstate, self.order)
             phis.append(phi)                
                          
-           
         
         return yyhat[::-1], phis[::-1]
         
-    def viterbi1(self, e_phi, states_dict):
-        """compute the current states scores
-        basing on the previous score, previous states 
-        and the current emission state score. save history of 2 past
-        states and score of previous one that its 'partial score' was the
-        highest. The max score is partial score and efeats score."""
+    def register_classes(self, claslist):
+        """register classes"""
         
-        states = ["0","1","2"]
-        
-        if not states_dict:
-            first_dict = {}        
-            for state in states:   
-                S_e = self.score(e_phi, state)                 
-                first_dict[state] = (S_e,([]))
-            return [first_dict] 
-        
-        else:
-            last_dict = states_dict[-1]
-            this_dict = {}
-            for state in states:
-                S_e = self.score(e_phi, state)
-                max_score=-float('inf')
-                max_label = None
-                for prev in states:
-                    (Sprev, (Hprev))=last_dict[prev]
-                    if not Hprev:
-                        Hstate = [prev] # no history
-                    else:
-                        Hstate = Hprev[1:]+[prev]                        
-                    t_phi = tfeats(Hstate, self.order)
-                                             
-                    partial_score = Sprev+self.score(t_phi, state)
-                    if max_score < partial_score:
-                        S_max = partial_score
-                        max_hstate = Hstate
-                # write to dict
-                this_dict[state]=(S_max+S_e,(max_hstate))# brakets
-            states_dict.append(this_dict)
-            return states_dict
-        
+        for cls in claslist:
+            self.classes.add(cls)
+            
 if __name__ == "__main__":
     
 
