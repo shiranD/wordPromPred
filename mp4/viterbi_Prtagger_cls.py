@@ -181,7 +181,7 @@ class AveragedPerceptronTagger(object):
             
         # trace back
         yyhat, phis = self.traceback(efeats, state_dicts)
-        assert len(efeats)==len(yyhat)#len(yyhat), 
+        assert len(efeats)==len(yyhat)
 
         return (yyhat, phis)    
 
@@ -230,7 +230,7 @@ class AveragedPerceptronTagger(object):
                 else:
                     incorect+=1
 
-        return corect/(corect+incorect)
+        return corect/(corect+incorect), self.weights
                 
     def viterbi(self, e_phi, states_dict):
         """compute the current states scores
@@ -260,7 +260,9 @@ class AveragedPerceptronTagger(object):
                     if not Hprev:
                         Hstate = [prev] # no history
                     else:
-                        Hstate = Hprev[1:]+[prev]                        
+                        #print Hprev
+                        Hstate = Hprev[-1:]+[prev]# have two states
+                        #print Hstate
                     t_phi = tfeats(Hstate, self.order)
                                              
                     partial_score = Sprev+self.score(t_phi, state)
@@ -297,10 +299,13 @@ class AveragedPerceptronTagger(object):
         phis.append(phi)
         
         for (last_dict, e_phi) in zip(reversed(states_dict[:-1]),reversed(efeats[:-1])):
-            Hstate=extract(Hstate)
-            (_,Hstate)=last_dict[Hstate]# if H=["2"]->["2"] need "2". H[-1:]
-            yyhat.append(state)
-            phi = last_efeat+tfeats(Hstate, self.order)
+            prev_state=extract(Hstate)
+
+            (_,Hstate)=last_dict[prev_state]# if H=["2"]->["2"] need "2". H[-1:]
+            #if len(Hstate)==2: # no trigram!
+             #   print "2"            
+            yyhat.append(prev_state)
+            phi = e_phi+tfeats(Hstate, self.order)
             phis.append(phi)                
                          
         
@@ -316,9 +321,15 @@ if __name__ == "__main__":
     
 
     X_train, y_train, X_test, y_test = data_prep()  
-    trans = MaximumLikelihoodNGramModel(y_train,2).prob.items() # transitions 
+    trans = MaximumLikelihoodNGramModel(y_train,3).prob.items() # transitions 
     
     tagger = AveragedPerceptronTagger(order=2)    
-    tagger.fit(X_train, y_train, epochs=1)
-    accuracy = tagger.evaluate(X_test, y_test)
+    tagger.fit(X_train, y_train, epochs=20)
+    accuracy,w = tagger.evaluate(X_test, y_test)
+    trs = ["t_i-2='0',t_i-1='0'","t_i-2='0',t_i-1='1'","t_i-2='0',t_i-1='2'",\
+           "t_i-2='1',t_i-1='0'","t_i-2='1',t_i-1='1'","t_i-2='1',t_i-1='2'",\
+           "t_i-2='2',t_i-1='0'","t_i-2='2',t_i-1='1'","t_i-2='2',t_i-1='2'"]
+    for tr in trs:
+        print tr
+        print w[tr]
     print "Accuracy: {:.4f}".format(accuracy)
