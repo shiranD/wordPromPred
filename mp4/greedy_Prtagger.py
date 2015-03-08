@@ -14,7 +14,7 @@ from collections import defaultdict
 
 # reusing this from MP3, but not the larger AveragedPerceptron class
 from perceptron import LazyWeight
-from dataPrep import data_prep
+from dataPrep import k_fold_cross_validation
 
 
 DIGIT = "*DIGIT*"
@@ -208,11 +208,71 @@ class AveragedPerceptronTagger(object):
 
         return corect/(corect+incorect)
                 
+    def register_classes(self, claslist):
+        """register classes"""
 
+        for cls in claslist:
+            self.classes.add(cls)
+            
 if __name__ == "__main__":
     
-    X_train, y_train, X_test, y_test = data_prep()    
-    tagger = AveragedPerceptronTagger(order=2)    
-    tagger.fit(X_train, y_train, epochs=20)
-    accuracy = tagger.evaluate(X_test, y_test)
-    print "Accuracy: {:.4f}".format(accuracy)
+    path = '../out_85175'
+    acc5 = []
+    acc10 = []
+    acc20 = []
+    acc30 = []
+    acc50 = []
+    acc70 = []
+    # the same set!
+    for X_train, y_train, X_test, y_test in k_fold_cross_validation(path, 10,randomize=True): 
+        
+        # 5
+        tagger = AveragedPerceptronTagger(order=2)
+        tagger.register_classes(["0", "1", "2"])
+        tagger.fit(X_train, y_train, epochs=5)
+        ac = tagger.evaluate(X_test, y_test)
+        acc5.append(ac)        
+        # 10
+        tagger = AveragedPerceptronTagger(order=2)
+        tagger.register_classes(["0", "1", "2"])
+        tagger.fit(X_train, y_train, epochs=10)
+        ac = tagger.evaluate(X_test, y_test)
+        acc10.append(ac)
+        # 20
+        tagger = AveragedPerceptronTagger(order=2)
+        tagger.register_classes(["0", "1", "2"])
+        tagger.fit(X_train, y_train, epochs=20)
+        ac = tagger.evaluate(X_test, y_test)
+        acc20.append(ac)
+        # 30
+        tagger = AveragedPerceptronTagger(order=2)
+        tagger.register_classes(["0", "1", "2"])
+        tagger.fit(X_train, y_train, epochs=30)
+        ac = tagger.evaluate(X_test, y_test)
+        acc30.append(ac)
+        # 50
+        tagger = AveragedPerceptronTagger(order=2)
+        tagger.register_classes(["0", "1", "2"])
+        tagger.fit(X_train, y_train, epochs=50)
+        ac = tagger.evaluate(X_test, y_test)
+        acc50.append(ac)
+        # 70
+        tagger = AveragedPerceptronTagger(order=2)
+        tagger.register_classes(["0", "1", "2"])
+        tagger.fit(X_train, y_train, epochs=70)
+        ac = tagger.evaluate(X_test, y_test)
+        acc70.append(ac)        
+        
+    print "Accuracy over 10-fold 5 epoch: {:.4f}".format(mean(acc5))
+    print "Accuracy over 10-fold 10 epoch: {:.4f}".format(mean(acc10))
+    print "Accuracy over 10-fold 20 epoch: {:.4f}".format(mean(acc20))
+    print "Accuracy over 10-fold 30 epoch: {:.4f}".format(mean(acc30))
+    print "Accuracy over 10-fold 50 epoch: {:.4f}".format(mean(acc50))
+    print "Accuracy over 10-fold 70 epoch: {:.4f}".format(mean(acc70))
+    
+    
+    #X_train, y_train, X_test, y_test = data_prep()    
+    #tagger = AveragedPerceptronTagger(order=2)    
+    #tagger.fit(X_train, y_train, epochs=20)
+    #accuracy = tagger.evaluate(X_test, y_test)
+    #print "Accuracy: {:.4f}".format(accuracy)
