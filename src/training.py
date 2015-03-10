@@ -3,7 +3,7 @@
 from os import walk
 import json
 import numpy as np
-from random import shuffle
+from random import shuffle,sample
 from sklearn.feature_extraction import DictVectorizer
 from sklearn.svm import SVC
 from sklearn import linear_model
@@ -71,8 +71,11 @@ if __name__ == '__main__':
 
     data_path = '../out_52947'
     all_data = load_data(data_path)
-    # itms = range(len(all_data))
-    itms = range(5000)
+    #itms = range(len(all_data))
+    n_samples = 10000
+    idx = sample(range(len(all_data)),n_samples)
+    itms = range(n_samples)        
+    all_data = all_data[idx]
     rbf = []
     linear_svm = []
     poly = []
@@ -88,43 +91,43 @@ if __name__ == '__main__':
         if 0:  # svm rbf kernel
             clf = SVC(C=100, gamma=10)
             clf.fit(X_train, Y_train)
-            Y_predict = clf.predict(X_test)
-            print "rbf", np.mean(Y_predict == Y_test)
-            rbf.append(np.mean(Y_predict == Y_test))
+            acc = clf.score(X_test, Y_test)
+            print "rbf", np.mean(acc)
+            rbf.append(acc)
 
-        if 0:  # svm linear kernel
+        if 1:  # svm linear kernel
             clf = SVC(C=1.0, kernel='linear')
             clf.fit(X_train, Y_train)
-            Y_predict = clf.predict(X_test)
-            print "linear svm", np.mean(Y_predict == Y_test)
-            linear_svm.append(np.mean(Y_predict == Y_test))
+            acc = clf.score(X_test, Y_test)
+            print "linear svm", acc
+            linear_svm.append(acc)
 
         if 0:  # svm poly kernel
             clf = SVC(C=1.0, kernel='poly')
             clf.fit(X_train, Y_train)
-            Y_predict = clf.predict(X_test)
-            print "poly svm", np.mean(Y_predict == Y_test)
-            poly.append(np.mean(Y_predict == Y_test))
+            acc = clf.score(X_test, Y_test)
+            print "poly svm", acc
+            poly.append(acc)            
 
         if 0:  # svm sigmoid kernel
             clf = SVC(C=1.0, kernel='sigmoid')
             clf.fit(X_train, Y_train)
-            Y_predict = clf.predict(X_test)
-            print "sigmoid svm", np.mean(Y_predict == Y_test)
-            sigmoid.append(np.mean(Y_predict == Y_test))
+            acc = clf.score(X_test, Y_test)
+            print "sigmoid svm", acc
+            sigmoid.append(acc)             
 
-        if 1:  # linear sgd with svm
-            clf = linear_model.SGDClassifier(loss='perceptron', alpha=0.1)
+        if 0:  # linear sgd with svm
+            clf = linear_model.SGDClassifier(loss='log', alpha=0.1)
             clf.fit(X_train, Y_train)
-            Y_predict = clf.predict(X_test)
-            print "sgd svm", np.mean(Y_predict == Y_test)
-            sgd.append(np.mean(Y_predict == Y_test))
+            acc = clf.score(X_test, Y_test)
+            print "linear sgd", acc
+            sgd.append(acc)             
 
     # print "avg accuracy of rbf is ", np.mean(rbf)
-    # print "avg accuracy of linear_svm is ", np.mean(linear_svm)
+    print "avg accuracy of linear_svm is ", np.mean(linear_svm)
     # print "avg accuracy of poly is ", np.mean(poly)
     # print "avg accuracy of sigmoid is ", np.mean(sigmoid)
-    print "avg accuracy of sgd is ", np.mean(sgd)
+    #print "avg accuracy of sgd is ", np.mean(sgd)
 
     # for item in items:
     # assert (item in idx_train) ^ (item in idx_test)

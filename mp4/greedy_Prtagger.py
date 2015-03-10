@@ -15,6 +15,7 @@ from collections import defaultdict
 # reusing this from MP3, but not the larger AveragedPerceptron class
 from perceptron import LazyWeight
 from dataPrep import k_fold_cross_validation
+import numpy as np
 
 
 DIGIT = "*DIGIT*"
@@ -263,12 +264,12 @@ if __name__ == "__main__":
         ac = tagger.evaluate(X_test, y_test)
         acc70.append(ac)        
         
-    print "Accuracy over 10-fold 5 epoch: {:.4f}".format(mean(acc5))
-    print "Accuracy over 10-fold 10 epoch: {:.4f}".format(mean(acc10))
-    print "Accuracy over 10-fold 20 epoch: {:.4f}".format(mean(acc20))
-    print "Accuracy over 10-fold 30 epoch: {:.4f}".format(mean(acc30))
-    print "Accuracy over 10-fold 50 epoch: {:.4f}".format(mean(acc50))
-    print "Accuracy over 10-fold 70 epoch: {:.4f}".format(mean(acc70))
+    print "Accuracy over 10-fold 5 epoch: {:.4f}".format(np.mean(acc5))
+    print "Accuracy over 10-fold 10 epoch: {:.4f}".format(np.mean(acc10))
+    print "Accuracy over 10-fold 20 epoch: {:.4f}".format(np.mean(acc20))
+    print "Accuracy over 10-fold 30 epoch: {:.4f}".format(np.mean(acc30))
+    print "Accuracy over 10-fold 50 epoch: {:.4f}".format(np.mean(acc50))
+    print "Accuracy over 10-fold 70 epoch: {:.4f}".format(np.mean(acc70))
     
     
     #X_train, y_train, X_test, y_test = data_prep()    

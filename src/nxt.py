@@ -1,3 +1,4 @@
+import os
 from os import walk
 from xml.etree.ElementTree import parse
 import json
@@ -35,42 +36,45 @@ class Swbdnext(str):
         self.phonwords_root = None
         self.dialAct_root = None
         self.disf_dict = {}
+        self.outdir =  "../processed_swbd/" + self.filename
+        if not os.path.exists(self.outdir):
+            os.makedirs(self.outdir)  
 
     def terminals(self):
         """extract terminals info; word, tag, timings, swbd id"""
 
-        jason = "../processed_swbd/" + self.filename
-        with open(str(jason), 'a') as jasonfile:  # open json file
+        for (k,child) in enumerate(self.root):
+            self.current_word = []
+            if child.tag == "word":
+                word_d = child.attrib
+                self.word_id = word_d["{http://nite.sourceforge.net/}id"]
+                self.disfluency()  # extract disfluency
+                self.current_word.append(("word", word_d["orth"]))
+                self.current_word.append(("tag", word_d["pos"]))
+                self.current_word.append(
+                    ("start", word_d["{http://nite.sourceforge.net/}start"]))
+                self.current_word.append(
+                    ("end", word_d["{http://nite.sourceforge.net/}end"]))
+                self.current_word.append(
+                    ("id", word_d["{http://nite.sourceforge.net/}id"]))
+                self.dialAct()  # extract dialAct
+                self.kontrast()  # extract kontrast
+                try:
+                    for child2 in child:
+                        # refer to phonwords and copy final_word to jason
+                        self.phonwords(child2.attrib["href"])
+                        with open(self.outdir+'/'+str(k) ,'w') as fjson:
+                            json.dump(OrderedDict(self.current_word), fjson, indent=4)                            
+                except:
+                    # no children
+                    with open(self.outdir+'/'+str(k) ,'w') as fjson:
+                        json.dump(OrderedDict(self.current_word), fjson, indent=4)   
+                slist = self.filename+"D"+self.word_id+'D'+self.current_word[0][1]
+                flist.write(slist)
+                flist.write('\n')
 
-            for child in self.root:
-                self.current_word = []
-                if child.tag == "word":
-                    word_d = child.attrib
-                    self.word_id = word_d["{http://nite.sourceforge.net/}id"]
-                    self.disfluency()  # extract disfluency
-                    self.current_word.append(("word", word_d["orth"]))
-                    self.current_word.append(("tag", word_d["pos"]))
-                    self.current_word.append(
-                        ("start", word_d["{http://nite.sourceforge.net/}start"]))
-                    self.current_word.append(
-                        ("end", word_d["{http://nite.sourceforge.net/}end"]))
-                    self.current_word.append(
-                        ("id", word_d["{http://nite.sourceforge.net/}id"]))
-                    self.dialAct()  # extract dialAct
-                    self.kontrast()  # extract kontrast
-                    try:
-                        for child2 in child:
-                            # refer to phonwords and copy final_word to jason
-                            self.phonwords(child2.attrib["href"])
-                            json.dump(
-                                OrderedDict(self.current_word), jasonfile, indent=4)
-                    except:
-                        # no children
-                        json.dump(
-                            OrderedDict(self.current_word), jasonfile, indent=4)
-
-                elif child.tag == "sil":
-                    pass
+            elif child.tag == "sil":
+                pass
 
     def phonwords(self, subpath=""):
         """extract phonwords info; subword, syll stresses, num of sylls"""
@@ -143,6 +147,8 @@ class Swbdnext(str):
                     flag = 1
                     self.current_word.append(
                         ("dialAct:niteType", d_dialAct0["niteType"]))
+                    self.current_word.append(
+                        ("dialAct:id", d_dialAct0["{http://nite.sourceforge.net/}id"]))                    
                     break
             if flag:
                 break
@@ -349,11 +355,14 @@ class Swbdnext(str):
 
 mypath = '../../swbd_next/nxt/xml/terminals/'  # path to swbd terminals
 f = []
-for (dirpath, dirnames, filenames) in walk(mypath):
-    f.extend(filenames)
-    break
+#for (dirpath, dirnames, filenames) in walk(mypath):
+    #f.extend(filenames)
+    #break
 # idd = filenames.index("sw2018.A.terminals.xml")
 # filenames=filenames[idd:]
 #filenames = ["sw2060.A.terminals.xml"]
+lst = open("../config/for_proc_swbd","r")
+filenames = lst.readlines()
+flist = open("list_nxt_files","w")
 for filename in filenames:
-    Swbdnext(mypath + filename).terminals()
+    Swbdnext(mypath + filename[:-1]).terminals()

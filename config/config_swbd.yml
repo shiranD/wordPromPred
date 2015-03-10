@@ -2,4 +2,4 @@ negation: ../config/negation
 function: ../config/function
 tagger: ../config/regt3.model
 tagexe: ../config/hunpos-tag
-data: ../config/swbd_limited
+data: ../config/common_acc_phr_kon

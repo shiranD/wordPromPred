@@ -59,7 +59,7 @@ def load_data(datapath):
                     del jdict["right_nuc_kind"]
                 if 1:
                     del jdict["phrases"]
-                if 0:
+                if 1:
                     del jdict["kontrast type"]
                     del jdict["kontrast level"]
                                     
@@ -111,6 +111,8 @@ if __name__ == '__main__':
     all_data = load_data(data_path)
     #itms = range(len(all_data))
     n_samples = 10000
+    #n_samples = 10
+    
     idx = sample(range(len(all_data)),n_samples)
     itms = range(n_samples)        
     all_data = all_data[idx]
@@ -121,6 +123,9 @@ if __name__ == '__main__':
     lin_reg = []
     sgd = []
     BL = []
+    null = []
+    weak = []
+    full = []
     for idx_train, idx_test in k_fold_cross_validation(itms, 5,randomize=True):
 
         X_train = all_data[idx_train, :-1]
@@ -134,8 +139,18 @@ if __name__ == '__main__':
             clf = SVC(C=1.0, kernel='linear')
             clf.fit(X_train, Y_train)
             acc = clf.score(X_test, Y_test)
-            print "linear svm", acc
+            #print "linear svm", acc
             linear_svm.append(acc)
+            
+            Y_predict = clf.predict(X_test)
+            idx = np.where(Y_predict == Y_test)[0]
+            if np.where(Y_test[idx]==0)[0].any():
+                null.append(len(np.where(Y_test[idx]==0)[0]))
+            if np.where(Y_test[idx]==2)[0].any():
+                weak.append(len(np.where(Y_test[idx]==2)[0]))
+            if np.where(Y_test[idx]==1)[0].any():
+                full.append(len(np.where(Y_test[idx]==1)[0]))
+            
             
     for idx_train, idx_test in k_fold_cross_validation(itms, 5, randomize=True):
 
@@ -144,17 +159,56 @@ if __name__ == '__main__':
         X_test = all_data[idx_test, :-1]
         Y_test = all_data[idx_test, -1]
         #BL.append(np.mean(Y_test==0))
-        #print "BL is ",np.mean(Y_test==0)        
+        #print "BL is ",np.mean(Y_test==0)  
+        #get index of incorrect count how many weak full null
 
         if 1:  # svm linear kernel
             clf = SVC(C=1.0, kernel='linear')
             clf.fit(X_train, Y_train)
             acc = clf.score(X_test, Y_test)
-            print "linear svm", acc
+            #print "linear svm", acc
             linear_svm.append(acc)    
+            
+            Y_predict = clf.predict(X_test)
+            idx = np.where(Y_predict == Y_test)[0]
+            if np.where(Y_test[idx]==0)[0].any():
+                null.append(len(np.where(Y_test[idx]==0)[0]))
+            if np.where(Y_test[idx]==2)[0].any():
+                weak.append(len(np.where(Y_test[idx]==2)[0]))
+            if np.where(Y_test[idx]==1)[0].any():
+                full.append(len(np.where(Y_test[idx]==1)[0]))
+            
+            
 
-    print "avg accuracy of linear_svm is ", np.mean(linear_svm)
+    print "avg accuracy of linear_svm is ", np.mean(linear_svm),np.mean(linear_svm)*20000
+    print "NN null",sum(null)
+    print "YY full",sum(full)+sum(weak)
+    #print "missed weak",np.mean(no_weak)
+    
     #print "avg Baseline is ", np.mean(BL)
     #print "avg accuracy of linear_svm is ", np.var(linear_svm)
     
-
+    #avg accuracy of linear_svm is  0.7731 15462.0 (all)
+    #NN null 12472
+    #YY full 2990    
+    #TBD
+    
+    #ph+word+syll+kon+clp_tg
+    #avg accuracy of linear_svm is  0.77735 15547.0
+    #NN null 12279
+    #YY full 3268    
+    
+    #phrase+words
+    #avg accuracy of linear_svm is  0.78105 15621.0
+    #NN null 12446
+    #YY full 3175    
+    
+    #words+clp-tg
+    #avg accuracy of linear_svm is  0.7286 14572.0
+    #NN null 12376
+    #YY full 2196    
+    
+    #words
+    #avg accuracy of linear_svm is  0.732 14640.0
+    #NN null 12088
+    #YY full 2552  

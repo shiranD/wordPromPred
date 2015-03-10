@@ -119,6 +119,7 @@ def featurize(sentence, idnum, pat):
             if word in ["'d", "'ll", "'n'", "'re", "'ve", "n't"]:
                 past_word[0][1] = past_word[0][1] + word
                 phns = d[past_word[0][1].lower()][0]
+                past_word[4][1] = bool(word in negation)               
                 sylls, num_syll, nuc, kind = syll_detector(phns)
                 past_word[5][1] = sylls
                 past_word[6][1] = num_syll
@@ -136,7 +137,7 @@ def featurize(sentence, idnum, pat):
                 ('collps_tag', map_tag(SOURCE, target='universal',
                                        source_tag=tag)))
             current_word.append(('function', bool(word in function)))
-            current_word.append(('negation', bool(word in negation)))
+            current_word.append(['negation', bool(word in negation)])
             try:
                 phns = d[word.lower()][0]
             except:

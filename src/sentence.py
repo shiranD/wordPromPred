@@ -1,0 +1,19 @@
+#! /opt/local/bin/python
+
+import os
+import sys
+import fileinput
+from nltk.tree import Tree
+
+#fname = 'wsj-22-24.mrg'
+
+"""This code extracts the tokenized sentence from each tree as a preprocess for the parser"""
+
+for s in fileinput.input():
+    terminals = Tree.fromstring(s).leaves()     
+    sentence = ' '.join(terminals)
+    sentence = sentence.replace('-LCB-','(')
+    sentence = sentence.replace('-LRB-','[')
+    sentence = sentence.replace('-RRB-',']')
+    sentence = sentence.replace('-RCB-',')')
+    print sentence 

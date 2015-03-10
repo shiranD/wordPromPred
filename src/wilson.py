@@ -17,7 +17,7 @@ def wilson(n,p,z):
 num_obs = 10000
 z_val = 1.9599639845400538273879
 
-acc = 0.786
+acc = 78.6
 #print acc, wilson(num_obs, acc, z_val)
 
 acc = [0.699,0.727, 0.738, 0.766, 0.775, 0.786]
@@ -28,14 +28,15 @@ for ac in acc:
     heads.append(head)
     tails.append(tail)
 
-
+tails = np.array(tails)*100
+heads = np.array(heads)*100
 fig = plt.figure()
 ax = fig.add_subplot(111)
 ax.errorbar([0,1,2,3,4,5], heads, yerr = tails, fmt = 'o')
 plt.xlim([-1,6])
-plt.title("Wilson Score Interval")
+plt.title("Wilson Score Confidence Interval")
 plt.xlabel("trial")
-plt.ylabel("accuracy")
+plt.ylabel("accuracy[%]")
 plt.xticks(range(len(heads)),\
            ['Baseline', 'clp tg', 'Word','clp tg\n+ word','phrases\n+ word','phrases\n+ word+syll\n + kon+ cls tg'],\
            color='magenta')
