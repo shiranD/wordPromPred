@@ -47,7 +47,7 @@ def load_datap(datapath):
                 
                 # read json as dict
                 feat = []
-                feat.append("*bias*")
+                #feat.append("*bias*")
                  
                 feat.append("word="+jdict["word"])
                 feat.append("tag="+jdict["tag"])
@@ -155,7 +155,7 @@ def load_data(datapath):
                 
                 # read json as dict
                 feat = []
-                feat.append("*bias*")
+                #feat.append("*bias*")
                  
                 feat.append("word="+jdict["word"])
                 feat.append("tag="+jdict["tag"])
