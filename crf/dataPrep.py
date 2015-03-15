@@ -143,6 +143,12 @@ def load_data(datapath):
                     #h+=1
                     #if h ==78:
                         #print h
+                    #if len(y_seq)>24:
+                     #   X_seq = []
+                      #  y_seq = []  
+                       # g=0
+                    #else:
+
                     X_data.append(X_seq)
                     y_data.append(y_seq)
                     X_seq = []
@@ -227,7 +233,7 @@ def load_data(datapath):
             #Y.append(y)            
     #return X, Y
 
-def k_fold_cross_validation(data_path, k=10, randomize=False):
+def k_fold_cross_validation(data_path, k=5, randomize=False):
     """k fold cross validation of data"""
     all_d = load_data(data_path)
 

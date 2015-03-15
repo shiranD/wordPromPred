@@ -5,7 +5,7 @@ from os import walk
 
 mypath = "sets/"
 f = []
-crf = 65
+crf = 1489
 m3n = 27
 num = crf
 for (dirpath, dirnames, filenames) in walk(mypath):
