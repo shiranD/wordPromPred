@@ -157,9 +157,9 @@ key "cole2014listening"
 \end_inset
 
  showed that the emphasized words in a sentence shape the meaning of a sentence
- in an audio-listening task of non-expert native speakers.
+ in an audio-listening task/perceptual test of non-expert native speakers.
  It was also proven that incorporating prosodic cues to an utterance in
- comparison to arbitrary emphasis of words and monotonic speech, boosts
+ comparison to both arbitrary emphasis of words and monotonic speech, boosts
  up language acquisition 
 \begin_inset CommandInset citation
 LatexCommand citep
@@ -169,8 +169,7 @@ key "morgan1987structural"
 
 .
  We also know that, apart from conveying messages in an intelligible form,
- lacking the ability to emphasize words was observed in children with autism
- 
+ sentences lacking prominence were observed in children with autism 
 \begin_inset CommandInset citation
 LatexCommand citep
 key "shriberg2001speech"
@@ -178,7 +177,7 @@ key "shriberg2001speech"
 \end_inset
 
  who their speech sounds monotonic and 'machine like'.
- Therefore using prominence contributes to a natural and expressive manner
+ Therefore, using prominence contributes to a natural and expressive manner
  of speech.
 \end_layout
 
@@ -197,7 +196,8 @@ TTS+example
 
 \begin_layout Standard
 While humans naturally apply prominence, Text to Speech (TTS) systems still
- aim at producing better synthesized speech 
+ aim at producing synthesized speech that incorporates prominence.
+ 
 \begin_inset CommandInset citation
 LatexCommand citep
 key "cooke2013evaluating"
@@ -249,12 +249,12 @@ https://haharoni.wordpress.com/2011/10/11/hatama-02/
 In reality emphasizing 'she' as well as 'what' are both valid assignments
  of prominence.
  Having no emphasis in a sentence, by having monotonic speech would sound
- not natural and make the hearer wonder what was the purpose of the utterance.
- However, when 'she' is emphasized, we can assume that our focus is on her
- and the information coming next would probably involve additional details
- to support that fact.
+ not natural and make the hearer wonder about the purpose of the utterance.
+ However, when 'she' is emphasized, we assume that our focus is on her and
+ the information coming next would probably involve additional details to
+ support that fact.
  The same goes with 'what' only that this time we would expect details on
- what was being said.
+ what being said later on.
  
 \end_layout
 
@@ -280,25 +280,25 @@ key "rosenberg2006correlation"
 
 .
  More interestingly, in this work we hypothesis that linguistic features
- can contribute to prominence.
+ contribute to prominence.
  For example, since content words tend to introduce new information, they
  are likely to be accented more often than function words.
  Another example that influences accent is the presence of phrases which
- is a sequence of words that is accented within a sentence.
- Within this substructure called phrase there will be another dimension
- of accentuation in the form of a word or a syllable.
+ is a sequence of accented words within a sentence.
+ Within the phrase there will be another dimension of accentuation in the
+ form of a word or a syllable.
  Another noticeable trend in that the local surrounding of a prominent word
  can not be prominent.
  According to 
 \begin_inset CommandInset citation
-LatexCommand citep
+LatexCommand citet
 key "kimballavoidance"
 
 \end_inset
 
- which claim that we are not capable of perciving clashes resulted by adjacent
- prominent words and adjust our ear to perceive a modified sentence that
- detaches and avoids adjacency.
+ who claims that we are not capable of perciving clashes resulted by adjacent
+ prominent words and adjust our hearing to perceive a modified sentence
+ that detaches and avoids adjacency.
  This conclusion might also suggest that sentence production involves scattering
  prominece to non-prominent (lapse) environments by avoiding accenting two
  or more units in a row.
@@ -306,11 +306,22 @@ key "kimballavoidance"
 
 \begin_layout Standard
 Our goal in this research is to develop a model that predicts better the
- prominence in a sentence by using several different sequence classifiers
+ prominence in a sentence by examining several different sequence classifiers
  that use contextual information.
  We use linguistic features of annotated spontaneous speech, which is known
- to be less predictive than read speech, and we show that we produce a model
- that is significantly better than the baseline.
+ to be less predictive than read speech 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+[since there are phenomena of shortend words so stress and accents has to
+ accomodate with irregularitiies]
+\end_layout
+
+\end_inset
+
+ , and we show that we produce a model that is significantly better than
+ the baseline.
  
 \end_layout
 
