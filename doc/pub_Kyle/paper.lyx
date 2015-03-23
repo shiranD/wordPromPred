@@ -135,7 +135,204 @@ Introduction
 status open
 
 \begin_layout Plain Layout
-define prominece Cole
+definition
+\end_layout
+
+\end_inset
+
+Prominence of a syntactic unit in a sentence intends to focus the listener's
+ attention to a new concept presented by the speaker 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "bolinger1986intonation"
+
+\end_inset
+
+.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "cole2014listening"
+
+\end_inset
+
+ showed that the emphasized words in a sentence shape the meaning of a sentence
+ in an audio-listening task of non-expert native speakers.
+ It was also proven that incorporating prosodic cues to an utterance in
+ comparison to arbitrary emphasis of words and monotonic speech, boosts
+ up language acquisition 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "morgan1987structural"
+
+\end_inset
+
+.
+ We also know that, apart from conveying messages in an intelligible form,
+ lacking the ability to emphasize words was observed in children with autism
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "shriberg2001speech"
+
+\end_inset
+
+ who their speech sounds monotonic and 'machine like'.
+ Therefore using prominence contributes to a natural and expressive manner
+ of speech.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+TTS+example
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+While humans naturally apply prominence, Text to Speech (TTS) systems still
+ aim at producing better synthesized speech 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "cooke2013evaluating"
+
+\end_inset
+
+.
+ There two main reasons for which prominence can leverage performance in
+ TTS systems: first, it conveys an intelligible message since it clarifies
+ the meaning of a sentence, and second, it potentially can make speech sound
+ natural - by imitating humans' prominence assignment to a sentence.
+ An example to illustrate the problem is brought in the next sentence: 
+\end_layout
+
+\begin_layout Standard
+That's what 
+\begin_inset Formula $\text{she}^{<}$
+\end_inset
+
+ said
+\end_layout
+
+\begin_layout Standard
+That's 
+\begin_inset Formula $\text{what}^{<}$
+\end_inset
+
+ she said
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+this is the source for stress symbolic icon:
+\end_layout
+
+\begin_layout Plain Layout
+https://haharoni.wordpress.com/2011/10/11/hatama-02/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In reality emphasizing 'she' as well as 'what' are both valid assignments
+ of prominence.
+ Having no emphasis in a sentence, by having monotonic speech would sound
+ not natural and make the hearer wonder what was the purpose of the utterance.
+ However, when 'she' is emphasized, we can assume that our focus is on her
+ and the information coming next would probably involve additional details
+ to support that fact.
+ The same goes with 'what' only that this time we would expect details on
+ what was being said.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+properties
+\end_layout
+
+\end_inset
+
+Where can we find evidence of prominence? Prominence of a word is determined
+ by three parameters that are expressed in sound: A local maxima or minima
+ of the fundamental frequency contour, longer duration and a high energy
+ regions of speech 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "rosenberg2006correlation"
+
+\end_inset
+
+.
+ More interestingly, in this work we hypothesis that linguistic features
+ can contribute to prominence.
+ For example, since content words tend to introduce new information, they
+ are likely to be accented more often than function words.
+ Another example that influences accent is the presence of phrases which
+ is a sequence of words that is accented within a sentence.
+ Within this substructure called phrase there will be another dimension
+ of accentuation in the form of a word or a syllable.
+ Another noticeable trend in that the local surrounding of a prominent word
+ can not be prominent.
+ According to 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "kimballavoidance"
+
+\end_inset
+
+ which claim that we are not capable of perciving clashes resulted by adjacent
+ prominent words and adjust our ear to perceive a modified sentence that
+ detaches and avoids adjacency.
+ This conclusion might also suggest that sentence production involves scattering
+ prominece to non-prominent (lapse) environments by avoiding accenting two
+ or more units in a row.
+\end_layout
+
+\begin_layout Standard
+Our goal in this research is to develop a model that predicts better the
+ prominence in a sentence by using several different sequence classifiers
+ that use contextual information.
+ We use linguistic features of annotated spontaneous speech, which is known
+ to be less predictive than read speech, and we show that we produce a model
+ that is significantly better than the baseline.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Contributions
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+define prominence Cole
 \end_layout
 
 \begin_layout Plain Layout
@@ -256,6 +453,17 @@ utt level scoring
 
 \begin_layout Section
 Conclusion
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "prom"
+options "plainnat"
+
+\end_inset
+
+
 \end_layout
 
 \end_body
