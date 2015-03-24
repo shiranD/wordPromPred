@@ -200,7 +200,7 @@ key "shriberg2001speech"
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 TTS+example
@@ -303,10 +303,6 @@ https://haharoni.wordpress.com/2011/10/11/hatama-02/
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
 In reality, emphasizing 'she' as well as 'what' are both valid assignments
  of prominence.
  Having no emphasis in a sentence, by having monotonic speech, would sound
@@ -316,7 +312,6 @@ In reality, emphasizing 'she' as well as 'what' are both valid assignments
  support that fact.
  The same goes with 'what' only that this time we would expect details on
  what is being said later on.
- 
 \end_layout
 
 \begin_layout Standard
@@ -348,14 +343,26 @@ key "rosenberg2006correlation"
  contribute to prominence.
  For example, since content words tend to introduce new information, they
  are likely to be accented more often than function words.
- Another example that influences accent is the presence of a phrase in a
+ Another example is the presence of contrast in a sentence.
+ We assume that presenting a clause that undermines the former idea is expected
+ to be emphasized in order to point out the new contrastive information.
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Another example that influences accent is the presence of a phrase in a
  sentence.
  A phrase is a sequence of accented words within a sentence.
  Within the phrase there will be another dimension of accentuation in the
  form of a word or syllable.
  Another noticeable trend is that the words surrounding a prominent word
- may not, under most circumstances, be prominent.
- According to
+ may not, under most circumstances, be prominent
+\end_layout
+
+\end_inset
+
+We derive additional assumtions from a recent study, according to
 \begin_inset space ~
 \end_inset
 
@@ -390,7 +397,7 @@ status collapsed
 
 \end_inset
 
- , and we show that our model is significantly better than the baseline.
+, and we show that our model is significantly better than the baseline.
  
 \end_layout
 
