@@ -132,7 +132,7 @@ Introduction
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 definition
@@ -183,7 +183,7 @@ key "shriberg2001speech"
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 TTS+example
@@ -260,7 +260,7 @@ In reality emphasizing 'she' as well as 'what' are both valid assignments
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 properties
@@ -287,7 +287,7 @@ key "rosenberg2006correlation"
  is a sequence of accented words within a sentence.
  Within the phrase there will be another dimension of accentuation in the
  form of a word or a syllable.
- Another noticeable trend in that the local surrounding of a prominent word
+ Another noticeable trend is that the local surrounding of a prominent word
  can not be prominent.
  According to 
 \begin_inset CommandInset citation
@@ -305,13 +305,13 @@ key "kimballavoidance"
 \end_layout
 
 \begin_layout Standard
-Our goal in this research is to develop a model that predicts better the
+Our goal, in this research, is to develop a model that predicts better the
  prominence in a sentence by examining several different sequence classifiers
  that use contextual information.
  We use linguistic features of annotated spontaneous speech, which is known
  to be less predictive than read speech 
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 [since there are phenomena of shortend words so stress and accents has to
@@ -327,7 +327,7 @@ status open
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Contributions
