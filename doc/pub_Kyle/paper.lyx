@@ -624,25 +624,180 @@ We would like then to offer a better linguistic-based solution to predict
 Methods
 \end_layout
 
+\begin_layout Subsection
+Data
+\end_layout
+
 \begin_layout Standard
-\begin_inset Note Note
+We used 'Switchboard in NXT' corpus
+\begin_inset CommandInset citation
+LatexCommand citep
+key "godfrey1992switchboard"
+
+\end_inset
+
+on annotated conversational speech.
+ We used 40,647 tokens that created in 6425 sentences (or sequences).
+ The corpus offers various features added from Penn Treebank and MS-State
+ Transcript projects.
+ The features we used were: 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Terminals
+\series default
+ containing the orthographic transcription along with its corresponding
+ part of speech.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+DialAct
+\series default
+ containing the dialogue act description such as a statement and a question.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Kontrast 
+\series default
+containing the level of kontrast such as word, phrase and whether its contrastiv
+e.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Disfluency
+\series default
+ containing the places that the speaker hesitates.
+ We used only the repair units.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Phonewords 
+\series default
+containing similar information like terminals (both eventually were merged).
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Phrases 
+\series default
+containing groups of words that were assigned with a different prosody such
+ as minor and major.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Accent 
+\series default
+containing the information on level of prominence assigned to each token;
+ full, weak, and none.
+\end_layout
+
+\begin_layout Subsection
+Features
+\end_layout
+
+\begin_layout Standard
+We extracted information from Switchboard and added additional features
+ that may tell further about the accent which is our target prediction in
+ our experiment.
+ 
+\end_layout
+
+\begin_layout Standard
+in Figure 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:feature-set"
+
+\end_inset
+
+ the blue represents the feature set, referred to as 
+\begin_inset Formula $X$
+\end_inset
+
+.
+ Our feature set was: the word, it's part of speech, its collapsed part
+ of speech, whether its a function and a negation word, the token's syllable's
+ vowel-group by order, the token's nucleus, nucleus kind, kontrast level,
+ kontrast type, whether it's a phrase, phrase kind, and the description
+ of the discourse.
+ In pink there's the true target 
+\begin_inset Formula $y$
+\end_inset
+
+ describing the accent.
+ In this case only 'pretty' is assigned with 'full' type of accent and all
+ the rest are assigned with 'none' accent.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
 status open
 
 \begin_layout Plain Layout
-3.1 data
-\end_layout
+\align center
+\begin_inset Float figure
+wide false
+sideways false
+status open
 
 \begin_layout Plain Layout
-features
-\end_layout
+\align center
+\begin_inset Graphics
+	filename feat.pdf
+	lyxscale 40
+	scale 40
 
-\begin_layout Plain Layout
-3.2 models
+\end_inset
+
+
 \end_layout
 
 \end_inset
 
 
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:feature-set"
+
+\end_inset
+
+sequence of feature set and its corresponding target accents 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Models
 \end_layout
 
 \begin_layout Section
