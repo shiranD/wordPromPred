@@ -747,7 +747,7 @@ reference "fig:feature-set"
 \begin_inset Float figure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \align center
@@ -946,6 +946,11 @@ Baseline - our baseline was set by guessing the most probable target.
 Results
 \end_layout
 
+\begin_layout Standard
+We perfomed a 10 fold cross-validation test and averaged over all accuracy
+ results for token and sentence level tests.
+\end_layout
+
 \begin_layout Subsection
 Token Level Accuracy
 \end_layout
@@ -954,7 +959,7 @@ Token Level Accuracy
 The models were tested to for their token accuracy.
  Accuracy was measured by counting the correct classifications over all
  classifications.
- We used 10 fold cross-validation and averaged on all accuracy results.
+ .
  Table 
 \begin_inset CommandInset ref
 LatexCommand ref
@@ -1209,10 +1214,98 @@ name "tab:token accuracy"
 \end_layout
 
 \begin_layout Standard
-Next we applied Wilson Confidence Interval to understand if these models
- consruct results that don't overlap with other models.
- And finally we performed a Mcneamar test to determine the significance
- of our results.
+Next, we applied Wilson Confidence Interval 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "wallis2013binomial"
+
+\end_inset
+
+ to have a better idea of whether the models are different or that their
+ confidence interval overlaps.
+ Looking at Figure 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:wilson"
+
+\end_inset
+
+ we noticed that there all models seem to differ than the basline since
+ none overlaps with it.
+ We also saw that Local search on all its order demostrates overlap within
+ group but does not overlap with Gready and Viterbi which seem to be the
+ overlap too.
+ CRF and M3N do not seem to represent a similar popuolation as well.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename wilson.pdf
+	lyxscale 40
+	scale 40
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:wilson"
+
+\end_inset
+
+Wilson Score 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Finally, we performed a Mcneamar 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "fagerland2013mcnemar"
+
+\end_inset
+
+ test to determine the significance of our results.
+ In this test our main interset was to undestand the gain of using one model
+ over another.
+ The analysis here was examining within the correctly classified results
+ compare how many true positive and how many true negtive were predicted
+ -- this determine the differences in models populations.
 \end_layout
 
 \begin_layout Subsection
