@@ -759,7 +759,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename feat.pdf
+	filename featset1.pdf
 	lyxscale 40
 	scale 40
 
@@ -798,6 +798,147 @@ sequence of feature set and its corresponding target accents
 
 \begin_layout Subsection
 Models
+\end_layout
+
+\begin_layout Standard
+We used sequence classifieing models to exploit the internal relationships
+ found in adjacent observations and consider the problem in its context.
+ Models 1-3 were based on Average Perceptron approach 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "collins2002discriminative"
+
+\end_inset
+
+ applying Hidden Markov Models assumptions to these models.
+ For models 4, 6 we used a 'PocketCRF' toolkit' (https://github.com/kylebgorman?t
+ab=repositories).
+\end_layout
+
+\begin_layout Enumerate
+Local Search - we employed three models; Zero order, First order and Second
+ order.
+ Zero orders's input contained feature set in time 
+\begin_inset Formula $t$
+\end_inset
+
+: 
+\begin_inset Formula $X(t)$
+\end_inset
+
+.
+ First order's was 
+\begin_inset Formula $X(t)$
+\end_inset
+
+ and 
+\begin_inset Formula $X(t-1)$
+\end_inset
+
+ .
+ Second order's was 
+\begin_inset Formula $X(t)$
+\end_inset
+
+, 
+\begin_inset Formula $X(t-1)$
+\end_inset
+
+, and 
+\begin_inset Formula $X(t+1)$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Enumerate
+Greedy Search - we employed an input that contained feature set of time
+ 
+\begin_inset Formula $t$
+\end_inset
+
+ together with last prediction for time 
+\begin_inset Formula $t-1$
+\end_inset
+
+ .
+ 
+\begin_inset Formula $X(t)$
+\end_inset
+
+ and 
+\begin_inset Formula $\hat{y}(t-1)$
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Viterbi Search - we employed First order Viterbi algorithm 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "viterbi1967error"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Enumerate
+Condiitonal Random Fields Search - we employed an input that contained 
+\begin_inset Formula $X(t)$
+\end_inset
+
+, 
+\begin_inset Formula $X(t-1)$
+\end_inset
+
+, and 
+\begin_inset Formula $X(t+1)$
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "lafferty2001conditional"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Max Margin Markov Networks Search - we employed an input that contained
+ 
+\begin_inset Formula $X(t)$
+\end_inset
+
+, 
+\begin_inset Formula $X(t-1)$
+\end_inset
+
+, and 
+\begin_inset Formula $X(t+1)$
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "roller2004max"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Baseline - our baseline was set by guessing the most probable target.
+ In our experiment the guess was 'none' accent type because of the nature
+ of our speech such that prominence is assigned only once in a while to
+ distiguish itself from its enviroment.
 \end_layout
 
 \begin_layout Section
