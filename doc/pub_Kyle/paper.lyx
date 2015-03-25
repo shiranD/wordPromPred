@@ -362,7 +362,7 @@ Another example that influences accent is the presence of a phrase in a
 
 \end_inset
 
-We derive additional assumtions from a recent study, according to
+We derive additional assumptions from a recent study, according to
 \begin_inset space ~
 \end_inset
 
@@ -373,11 +373,11 @@ key "kimballavoidance"
 
 \end_inset
 
- we are not capable of perciving clashes resulted by adjacent prominent
+ we are not capable of perceiving clashes resulted by adjacent prominent
  words and adjust our hearing to perceive a modified sentence that detaches
  and avoids adjacency.
  This conclusion might also suggest that sentence production involves scattering
- prominece to non-prominent environments by avoiding accenting two or more
+ prominence to non-prominent environments by avoiding accenting two or more
  units in a row.
 \end_layout
 
@@ -392,7 +392,7 @@ status collapsed
 
 \begin_layout Plain Layout
 [since there are phenomena of shortend words so stress and accents has to
- accomodate with irregularitiies]
+ accommodate with irregularitiies]
 \end_layout
 
 \end_inset
@@ -402,9 +402,9 @@ status collapsed
 \end_layout
 
 \begin_layout Standard
-In the followoing sections we describe prior work done in this field in
- Section 2, methods that we used to build our classifiers in Section 3,
- performance evaluation in Section 4, and conclusions in Section 5.
+In the following sections we describe prior work done in this field in Section
+ 2, methods that we used to build our classifiers in Section 3, performance
+ evaluation in Section 4, and conclusions in Section 5.
  
 \end_layout
 
@@ -434,7 +434,7 @@ perceptual cues
 \end_layout
 
 \begin_layout Plain Layout
-what things that humans hear cause them feel it is prominet
+what things that humans hear cause them feel it is prominent
 \end_layout
 
 \begin_layout Plain Layout
@@ -497,6 +497,127 @@ spontaious speech
 
 \begin_layout Section
 Prior Work
+\end_layout
+
+\begin_layout Standard
+The prior work in the field of predicting prominence in a sentence is divided
+ to two schools of thought.
+ The research that involves acoustic with or without linguistic features
+ and the research that is focused only on linguistic features.
+ We will review both and point out some interesting methods that were developed.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand citet
+key "rosenberg2009detecting"
+
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+explored what domain of acoustic analysis predicts most accurately pitch
+ accents and concluded that the word level riches the highest accuracy of
+ 84.2% on read speech.
+ In another study 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "rangarajan2007exploiting"
+
+\end_inset
+
+ applying Maximum Entropy approach on read speech, using Boston University
+ Radio News Corpus, scored 86.0% accuracy.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "mehrabani2013unsupervised"
+
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+used unsupervised learning to find several clusters to represent prominence
+ level found in speech and then modeled the different clusters' relationship
+ with linguistic features to predict prominence from a text.
+ A German-language study that incorporated knowledge only from acoustics
+ used features like nucleus duration, spectral emphasis, pitch movements,
+ and intensity showed correlation between perceptual tests to predicted
+ prominence
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "tamburini2007automatic"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Linguistic-wise, there are several sturdies that utilized the syntactic
+ information.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "windmann2011prominence"
+
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+developed a rule-based voting system based on features such as Part of Speech
+ tags and dictionary based stress assignments to words to determine the
+ prominence assignment.
+ Another study 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "brenier2006non"
+
+\end_inset
+
+ suggests using interesting features such as the frequency of a word, the
+ type of noun, and accent ratio which eventually results in a 77% accuracy
+ result on spontaneous speech.
+ And later, using features found in Switchboard conversational corpus such
+ as contrast led to 76.58% in accuracy
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "nenkova2007memorize"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Not convincing enough
+\end_layout
+
+\end_inset
+
+We would like then to offer a better linguistic-based solution to predict
+ prominence on conversational speech and .
+ Next, we'll present our methods and set of features we chose to use.
 \end_layout
 
 \begin_layout Section
