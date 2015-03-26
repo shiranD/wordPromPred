@@ -164,7 +164,7 @@ key "cole2014listening"
 \begin_inset space ~
 \end_inset
 
-showed that the emphasized words in a sentence shape the meaning of a the
+showed that the emphasized words in a sentence shape the meaning of the
  sentence in an audio-listening perceptual test of non-expert, native speakers.
  It was also proven that incorporating prosodic cues to an utterance, in
  comparison to both arbitrary emphasis of words and monotonic speech, supports
@@ -227,11 +227,11 @@ key "cooke2013evaluating"
 .
  There are two main reasons for which prominence can leverage performance
  in TTS systems.
- First, to convey an intelligible message in order to clarify the meaning
- of a sentence.
+ First, to convey an intelligible message that clarifies the meaning of
+ a sentence.
  Second, to potentially make speech more natural through imitating humans'
  prominence assignments.
- The significance of prominence is illustrataed in the following examples:
+ The significance of prominence is illustrated in the following examples:
  
 \begin_inset ERT
 status open
@@ -324,7 +324,7 @@ properties
 \end_inset
 
 Where can we find evidence of prominence? Prominence of a word is determined
- by three parameters that are expressed in sound: A local maxima or minima
+ by three parameters that are expressed in sound: a local maxima or minima
  of the fundamental frequency contour, longer duration of the emphasized
  unit, and a high energy region of speech
 \begin_inset space ~
@@ -392,7 +392,7 @@ status collapsed
 
 \begin_layout Plain Layout
 [since there are phenomena of shortend words so stress and accents has to
- accommodate with irregularitiies]
+ accommodate with irregularities]
 \end_layout
 
 \end_inset
@@ -402,9 +402,9 @@ We show that our model is significantly better than the baseline.
 \end_layout
 
 \begin_layout Standard
-In the following sections we describe prior work in Section 2, methods that
- we used to build our classifiers in Section 3, performance evaluation in
- Section 4, and conclusions in Section 5.
+In the following sections we describe prior work in Section 2, methods to
+ build our classifiers in Section 3, performance evaluation in Section 4,
+ and conclusions in Section 5.
  
 \end_layout
 
@@ -586,9 +586,9 @@ key "brenier2006non"
 
 \end_inset
 
- suggests that using interesting features such as the frequency of a word,
- the type of a noun, and accent ratio which eventually results in a 77%
- in accuracy on spontaneous speech.
+ suggested that using features such as the frequency of a word, the type
+ of a noun, and accent ratio eventually results in a 77% in accuracy on
+ spontaneous speech.
  Using features found in Switchboard spontaneous corpus such as contrast
  led to 76.58% in accuracy
 \begin_inset space ~
@@ -616,7 +616,7 @@ Not convincing enough
 \end_inset
 
 We would like to offer a better linguistic-based solution to predict prominence
- on spontaneous speech and .
+ on spontaneous speech.
  Next, we'll present our methods and set of features we chose to use.
 \end_layout
 
@@ -629,16 +629,16 @@ Data
 \end_layout
 
 \begin_layout Standard
-We used 'Switchboard in NXT' corpus
+We used 'Switchboard in NXT' database 
 \begin_inset CommandInset citation
 LatexCommand citep
 key "godfrey1992switchboard"
 
 \end_inset
 
-on annotated spontaneous speech.
- We used 40,647 tokens that created in 6,425 sentences (or sequences).
- The corpus offers various features added from Penn Treebank and MS-State
+ on annotated spontaneous speech.
+ We used 40,647 tokens that constructed 6,425 sentences (or sequences).
+ The database offers various features added from Penn Treebank and MS-State
  Transcript projects.
  The features we used were: 
 \end_layout
@@ -711,7 +711,7 @@ Features
 
 \begin_layout Standard
 We extracted information from Switchboard and added additional features
- that may further tell about the accent which is our target prediction in
+ that may further tell about the accent which is the target prediction in
  our experiment.
  
 \end_layout
@@ -724,7 +724,7 @@ reference "fig:feature-set"
 
 \end_inset
 
- the blue represents the feature set referred to as 
+, the blue represents the feature set referred to as 
 \begin_inset Formula $X$
 \end_inset
 
@@ -734,7 +734,7 @@ reference "fig:feature-set"
  vowel-group by order, the token's nucleus, nucleus kind, kontrast level,
  kontrast type, whether it is a phrase, phrase kind, and the description
  of the discourse.
- In pink there is the true target 
+ In pink, there is the true target 
 \begin_inset Formula $y$
 \end_inset
 
@@ -801,7 +801,7 @@ Models
 \end_layout
 
 \begin_layout Standard
-We used sequence classifieing models to exploit the internal relationships
+We used sequence classifying models to exploit the internal relationships
  found in adjacent observations and consider the problem in its context.
  Models 1-3 were based on Average Perceptron approach 
 \begin_inset CommandInset citation
@@ -835,7 +835,7 @@ Local Search -- we employed three models: zero order, first order, and second
 \begin_inset Formula $X(t-1)$
 \end_inset
 
- .
+.
  Second order's was 
 \begin_inset Formula $X(t)$
 \end_inset
@@ -862,15 +862,15 @@ Greedy Search -- we employed an input that contained feature set of time
 \end_inset
 
 .
- 
+ The input was 
 \begin_inset Formula $X(t)$
 \end_inset
 
- and 
+, 
 \begin_inset Formula $\hat{y}(t-1)$
 \end_inset
 
-.
+ and transition features.
  
 \end_layout
 
@@ -946,7 +946,7 @@ Results
 \end_layout
 
 \begin_layout Standard
-We perfomed a 10 fold cross-validation test and averaged all accuracy results
+We performed a 10 fold cross-validation test and averaged all accuracy results
  for token and sentence level tests.
 \end_layout
 
@@ -966,10 +966,9 @@ reference "tab:token accuracy"
 \end_inset
 
  describes the accuracy of the classifications using the models.
- We notice that all Local Searches performed the best, the Viterbi and the
- Gready were close to each other and the CRF as well as the M3N were not
- as good as the other models.
- 
+ We noticed that all Local Searches performed the best, then, the Viterbi
+ and the Greedy which were close to each other and lasts are the CRF as
+ well as the M3N, yet still seemed to be different than the baseline.
 \end_layout
 
 \begin_layout Standard
@@ -1232,10 +1231,10 @@ reference "fig:wilson"
 , we noticed that all models seem to differ than the basline since none
  overlap with it.
  We also saw that Local Searches demostrates overlap within group but does
- not overlap with Gready and Viterbi.
- Gready and Viterbi overlap but do not overlap with CRF.
+ not overlap with Greedy and Viterbi.
+ Greedy and Viterbi overlap but do not overlap with CRF.
  For the same reason, CRF and M3N do not seem to represent a similar population
- as well .
+ as well.
 \end_layout
 
 \begin_layout Standard
@@ -1243,7 +1242,7 @@ reference "fig:wilson"
 placement h
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \align center
@@ -1302,8 +1301,344 @@ key "fagerland2013mcnemar"
 
  test to determine the significance of our results.
  Mcneamar test compares two models in terms of how many true positive and
- true negtive were predicted in each model -- this determine the differences
+ true negtive were predicted in each model -- this determines the differences
  in model populations.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Float table
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="8" columns="3">
+<features rotate="0" tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Model A
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Model B
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+P value
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+M3N
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Baseline
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1.82e-22
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+CRF
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+M3N
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+4.74e-197
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Greedy Search
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+CRF
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+9.04e-137
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Viterbi Search
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Greedy Search
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.02
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Local Search 2nd order
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Viterbi Search
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2.2e-38
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Local Search 0 order
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Local Search 2nd order
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.05
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Local Search 1st order
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Local Search 0 order
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.18
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:McNeamar"
+
+\end_inset
+
+ McNeamar Significance Test 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In Table 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:McNeamar"
+
+\end_inset
+
+, we sorted the groups in increasing accuracy order and showed a pairwise
+ comparison between two adjacent models.
+ P-values that were below 0.01 were demonstrated two significantly different
+ models.
+ We can see that M3N, CRF, Viterbi and Greedy together, and all Local Searches
+ form four significantly different populations than the baseline.
+ The Best model is the Local Search.
+\end_layout
+
+\begin_layout Standard
+Our initial intuition of applying Averaged Perceptron approach was that
+ it will perform better since during training the model is penalized proportiona
+ly when the prediction is not like the true target.
+ This regularization proved to be helpful.
+ However, we expected that Viterbi and Greedy search would outperform Local
+ Search since the former incorporate knowledge of the past prediction 
+\begin_inset Formula $\hat{y}(t-1)$
+\end_inset
+
+ and it thought to be an important feature for deciding whether the current
+ feature should be prominent.
+ The possible explanation for that might derive from the transition features
+ that were added to the input in Viterbi and Greedy and damaged the learning.
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+M3N CRF
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
@@ -1316,8 +1651,8 @@ We know that it takes one misclassification of prominence to understand
  Introduction Section.
  Therefore, we adopted a more rigid approach that measures how many fully
  correctly classified sentences the models predicted.
- This could help understand how many times the messege was conveyed as the
- way the speaker intended.
+ This could help understand how many times we are confident that the message
+ was conveyed the way the speaker intended.
  Table 
 \begin_inset CommandInset ref
 LatexCommand ref
@@ -1567,24 +1902,50 @@ name "tab:sentence accuracy"
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-tables 
+To finalize these results we used a Binomial Test to measure significance.We
+ compared accuracies of baseline with all models that were above baseline.
+ We conducted a Binomial Test that compares between two models' accuracy
+ result and found that the Local Search 0 order is significantly different
+ than the baseline with p-value of 5.19e-75.
+ The p-value for Viterbi, Greedy, Local Search 1 and 2 with the baseline
+ is 2.22e-84.
+ Our models, therefore, were able to send a more correct messages than using
+ baseline predictions.
+ 
 \end_layout
 
-\begin_layout Plain Layout
-utt level scoring
-\end_layout
+\begin_layout Standard
+Table 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:sentence accuracy"
 
 \end_inset
 
-
+ shows that the Local, Greedy and Viterbi Search share similar pattern learning
+ that is expressed in sentence accuracy.
+ We can also infer that though the Local Search has a better accuracy result
+ on a token level it is not expressed in terms of sentence accuracy.
+ 
 \end_layout
 
 \begin_layout Section
 Conclusion
+\end_layout
+
+\begin_layout Standard
+In this research we showed that employing linguistic features extracted
+ from spontaneous speech to create a prominence predicting model were significan
+tly different than baseline guessing.
+ This knowledge can be incorporated to a TTS system to improve intelligibly
+ and to make it more natural.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
