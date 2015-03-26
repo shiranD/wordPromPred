@@ -167,8 +167,8 @@ key "cole2014listening"
 showed that the emphasized words in a sentence shape the meaning of a the
  sentence in an audio-listening perceptual test of non-expert, native speakers.
  It was also proven that incorporating prosodic cues to an utterance, in
- comparison to both arbitrary emphasis of words and monotonic speech, boosts
- up language acquisition
+ comparison to both arbitrary emphasis of words and monotonic speech, supports
+ language acquisition
 \begin_inset space ~
 \end_inset
 
@@ -194,8 +194,8 @@ key "shriberg2001speech"
 
 .
  In her research, their speech was described monotonic and 'machine like'.
- In other words, using prominence contributes to a natural and expressive
- manner of speech.
+ In other words, prominence contributes to a natural and expressive manner
+ of speech.
 \end_layout
 
 \begin_layout Standard
@@ -225,13 +225,14 @@ key "cooke2013evaluating"
 \end_inset
 
 .
- There two main reasons for which prominence can leverage performance in
- TTS systems.
- First, it conveys an intelligible message since it clarifies the meaning
+ There are two main reasons for which prominence can leverage performance
+ in TTS systems.
+ First, to convey an intelligible message in order to clarify the meaning
  of a sentence.
- Second, it can potentially make speech more natural through imitating humans'
- prominence assignments to a sentence.
- An example to illustrate the problem is brought in the next sentence: 
+ Second, to potentially make speech more natural through imitating humans'
+ prominence assignments.
+ The significance of prominence is illustrataed in the following examples:
+ 
 \begin_inset ERT
 status open
 
@@ -303,15 +304,13 @@ https://haharoni.wordpress.com/2011/10/11/hatama-02/
 
 \end_inset
 
-In reality, emphasizing 'she' as well as 'what' are both valid assignments
- of prominence.
- Having no emphasis in a sentence, by having monotonic speech, would sound
- not natural and make the hearer wonder about the purpose of the utterance.
- However, when 'she' is emphasized, we assume that our focus is on her and
- the information coming next would probably involve additional details to
- support that fact.
- The same goes with 'what' only that this time we would expect details on
- what is being said later on.
+Monotonic speech, that contains no prominence, would sound not natural and
+ make the hearer uncertain of the purpose of the utterance.
+ However, when 'she' is emphasized, in the first example, it is assumed
+ that the focus is on her and the information coming next would involve
+ additional details to support that fact.
+ The same goes with 'what' , given in the second example, only that this
+ time the expected details would be on what is being said.
 \end_layout
 
 \begin_layout Standard
@@ -325,9 +324,9 @@ properties
 \end_inset
 
 Where can we find evidence of prominence? Prominence of a word is determined
- by three parameters that are expressed in sound; A local maxima, or minima
+ by three parameters that are expressed in sound: A local maxima or minima
  of the fundamental frequency contour, longer duration of the emphasized
- unit and a high energy region of speech
+ unit, and a high energy region of speech
 \begin_inset space ~
 \end_inset
 
@@ -344,8 +343,8 @@ key "rosenberg2006correlation"
  For example, since content words tend to introduce new information, they
  are likely to be accented more often than function words.
  Another example is the presence of contrast in a sentence.
- We assume that presenting a clause that undermines the former idea is expected
- to be emphasized in order to point out the new contrastive information.
+ It is assumed that presenting a clause that undermines a former idea is
+ expected to be emphasized in order to point out the contrasting information.
  
 \begin_inset Note Note
 status collapsed
@@ -362,7 +361,7 @@ Another example that influences accent is the presence of a phrase in a
 
 \end_inset
 
-We derive additional assumptions from a recent study, according to
+According to
 \begin_inset space ~
 \end_inset
 
@@ -373,20 +372,21 @@ key "kimballavoidance"
 
 \end_inset
 
- we are not capable of perceiving clashes resulted by adjacent prominent
- words and adjust our hearing to perceive a modified sentence that detaches
- and avoids adjacency.
- This conclusion might also suggest that sentence production involves scattering
+ non experts native speakers are not capable of perceiving clashes resulted
+ by adjacent prominent words and adjust their hearing to perceive a modified
+ sentence that detaches and avoids adjacency.
+ This finding might also suggest that sentence production involves scattering
  prominence to non-prominent environments by avoiding accenting two or more
  units in a row.
 \end_layout
 
 \begin_layout Standard
-Therefore, our goal, in this research is to develop a model that better
- predicts the prominence in a sentence by examining several different sequence
- classifiers that use contextual information.
+Therefore, our goal in this research is to develop a model that better predicts
+ the prominence in a sentence by examining several different sequence classifier
+s that use contextual information.
  We use linguistic features of annotated spontaneous speech, which is known
- to be less predictive than read speech 
+ to be less predictive than read speech.
+ 
 \begin_inset Note Note
 status collapsed
 
@@ -397,14 +397,14 @@ status collapsed
 
 \end_inset
 
-, and we show that our model is significantly better than the baseline.
+We show that our model is significantly better than the baseline.
  
 \end_layout
 
 \begin_layout Standard
-In the following sections we describe prior work done in this field in Section
- 2, methods that we used to build our classifiers in Section 3, performance
- evaluation in Section 4, and conclusions in Section 5.
+In the following sections we describe prior work in Section 2, methods that
+ we used to build our classifiers in Section 3, performance evaluation in
+ Section 4, and conclusions in Section 5.
  
 \end_layout
 
@@ -501,9 +501,9 @@ Prior Work
 
 \begin_layout Standard
 The prior work in the field of predicting prominence in a sentence is divided
- to two schools of thought.
- The research that involves acoustic with or without linguistic features
- and the research that is focused only on linguistic features.
+ to two schools of thought: the research that involves acoustics with or
+ without linguistic features and the research that is focused only on linguistic
+ features.
  We will review both and point out some interesting methods that were developed.
  
 \end_layout
@@ -519,9 +519,9 @@ key "rosenberg2009detecting"
 \begin_inset space ~
 \end_inset
 
-explored what domain of acoustic analysis predicts most accurately pitch
- accents and concluded that the word level riches the highest accuracy of
- 84.2% on read speech.
+explored which domain of acoustic analysis predicts most accurately pitch
+ accents and concluded that the word level reaches the highest accuracy
+ of 84.2% on read speech.
  In another study 
 \begin_inset CommandInset citation
 LatexCommand citep
@@ -545,9 +545,9 @@ key "mehrabani2013unsupervised"
 used unsupervised learning to find several clusters to represent prominence
  level found in speech and then modeled the different clusters' relationship
  with linguistic features to predict prominence from a text.
- A German-language study that incorporated knowledge only from acoustics
+ A German-language study that incorporated knowledge only from acoustics,
  used features like nucleus duration, spectral emphasis, pitch movements,
- and intensity showed correlation between perceptual tests to predicted
+ and intensity to show correlation between perceptual tests to their predicted
  prominence
 \begin_inset space ~
 \end_inset
@@ -563,7 +563,7 @@ key "tamburini2007automatic"
 \end_layout
 
 \begin_layout Standard
-Linguistic-wise, there are several sturdies that utilized the syntactic
+In linguistic studies the researchers' focus is on utilizing the syntactic
  information.
  
 \begin_inset CommandInset citation
@@ -576,9 +576,9 @@ key "windmann2011prominence"
 \begin_inset space ~
 \end_inset
 
-developed a rule-based voting system based on features such as Part of Speech
- tags and dictionary based stress assignments to words to determine the
- prominence assignment.
+developed a rule-based voting system based on features such as part of speech
+ tags, and dictionary based stress assignments, to determine the prominence
+ assignment.
  Another study 
 \begin_inset CommandInset citation
 LatexCommand citep
@@ -586,11 +586,11 @@ key "brenier2006non"
 
 \end_inset
 
- suggests using interesting features such as the frequency of a word, the
- type of noun, and accent ratio which eventually results in a 77% accuracy
- result on spontaneous speech.
- And later, using features found in Switchboard conversational corpus such
- as contrast led to 76.58% in accuracy
+ suggests that using interesting features such as the frequency of a word,
+ the type of a noun, and accent ratio which eventually results in a 77%
+ in accuracy on spontaneous speech.
+ Using features found in Switchboard spontaneous corpus such as contrast
+ led to 76.58% in accuracy
 \begin_inset space ~
 \end_inset
 
@@ -615,8 +615,8 @@ Not convincing enough
 
 \end_inset
 
-We would like then to offer a better linguistic-based solution to predict
- prominence on conversational speech and .
+We would like to offer a better linguistic-based solution to predict prominence
+ on spontaneous speech and .
  Next, we'll present our methods and set of features we chose to use.
 \end_layout
 
@@ -636,8 +636,8 @@ key "godfrey1992switchboard"
 
 \end_inset
 
-on annotated conversational speech.
- We used 40,647 tokens that created in 6425 sentences (or sequences).
+on annotated spontaneous speech.
+ We used 40,647 tokens that created in 6,425 sentences (or sequences).
  The corpus offers various features added from Penn Treebank and MS-State
  Transcript projects.
  The features we used were: 
@@ -701,8 +701,8 @@ containing groups of words that were assigned with a different prosody such
 \series bold
 Accent 
 \series default
-containing the information on level of prominence assigned to each token;
- full, weak, and none.
+containing the information on level of prominence assigned to each token:
+ 'full', 'weak', and 'none'.
 \end_layout
 
 \begin_layout Subsection
@@ -711,43 +711,43 @@ Features
 
 \begin_layout Standard
 We extracted information from Switchboard and added additional features
- that may tell further about the accent which is our target prediction in
+ that may further tell about the accent which is our target prediction in
  our experiment.
  
 \end_layout
 
 \begin_layout Standard
-in Figure 
+In Figure 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "fig:feature-set"
 
 \end_inset
 
- the blue represents the feature set, referred to as 
+ the blue represents the feature set referred to as 
 \begin_inset Formula $X$
 \end_inset
 
 .
- Our feature set was: the word, it's part of speech, its collapsed part
- of speech, whether its a function and a negation word, the token's syllable's
+ Our feature set was: the word, its part of speech, its collapsed part of
+ speech, whether it is a function and a negation word, the token's syllable's
  vowel-group by order, the token's nucleus, nucleus kind, kontrast level,
- kontrast type, whether it's a phrase, phrase kind, and the description
+ kontrast type, whether it is a phrase, phrase kind, and the description
  of the discourse.
- In pink there's the true target 
+ In pink there is the true target 
 \begin_inset Formula $y$
 \end_inset
 
  describing the accent.
- In this case only 'pretty' is assigned with 'full' type of accent and all
- the rest are assigned with 'none' accent.
+ In this case, only 'pretty' is assigned with 'full' type of accent and
+ all the rest are assigned with 'none' accent.
 \end_layout
 
 \begin_layout Standard
 \begin_inset Float figure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \align center
@@ -761,7 +761,7 @@ status open
 \begin_inset Graphics
 	filename featset1.pdf
 	lyxscale 40
-	scale 40
+	scale 35
 
 \end_inset
 
@@ -816,7 +816,7 @@ ab=repositories).
 \end_layout
 
 \begin_layout Enumerate
-Local Search - we employed three models; Zero order, First order and Second
+Local Search -- we employed three models: zero order, first order, and second
  order.
  Zero orders's input contained feature set in time 
 \begin_inset Formula $t$
@@ -852,7 +852,7 @@ Local Search - we employed three models; Zero order, First order and Second
 \end_layout
 
 \begin_layout Enumerate
-Greedy Search - we employed an input that contained feature set of time
+Greedy Search -- we employed an input that contained feature set of time
  
 \begin_inset Formula $t$
 \end_inset
@@ -861,7 +861,7 @@ Greedy Search - we employed an input that contained feature set of time
 \begin_inset Formula $t-1$
 \end_inset
 
- .
+.
  
 \begin_inset Formula $X(t)$
 \end_inset
@@ -875,7 +875,7 @@ Greedy Search - we employed an input that contained feature set of time
 \end_layout
 
 \begin_layout Enumerate
-Viterbi Search - we employed First order Viterbi algorithm 
+Viterbi Search -- we employed First order Viterbi algorithm 
 \begin_inset CommandInset citation
 LatexCommand citep
 key "viterbi1967error"
@@ -886,7 +886,7 @@ key "viterbi1967error"
 \end_layout
 
 \begin_layout Enumerate
-Condiitonal Random Fields (CRF) Search - we employed an input that contained
+Conditional Random Fields (CRF) Search -- we employed an input that contained
  
 \begin_inset Formula $X(t)$
 \end_inset
@@ -911,7 +911,7 @@ key "lafferty2001conditional"
 \end_layout
 
 \begin_layout Enumerate
-Max Margin Markov Networks (M3N) Search - we employed an input that contained
+Max Margin Markov Networks (M3N) Search -- we employed an input that contained
  
 \begin_inset Formula $X(t)$
 \end_inset
@@ -936,10 +936,9 @@ key "roller2004max"
 \end_layout
 
 \begin_layout Enumerate
-Baseline - our baseline was set by guessing the most probable target.
- In our experiment the guess was 'none' accent type because of the nature
- of our speech such that prominence is assigned only once in a while to
- distiguish itself from its enviroment.
+Baseline -- our baseline was set by guessing the most probable target found
+ in the database.
+ In our experiment the guess was 'none' accent type.
 \end_layout
 
 \begin_layout Section
@@ -947,8 +946,8 @@ Results
 \end_layout
 
 \begin_layout Standard
-We perfomed a 10 fold cross-validation test and averaged over all accuracy
- results for token and sentence level tests.
+We perfomed a 10 fold cross-validation test and averaged all accuracy results
+ for token and sentence level tests.
 \end_layout
 
 \begin_layout Subsection
@@ -956,10 +955,9 @@ Token Level Accuracy
 \end_layout
 
 \begin_layout Standard
-The models were tested to for their token accuracy.
+The models were tested for their token accuracy.
  Accuracy was measured by counting the correct classifications over all
  classifications.
- .
  Table 
 \begin_inset CommandInset ref
 LatexCommand ref
@@ -968,11 +966,10 @@ reference "tab:token accuracy"
 \end_inset
 
  describes the accuracy of the classifications using the models.
- We notice that the Local Search performed the best of all, the Viterbi
- and the Greaddy were close to eachother and the CRF as well as the M3N
- were not a good as the other models.
- All models performed better than the basline but we needed to understand
- how significant are these results.
+ We notice that all Local Searches performed the best, the Viterbi and the
+ Gready were close to each other and the CRF as well as the M3N were not
+ as good as the other models.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -980,7 +977,7 @@ reference "tab:token accuracy"
 placement H
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \noindent
@@ -1214,7 +1211,9 @@ name "tab:token accuracy"
 \end_layout
 
 \begin_layout Standard
-Next, we applied Wilson Confidence Interval 
+All models performed better than the basline but we needed to understand
+ how significant results were.
+ Next, we applied Wilson Confidence Interval 
 \begin_inset CommandInset citation
 LatexCommand citep
 key "wallis2013binomial"
@@ -1222,7 +1221,7 @@ key "wallis2013binomial"
 \end_inset
 
  to have a better idea of whether the models are different or that their
- confidence interval overlaps.
+ confidence interval overlap and they were driven from the same population.
  Looking at Figure 
 \begin_inset CommandInset ref
 LatexCommand ref
@@ -1230,12 +1229,13 @@ reference "fig:wilson"
 
 \end_inset
 
- we noticed that there all models seem to differ than the basline since
- none overlaps with it.
- We also saw that Local search on all its order demostrates overlap within
- group but does not overlap with Gready and Viterbi which seem to be the
- overlap too.
- CRF and M3N do not seem to represent a similar popuolation as well.
+, we noticed that all models seem to differ than the basline since none
+ overlap with it.
+ We also saw that Local Searches demostrates overlap within group but does
+ not overlap with Gready and Viterbi.
+ Gready and Viterbi overlap but do not overlap with CRF.
+ For the same reason, CRF and M3N do not seem to represent a similar population
+ as well .
 \end_layout
 
 \begin_layout Standard
@@ -1301,11 +1301,9 @@ key "fagerland2013mcnemar"
 \end_inset
 
  test to determine the significance of our results.
- In this test our main interset was to undestand the gain of using one model
- over another.
- The analysis here was examining within the correctly classified results
- compare how many true positive and how many true negtive were predicted
- -- this determine the differences in models populations.
+ Mcneamar test compares two models in terms of how many true positive and
+ true negtive were predicted in each model -- this determine the differences
+ in model populations.
 \end_layout
 
 \begin_layout Subsection
@@ -1313,14 +1311,13 @@ Sentence Level Accuracy
 \end_layout
 
 \begin_layout Standard
-The models we implemented should also be analyzed on a macro level which
- is a sentence-wise success.
- The reason for this approach stems from the assumption that it requires
- just one misclassification which did not predict that the token was supposed
- to be prominent and the entire sentence is misunderstood.
- Therefore, a more rigid test would be to see how many complete sentences
- were predicted as to understand how many times we were able to convey our
- message.
+We know that it takes one misclassification of prominence to understand
+ the sentence entirely differently as seen in the examples given in the
+ Introduction Section.
+ Therefore, we adopted a more rigid approach that measures how many fully
+ correctly classified sentences the models predicted.
+ This could help understand how many times the messege was conveyed as the
+ way the speaker intended.
  Table 
 \begin_inset CommandInset ref
 LatexCommand ref
