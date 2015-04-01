@@ -106,6 +106,10 @@ status open
 Confirmation Number: 1309 Submission Passcode: 1309X-C3A3G6P3E8
 \end_layout
 
+\begin_layout Plain Layout
+Confirmation Number: 1309 Submission Passcode: 1309X-C3A3G6P3E8 
+\end_layout
+
 \end_inset
 
 
@@ -140,7 +144,7 @@ definition
 
 \end_inset
 
-Prominent words in a sentence focusses the listener's attention to a new
+Prominent words in a sentence focuses the listener's attention to a new
  concept presented by the speaker
 \begin_inset space ~
 \end_inset
@@ -189,7 +193,7 @@ key "shriberg2001speech"
 
 \end_inset
 
-and has been described as 'machine-like'.
+ and has been described as 'machine-like'.
  All this suggests that appropriate use of word prominence is an important
  component of natural and expressive speech.
 \end_layout
@@ -294,12 +298,12 @@ https://haharoni.wordpress.com/2011/10/11/hatama-02/
 
 \end_inset
 
-Monotonic speech, that contains no prominence, would sound not natural and
+Monotonic speech, that contains no prominence, would sound unnatural and
  make the hearer uncertain of the purpose of the utterance.
- However, when 'she' is emphasized, in the first example, it is assumed
+ However, when `she` is emphasized, in the first example, it is assumed
  that the focus is on her and the information coming next would involve
  additional details to support that fact.
- The same goes with 'what' , given in the second example, only that this
+ The same goes with `wha` , given in the second example, only that this
  time the expected details would be on what is being said.
  Secondly, appropriately placed prominences may serve to make synthesized
  speech more natural.
@@ -339,7 +343,7 @@ key "rosenberg2006correlation"
  expected to be emphasized in order to point out the contrasting information.One
  key linguistic intuition in the model we propose is the idea that speakers
  tend to avoid ``clashes''---sequences of adjacent prominent words---and
- long ``lapses''--sequences of -adjacent non-prominent words.
+ long ``lapses''--sequences of adjacent non-prominent words.
  
 \begin_inset Note Note
 status collapsed
@@ -494,10 +498,10 @@ key "rosenberg2009detecting"
 
 \end_inset
 
-pitch accent prediction in a variety of domains and found that word level
- lead to the highest accuracy predictions; their model achieved 84.2% prediction
- accuracy on read speech.
- Pitch accent is the observed change in pitch that is reffereed to as prominence.
+studied pitch accent prediction in a variety of domains and found that word
+ level led to the highest accuracy predictions; their model achieved 84.2%
+ prediction accuracy on read speech.
+ Pitch accent is the observed change in pitch that is refereed to as prominence.
  
 \begin_inset CommandInset citation
 LatexCommand citet
@@ -660,11 +664,11 @@ Nucleus: the vowel label of the nucleus of the primary stressed syllable
 \end_layout
 
 \begin_layout Itemize
-Nucleus type: is the type of noclues that receives _primary stress_
+Nucleus type: is the type of nucleus that receives primary stress
 \end_layout
 
 \begin_layout Itemize
-Kontrast: kontrast level and kontrast type as defined in the the database
+Kontrast: kontrast level and kontrast type as defined in the database
 \end_layout
 
 \begin_layout Itemize
@@ -693,8 +697,8 @@ statement
 \end_layout
 
 \begin_layout Standard
-Finally, we used as the outcome variable the three prominence levels: 'full',
- 'weak', and 'none'.
+Finally, we used as the outcome variable the three prominence levels: `full`,
+ `weak`, and `none`.
 \end_layout
 
 \begin_layout Standard
@@ -851,11 +855,11 @@ Local Search (
 \begin_inset Formula $L$
 \end_inset
 
-): : the ``zero order'' model -- 
+): the ``zero order'' model -- 
 \begin_inset Formula $L_{0}$
 \end_inset
 
--- modeemploys only textual features of the current observation (
+-- mode employs only textual features of the current observation (
 \begin_inset Formula $X_{t}$
 \end_inset
 
@@ -950,7 +954,7 @@ key "roller2004max"
 \end_layout
 
 \begin_layout Enumerate
-Baseline -- our baseline was set by guessing the most probable target found
+Baseline: our baseline was set by guessing the most probable target found
  in the database.
  In our experiment the guess was 'none' accent type.
 \end_layout
@@ -1237,7 +1241,7 @@ name "tab:token accuracy"
 \end_layout
 
 \begin_layout Standard
-All models performed better than the basline but we needed to understand
+All models performed better than the baseline but we needed to understand
  how significant results were.
  Next, we applied 
 \begin_inset Formula $95\%$
@@ -1259,13 +1263,14 @@ reference "fig:wilson"
 
 \end_inset
 
-, we noticed that all models seem to differ than the basline since none
+, we noticed that all models seem to differ than the baseline since none
  overlap with it.
  We also saw that 
 \begin_inset Formula $L$
 \end_inset
 
- demostrates overlap within group but does not overlap with Greedy and Viterbi.
+ demonstrates overlap within group but does not overlap with Greedy and
+ Viterbi.
  Greedy and Viterbi overlap but do not overlap with CRF.
  For the same reason, CRF and M3N do not seem to represent a similar population
  as well.
@@ -1720,7 +1725,7 @@ status open
 \begin_layout Plain Layout
 Our initial intuition of applying Averaged Perceptron approach was that
  it will perform better since during training the model is penalized proportiona
-ly when the prediction is not like the true target.
+lly when the prediction is not like the true target.
  This regularization proved to be helpful.
  However, we expected that Viterbi and Greedy search would outperform Local
 \end_layout
@@ -1826,7 +1831,7 @@ Accuracy[%]
 \begin_inset Text
 
 \begin_layout Plain Layout
-Basline
+Baseline
 \end_layout
 
 \end_inset
