@@ -1,6 +1,21 @@
+#Copyright (c) 2015 Shiran Dudy.
+#All rights reserved.
+
+#Redistribution and use in source and binary forms are permitted
+#provided that the above copyright notice and this paragraph are
+#duplicated in all such forms and that any documentation,
+#advertising materials, and other materials related to such
+#distribution and use acknowledge that the software was developed
+#by the CSLU. The name of the
+#CSLU may not be used to endorse or promote products derived
+#from this software without specific prior written permission.
+#THIS SOFTWARE IS PROVIDED ``AS IS'' AND WITHOUT ANY EXPRESS OR
+#IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED
+#WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
 from os import walk
 import json
-from random import sample, shuffle
+from random import sample, shuffle, seed
 
 # prepare the data 
 
@@ -117,7 +132,7 @@ def load_data(datapath):
 
     X_data = []
     y_data = []
-    #h=0
+
     last_dialAct = "n" # do it by dialect ID    
     for (i, supdir) in enumerate(walk(datapath)):
         prefix = supdir[0] + '/'
@@ -140,9 +155,6 @@ def load_data(datapath):
                 if jdict["seq"]!=last_dialAct:
                     if feat:
                         feat.append("ultimate_w")
-                    #h+=1
-                    #if h ==78:
-                        #print h
                     X_data.append(X_seq)
                     y_data.append(y_seq)
                     X_seq = []
@@ -150,7 +162,8 @@ def load_data(datapath):
                     g=0
                     
                 else:
-                    g+=1                   
+                    g+=1
+                    feat.append("between") 
                 last_dialAct=jdict["seq"]                
                 
                 # read json as dict
@@ -159,49 +172,56 @@ def load_data(datapath):
                  
                 feat.append("word="+jdict["word"])
                 feat.append("tag="+jdict["tag"])
-                feat.append("cltag="+jdict["collps_tag"])
-                feat.append("func="+str(jdict["function"]))
-                feat.append("neg="+str(jdict["negation"]))
-                feat.append("0="+jdict["0"])
-                feat.append("1="+jdict["1"])
-                feat.append("2="+jdict["2"])
-                feat.append("3="+jdict["3"])
-                feat.append("4="+jdict["4"])
-                feat.append("5="+jdict["5"])
-                feat.append("6="+jdict["6"])
-                feat.append("nuc="+jdict["nuc"])
-                feat.append("nuc_kind="+jdict["nuc_kind"])
-                feat.append("left_nuc="+jdict["left_nuc"])
-                feat.append("right_nuc="+jdict["right_nuc"])
-                feat.append("right_kind="+jdict["right_nuc_kind"])
-                feat.append("dialAct="+jdict["dialAct"])
-                feat.append("phrases="+jdict["phrases"])
-                feat.append("kon_type="+jdict["kontrast type"])
-                feat.append("kon_level="+jdict["kontrast level"])
+                #feat.append("cltag="+jdict["collps_tag"])
+                #feat.append("func="+str(jdict["function"]))
+                #feat.append("neg="+str(jdict["negation"]))
                 
+                #feat.append("0="+jdict["0"])
+                #feat.append("1="+jdict["1"])
+                #feat.append("2="+jdict["2"])
+                #feat.append("3="+jdict["3"])
+                #feat.append("4="+jdict["4"])
+                #feat.append("5="+jdict["5"])
+                #feat.append("6="+jdict["6"])
+                #feat.append("nuc="+jdict["nuc"])
+                #feat.append("nuc_kind="+jdict["nuc_kind"])
+                #feat.append("left_nuc="+jdict["left_nuc"])
+                #feat.append("right_nuc="+jdict["right_nuc"])
+                #feat.append("right_kind="+jdict["right_nuc_kind"])
+                
+                #feat.append("dialAct="+jdict["dialAct"])
+                feat.append("phrases="+jdict["phrases"])
+                #feat.append("kon_type="+jdict["kontrast type"])
+                #feat.append("kon_level="+jdict["kontrast level"])
+                
+                #if g==0:
+                    #feat.append("initial_w")
+                #if g==1:
+                    #feat.append("second_w")                
                 if g==0:
                     feat.append("initial_w")
-                if g==1:
-                    feat.append("second_w")                
-                                
+                elif g==1:
+                    feat.append("second_w")
+                else:
+                    feat.append("middle")                 
 
                 try:  # remove Y values from dict to create Y
                     accent = jdict["accents_strength"]
                     del jdict["accents_strength"]
                 except:
                     accent = "0"
-                    
+
                 X_seq.append(feat)
                 #if len(X_seq)==13:
                     #print "13"
                 
                 # labels cannot be "0"
-                if accent == "full":
-                    y_seq.append("0")
-                elif accent == "weak":
-                    y_seq.append("1")
-                else:
+                if accent == "full" or accent == "weak":
                     y_seq.append("2")
+               # elif accent == "weak":
+                    #y_seq.append("1")
+                else:
+                    y_seq.append("0")
 
                 
         X_data.append(X_seq)
@@ -232,6 +252,7 @@ def k_fold_cross_validation(data_path, k=10, randomize=False):
     all_d = load_data(data_path)
 
     if randomize:
+        rnd_seed = "stay"
         shuffle(all_d)
 
     slices = [all_d[i::k] for i in xrange(k)]
