@@ -1,9 +1,22 @@
 #! /opt/local/bin/python -O
 # MP4 skeleton implementation
 # Kyle Gorman <gormanky@ohsu.edu>
+# taken from NLP class at OHSU from http://www.cslu.ogi.edu/~gormanky/courses/CS662/
+# this code was modifed by Shiran Dudy <dudy@ohsu.edu>
+
+#Redistribution and use in source and binary forms are permitted
+#provided that the above copyright notice and this paragraph are
+#duplicated in all such forms and that any documentation,
+#advertising materials, and other materials related to such
+#distribution and use acknowledge that the software was developed
+#by the CSLU. The name of the
+#CSLU may not be used to endorse or promote products derived
+#from this software without specific prior written permission.
+#THIS SOFTWARE IS PROVIDED ``AS IS'' AND WITHOUT ANY EXPRESS OR
+#IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED
+#WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
 
 from __future__ import division
-
 
 from random import Random, sample
 from nltk import str2tuple
@@ -16,6 +29,8 @@ from collections import defaultdict
 from perceptron import LazyWeight
 from dataPrep import k_fold_cross_validation
 import numpy as np
+from sklearn import metrics
+from ac import accent_ratio, add_to_xes, add_to_xes2
 
 
 DIGIT = "*DIGIT*"
@@ -157,10 +172,8 @@ class AveragedPerceptronTagger(object):
         """
         yyhat = []
         phis = []
-        last_e_phi = []
         for e_phi in efeats:
-            #phi = e_phi + tfeats(yyhat, self.order)
-            phi = e_phi + last_e_phi
+            phi = e_phi
             yhat = self.predict(phi)
             yyhat.append(yhat)
             phis.append(phi)
@@ -201,16 +214,27 @@ class AveragedPerceptronTagger(object):
         accuracy
         """
         corect=0
-        incorect=0        
+        incorect=0   
+        all_pre = []
+        all_tru = []
+        per_sen = 0
         for (tokens, tags) in zip(feats, tag_set):
-            yyhat= self.tag(tokens)
+            yyhat= self.tag(tokens)     
+            all_pre.extend(yyhat)
+            all_tru.extend(tags)
+            cor_sen = 0
             for pre, tag in zip(yyhat, tags):
                 if pre==tag:
                     corect+=1
+                    cor_sen+=1
                 else:
                     incorect+=1
-
-        return corect/(corect+incorect)
+            if cor_sen == len(yyhat):
+                per_sen+=1
+                
+        print metrics.recall_score(all_pre, all_tru, average=None)
+                
+        return corect/(corect+incorect), per_sen/len(tag_set) #nul/corect, ful/corect
                 
     def register_classes(self, claslist):
         """register classes"""
@@ -222,23 +246,28 @@ if __name__ == "__main__":
     
     path = '../out_85175'
     acc40 = []
+    rate = []    
 
     # the same set!
     for X_train, y_train, X_test, y_test in k_fold_cross_validation(path, 10,randomize=True): 
+        print len(y_train)
+        continue
+        # 40
+        # find accent ratio
+        ar_dict = accent_ratio(X_train, y_train)
+        X_train, X_test = add_to_xes(X_train, X_test, ar_dict)
+        # add IC feature
+        icPath = "../icJson"
+        X_train, X_test = add_to_xes2(X_train, X_test, icPath)        
         
-        # 5
-        tagger = AveragedPerceptronTagger(order=2)
-        tagger.register_classes(["0", "1", "2"])
+        
+        tagger = AveragedPerceptronTagger(order=1)
+        tagger.register_classes(["0", "2"])        
         tagger.fit(X_train, y_train, epochs=40)
-        ac = tagger.evaluate(X_test, y_test)
-        acc40.append(ac)        
+        ac, sen_rate = tagger.evaluate(X_test, y_test)
+        acc40.append(ac) 
+        rate.append(sen_rate)
         
-        
-    print "Accuracy over 10-fold 40 epoch: {:.4f}".format(np.mean(acc40))
-
-        
-    #X_train, y_train, X_test, y_test = data_prep()    
-    #tagger = AveragedPerceptronTagger(order=2)    
-    #tagger.fit(X_train, y_train, epochs=20)
-    #accuracy = tagger.evaluate(X_test, y_test)
-    #print "Accuracy: {:.4f}".format(accuracy)
+    print "order 1"
+    #print "Accuracy over 10-fold 40 epoch: {:.4f}".format(np.mean(acc40))
+    #print "Succesful sentence rate 10-fold 40 epoch: {:.4f}".format(np.mean(rate)) 

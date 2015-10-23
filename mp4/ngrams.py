@@ -1,7 +1,19 @@
 #! /opt/local/bin/python -O
 # ngrams.py: get a stream of n-grams from a corpus
 # Kyle Gorman <gormanky@ohsu.edu> and Steven Bedrick <bedricks@ohsu.edu>
+# taken from NLP class at OHSU from http://www.cslu.ogi.edu/~gormanky/courses/CS662/
 
+#Redistribution and use in source and binary forms are permitted
+#provided that the above copyright notice and this paragraph are
+#duplicated in all such forms and that any documentation,
+#advertising materials, and other materials related to such
+#distribution and use acknowledge that the software was developed
+#by the CSLU. The name of the
+#CSLU may not be used to endorse or promote products derived
+#from this software without specific prior written permission.
+#THIS SOFTWARE IS PROVIDED ``AS IS'' AND WITHOUT ANY EXPRESS OR
+#IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED
+#WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
 
 def ngrams(corpus, order):
     """
